@@ -35,17 +35,34 @@ def load_zillow(path=ZILLOW_FILE) -> pd.DataFrame:
     return long[["city", "month", "zhvi"]].sort_values(["city", "month"]).reset_index(drop=True)
 
 
+def resolve_redfin_path(path=REDFIN_FILE):
+    """Accept the plain .tsv or a gzipped copy next to it."""
+    for candidate in (path, path.with_suffix(".tsv.gz"), path.with_suffix(".tsv000.gz")):
+        if candidate.exists():
+            return candidate
+    return None
+
+
 def load_redfin(path=REDFIN_FILE) -> pd.DataFrame:
-    """Redfin city market tracker (tab-separated)."""
-    df = pd.read_csv(path, sep="\t")
-    if "property_type" in df.columns:
-        df = df[df["property_type"] == "All Residential"]
-    if "period_duration" in df.columns:
-        df = df[df["period_duration"] == 30]  # monthly rows
-    df["city"] = df["region"].str.split(",").str[0].map(normalize_city)
+    """Redfin city market tracker (tab-separated, optionally gzipped).
+
+    The national file is ~GB scale, so it is read in chunks and filtered to the
+    configured California cities as it streams.
+    """
+    usecols = None  # column names vary by release; filter after reading
+    parts = []
+    for chunk in pd.read_csv(path, sep="\t", chunksize=500_000, usecols=usecols):
+        if "property_type" in chunk.columns:
+            chunk = chunk[chunk["property_type"] == "All Residential"]
+        if "period_duration" in chunk.columns:
+            chunk = chunk[chunk["period_duration"] == 30]  # monthly rows
+        if "state_code" in chunk.columns:
+            chunk = chunk[chunk["state_code"] == STATE]
+        chunk = chunk.assign(city=chunk["region"].str.split(",").str[0].map(normalize_city))
+        parts.append(chunk[chunk["city"].isin(CITIES)])
+    df = pd.concat(parts, ignore_index=True)
     df["month"] = to_month_start(df["period_begin"])
     df = df.rename(columns={"median_dom": "days_on_market"})
-    df = df[df["city"].isin(CITIES)]
     cols = ["city", "month", "median_sale_price", "inventory", "days_on_market"]
     return df[cols].sort_values(["city", "month"]).reset_index(drop=True)
 
@@ -65,8 +82,9 @@ def main() -> None:
         "home_values": load_zillow(),
         "mortgage_rates": load_fred(),
     }
-    if REDFIN_FILE.exists():
-        tables["market_stats"] = load_redfin()
+    redfin_path = resolve_redfin_path()
+    if redfin_path:
+        tables["market_stats"] = load_redfin(redfin_path)
     else:
         print(f"Skipping market_stats: {REDFIN_FILE.name} not found in {RAW_DIR}")
     with sqlite3.connect(DB_PATH) as conn:

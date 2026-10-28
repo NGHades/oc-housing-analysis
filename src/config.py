@@ -8,9 +8,9 @@ REPORTS_DIR = ROOT / "reports"
 CHARTS_DIR = REPORTS_DIR / "charts"
 
 # Redfin's S3 bucket denies anonymous downloads (403), so redfin_city_market_tracker.tsv
-# must be downloaded manually from redfin.com/news/data-center/downloads/ and is optional.
+# (or .tsv.gz) must be downloaded manually from redfin.com/news/data-center/downloads/ and is optional.
 ZILLOW_FILE = RAW_DIR / "zillow_zhvi_city.csv"
-REDFIN_FILE = RAW_DIR / "redfin_city_market_tracker.tsv"
+REDFIN_FILE = RAW_DIR / "redfin_city_market_tracker.tsv"  # a .tsv000.gz of the same name also works
 FRED_FILE = RAW_DIR / "fred_mortgage30us.csv"
 
 STATE = "CA"
