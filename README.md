@@ -74,3 +74,14 @@ _To be completed after the analysis runs._
 - Add an optional natural-language query layer that drafts read-only SQL, with validation.
 
 See `design.md` for the full plan.
+
+## Web Frontend
+
+A Next.js dashboard (`web/`, based on the Tremor "Overview" template) shows progress reports: overview, cities, mortgage rates, and data quality.
+
+```bash
+python src/export_web.py      # writes web/src/data/housing.json from the database
+cd web && npm install && npm run dev   # http://localhost:3000
+```
+
+Re-run `export_web.py` after `ingest.py` / `validate.py` to refresh the dashboard.

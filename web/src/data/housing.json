@@ -1,0 +1,8280 @@
+{
+ "generated": "2026-10-27",
+ "latest_price_month": "2026-09",
+ "cities": [
+  "Anaheim",
+  "Costa Mesa",
+  "Fountain Valley",
+  "Fullerton",
+  "Garden Grove",
+  "Huntington Beach",
+  "Irvine",
+  "Newport Beach",
+  "Santa Ana",
+  "Tustin",
+  "Westminster"
+ ],
+ "prices": [
+  {
+   "month": "2000-01",
+   "Anaheim": 205727.0,
+   "Costa Mesa": 263454.0,
+   "Fountain Valley": 260864.0,
+   "Fullerton": 240793.0,
+   "Garden Grove": 187975.0,
+   "Huntington Beach": 283915.0,
+   "Irvine": 293080.0,
+   "Newport Beach": 658804.0,
+   "Santa Ana": 162593.0,
+   "Tustin": 236143.0,
+   "Westminster": 232227.0
+  },
+  {
+   "month": "2000-02",
+   "Anaheim": 207649.0,
+   "Costa Mesa": 265871.0,
+   "Fountain Valley": 263147.0,
+   "Fullerton": 243053.0,
+   "Garden Grove": 189669.0,
+   "Huntington Beach": 286503.0,
+   "Irvine": 295602.0,
+   "Newport Beach": 665542.0,
+   "Santa Ana": 164189.0,
+   "Tustin": 238005.0,
+   "Westminster": 234193.0
+  },
+  {
+   "month": "2000-03",
+   "Anaheim": 209037.0,
+   "Costa Mesa": 267508.0,
+   "Fountain Valley": 264722.0,
+   "Fullerton": 244773.0,
+   "Garden Grove": 190976.0,
+   "Huntington Beach": 288390.0,
+   "Irvine": 297350.0,
+   "Newport Beach": 670277.0,
+   "Santa Ana": 165382.0,
+   "Tustin": 239505.0,
+   "Westminster": 235701.0
+  },
+  {
+   "month": "2000-04",
+   "Anaheim": 211906.0,
+   "Costa Mesa": 271000.0,
+   "Fountain Valley": 267861.0,
+   "Fullerton": 248174.0,
+   "Garden Grove": 193644.0,
+   "Huntington Beach": 292200.0,
+   "Irvine": 300951.0,
+   "Newport Beach": 679306.0,
+   "Santa Ana": 167822.0,
+   "Tustin": 242457.0,
+   "Westminster": 238730.0
+  },
+  {
+   "month": "2000-05",
+   "Anaheim": 214461.0,
+   "Costa Mesa": 274060.0,
+   "Fountain Valley": 270580.0,
+   "Fullerton": 251014.0,
+   "Garden Grove": 196068.0,
+   "Huntington Beach": 295442.0,
+   "Irvine": 304039.0,
+   "Newport Beach": 686672.0,
+   "Santa Ana": 170049.0,
+   "Tustin": 245055.0,
+   "Westminster": 241465.0
+  },
+  {
+   "month": "2000-06",
+   "Anaheim": 217232.0,
+   "Costa Mesa": 277333.0,
+   "Fountain Valley": 273477.0,
+   "Fullerton": 253872.0,
+   "Garden Grove": 198665.0,
+   "Huntington Beach": 298791.0,
+   "Irvine": 307317.0,
+   "Newport Beach": 694117.0,
+   "Santa Ana": 172395.0,
+   "Tustin": 247767.0,
+   "Westminster": 244319.0
+  },
+  {
+   "month": "2000-07",
+   "Anaheim": 220080.0,
+   "Costa Mesa": 280648.0,
+   "Fountain Valley": 276502.0,
+   "Fullerton": 256939.0,
+   "Garden Grove": 201458.0,
+   "Huntington Beach": 302257.0,
+   "Irvine": 310709.0,
+   "Newport Beach": 701786.0,
+   "Santa Ana": 174839.0,
+   "Tustin": 250674.0,
+   "Westminster": 247190.0
+  },
+  {
+   "month": "2000-08",
+   "Anaheim": 222807.0,
+   "Costa Mesa": 283833.0,
+   "Fountain Valley": 279330.0,
+   "Fullerton": 260084.0,
+   "Garden Grove": 204228.0,
+   "Huntington Beach": 305660.0,
+   "Irvine": 314065.0,
+   "Newport Beach": 709278.0,
+   "Santa Ana": 177156.0,
+   "Tustin": 253678.0,
+   "Westminster": 249970.0
+  },
+  {
+   "month": "2000-09",
+   "Anaheim": 225323.0,
+   "Costa Mesa": 286906.0,
+   "Fountain Valley": 282136.0,
+   "Fullerton": 263103.0,
+   "Garden Grove": 206997.0,
+   "Huntington Beach": 308974.0,
+   "Irvine": 317388.0,
+   "Newport Beach": 717454.0,
+   "Santa Ana": 179358.0,
+   "Tustin": 256606.0,
+   "Westminster": 252650.0
+  },
+  {
+   "month": "2000-10",
+   "Anaheim": 227903.0,
+   "Costa Mesa": 290095.0,
+   "Fountain Valley": 285194.0,
+   "Fullerton": 266044.0,
+   "Garden Grove": 209885.0,
+   "Huntington Beach": 312427.0,
+   "Irvine": 320971.0,
+   "Newport Beach": 726840.0,
+   "Santa Ana": 181493.0,
+   "Tustin": 259649.0,
+   "Westminster": 255642.0
+  },
+  {
+   "month": "2000-11",
+   "Anaheim": 230176.0,
+   "Costa Mesa": 292953.0,
+   "Fountain Valley": 288008.0,
+   "Fullerton": 268539.0,
+   "Garden Grove": 212534.0,
+   "Huntington Beach": 315518.0,
+   "Irvine": 324224.0,
+   "Newport Beach": 735435.0,
+   "Santa Ana": 183322.0,
+   "Tustin": 262370.0,
+   "Westminster": 258253.0
+  },
+  {
+   "month": "2000-12",
+   "Anaheim": 232621.0,
+   "Costa Mesa": 296056.0,
+   "Fountain Valley": 291122.0,
+   "Fullerton": 271229.0,
+   "Garden Grove": 215223.0,
+   "Huntington Beach": 318829.0,
+   "Irvine": 327779.0,
+   "Newport Beach": 743735.0,
+   "Santa Ana": 185402.0,
+   "Tustin": 265368.0,
+   "Westminster": 260988.0
+  },
+  {
+   "month": "2001-01",
+   "Anaheim": 234583.0,
+   "Costa Mesa": 298485.0,
+   "Fountain Valley": 293815.0,
+   "Fullerton": 273384.0,
+   "Garden Grove": 217238.0,
+   "Huntington Beach": 321525.0,
+   "Irvine": 330504.0,
+   "Newport Beach": 750277.0,
+   "Santa Ana": 187196.0,
+   "Tustin": 267841.0,
+   "Westminster": 263198.0
+  },
+  {
+   "month": "2001-02",
+   "Anaheim": 236995.0,
+   "Costa Mesa": 301546.0,
+   "Fountain Valley": 297278.0,
+   "Fullerton": 276076.0,
+   "Garden Grove": 219662.0,
+   "Huntington Beach": 324898.0,
+   "Irvine": 333820.0,
+   "Newport Beach": 758405.0,
+   "Santa Ana": 189495.0,
+   "Tustin": 270851.0,
+   "Westminster": 265984.0
+  },
+  {
+   "month": "2001-03",
+   "Anaheim": 239238.0,
+   "Costa Mesa": 304565.0,
+   "Fountain Valley": 300505.0,
+   "Fullerton": 278466.0,
+   "Garden Grove": 221868.0,
+   "Huntington Beach": 328033.0,
+   "Irvine": 336878.0,
+   "Newport Beach": 766829.0,
+   "Santa Ana": 191595.0,
+   "Tustin": 273678.0,
+   "Westminster": 268563.0
+  },
+  {
+   "month": "2001-04",
+   "Anaheim": 241973.0,
+   "Costa Mesa": 308346.0,
+   "Fountain Valley": 304349.0,
+   "Fullerton": 281442.0,
+   "Garden Grove": 224627.0,
+   "Huntington Beach": 331890.0,
+   "Irvine": 340888.0,
+   "Newport Beach": 777553.0,
+   "Santa Ana": 194289.0,
+   "Tustin": 277186.0,
+   "Westminster": 271667.0
+  },
+  {
+   "month": "2001-05",
+   "Anaheim": 244576.0,
+   "Costa Mesa": 312045.0,
+   "Fountain Valley": 307778.0,
+   "Fullerton": 284337.0,
+   "Garden Grove": 227179.0,
+   "Huntington Beach": 335584.0,
+   "Irvine": 344825.0,
+   "Newport Beach": 786964.0,
+   "Santa Ana": 196927.0,
+   "Tustin": 280634.0,
+   "Westminster": 274649.0
+  },
+  {
+   "month": "2001-06",
+   "Anaheim": 246829.0,
+   "Costa Mesa": 315280.0,
+   "Fountain Valley": 310550.0,
+   "Fullerton": 286889.0,
+   "Garden Grove": 229349.0,
+   "Huntington Beach": 338612.0,
+   "Irvine": 348244.0,
+   "Newport Beach": 794541.0,
+   "Santa Ana": 199289.0,
+   "Tustin": 283575.0,
+   "Westminster": 277278.0
+  },
+  {
+   "month": "2001-07",
+   "Anaheim": 249017.0,
+   "Costa Mesa": 318667.0,
+   "Fountain Valley": 313153.0,
+   "Fullerton": 289395.0,
+   "Garden Grove": 231334.0,
+   "Huntington Beach": 341283.0,
+   "Irvine": 351385.0,
+   "Newport Beach": 800574.0,
+   "Santa Ana": 201529.0,
+   "Tustin": 286327.0,
+   "Westminster": 279685.0
+  },
+  {
+   "month": "2001-08",
+   "Anaheim": 251116.0,
+   "Costa Mesa": 322064.0,
+   "Fountain Valley": 315793.0,
+   "Fullerton": 291693.0,
+   "Garden Grove": 233197.0,
+   "Huntington Beach": 343599.0,
+   "Irvine": 354304.0,
+   "Newport Beach": 806659.0,
+   "Santa Ana": 203693.0,
+   "Tustin": 288850.0,
+   "Westminster": 282007.0
+  },
+  {
+   "month": "2001-09",
+   "Anaheim": 253677.0,
+   "Costa Mesa": 325990.0,
+   "Fountain Valley": 319166.0,
+   "Fullerton": 294698.0,
+   "Garden Grove": 235508.0,
+   "Huntington Beach": 346742.0,
+   "Irvine": 357919.0,
+   "Newport Beach": 813044.0,
+   "Santa Ana": 206226.0,
+   "Tustin": 291934.0,
+   "Westminster": 284870.0
+  },
+  {
+   "month": "2001-10",
+   "Anaheim": 256089.0,
+   "Costa Mesa": 329547.0,
+   "Fountain Valley": 322324.0,
+   "Fullerton": 297697.0,
+   "Garden Grove": 237792.0,
+   "Huntington Beach": 349859.0,
+   "Irvine": 361486.0,
+   "Newport Beach": 819017.0,
+   "Santa Ana": 208539.0,
+   "Tustin": 294849.0,
+   "Westminster": 287563.0
+  },
+  {
+   "month": "2001-11",
+   "Anaheim": 258136.0,
+   "Costa Mesa": 332550.0,
+   "Fountain Valley": 324862.0,
+   "Fullerton": 300335.0,
+   "Garden Grove": 239776.0,
+   "Huntington Beach": 352511.0,
+   "Irvine": 364414.0,
+   "Newport Beach": 823368.0,
+   "Santa Ana": 210568.0,
+   "Tustin": 297382.0,
+   "Westminster": 289746.0
+  },
+  {
+   "month": "2001-12",
+   "Anaheim": 260139.0,
+   "Costa Mesa": 335525.0,
+   "Fountain Valley": 327145.0,
+   "Fullerton": 302759.0,
+   "Garden Grove": 241745.0,
+   "Huntington Beach": 354882.0,
+   "Irvine": 366920.0,
+   "Newport Beach": 827921.0,
+   "Santa Ana": 212497.0,
+   "Tustin": 299818.0,
+   "Westminster": 291769.0
+  },
+  {
+   "month": "2002-01",
+   "Anaheim": 262059.0,
+   "Costa Mesa": 338256.0,
+   "Fountain Valley": 329058.0,
+   "Fullerton": 304801.0,
+   "Garden Grove": 243502.0,
+   "Huntington Beach": 356932.0,
+   "Irvine": 368777.0,
+   "Newport Beach": 832511.0,
+   "Santa Ana": 214385.0,
+   "Tustin": 301879.0,
+   "Westminster": 293686.0
+  },
+  {
+   "month": "2002-02",
+   "Anaheim": 264457.0,
+   "Costa Mesa": 341361.0,
+   "Fountain Valley": 331554.0,
+   "Fullerton": 307368.0,
+   "Garden Grove": 245657.0,
+   "Huntington Beach": 359614.0,
+   "Irvine": 371172.0,
+   "Newport Beach": 838523.0,
+   "Santa Ana": 216585.0,
+   "Tustin": 304311.0,
+   "Westminster": 296155.0
+  },
+  {
+   "month": "2002-03",
+   "Anaheim": 267071.0,
+   "Costa Mesa": 344690.0,
+   "Fountain Valley": 334434.0,
+   "Fullerton": 310308.0,
+   "Garden Grove": 248082.0,
+   "Huntington Beach": 362670.0,
+   "Irvine": 373774.0,
+   "Newport Beach": 844972.0,
+   "Santa Ana": 218950.0,
+   "Tustin": 306842.0,
+   "Westminster": 298891.0
+  },
+  {
+   "month": "2002-04",
+   "Anaheim": 270262.0,
+   "Costa Mesa": 348949.0,
+   "Fountain Valley": 338267.0,
+   "Fullerton": 313969.0,
+   "Garden Grove": 251253.0,
+   "Huntington Beach": 366580.0,
+   "Irvine": 377387.0,
+   "Newport Beach": 852492.0,
+   "Santa Ana": 221727.0,
+   "Tustin": 310311.0,
+   "Westminster": 302426.0
+  },
+  {
+   "month": "2002-05",
+   "Anaheim": 273970.0,
+   "Costa Mesa": 353916.0,
+   "Fountain Valley": 342842.0,
+   "Fullerton": 318157.0,
+   "Garden Grove": 255031.0,
+   "Huntington Beach": 371263.0,
+   "Irvine": 381530.0,
+   "Newport Beach": 860921.0,
+   "Santa Ana": 224939.0,
+   "Tustin": 314265.0,
+   "Westminster": 306610.0
+  },
+  {
+   "month": "2002-06",
+   "Anaheim": 278266.0,
+   "Costa Mesa": 359603.0,
+   "Fountain Valley": 348135.0,
+   "Fullerton": 322999.0,
+   "Garden Grove": 259321.0,
+   "Huntington Beach": 376953.0,
+   "Irvine": 386406.0,
+   "Newport Beach": 870795.0,
+   "Santa Ana": 228703.0,
+   "Tustin": 318864.0,
+   "Westminster": 311549.0
+  },
+  {
+   "month": "2002-07",
+   "Anaheim": 283381.0,
+   "Costa Mesa": 366031.0,
+   "Fountain Valley": 354285.0,
+   "Fullerton": 328718.0,
+   "Garden Grove": 264241.0,
+   "Huntington Beach": 383856.0,
+   "Irvine": 392235.0,
+   "Newport Beach": 882352.0,
+   "Santa Ana": 233116.0,
+   "Tustin": 324197.0,
+   "Westminster": 317206.0
+  },
+  {
+   "month": "2002-08",
+   "Anaheim": 288688.0,
+   "Costa Mesa": 372696.0,
+   "Fountain Valley": 360457.0,
+   "Fullerton": 334707.0,
+   "Garden Grove": 269324.0,
+   "Huntington Beach": 391136.0,
+   "Irvine": 398558.0,
+   "Newport Beach": 894762.0,
+   "Santa Ana": 237636.0,
+   "Tustin": 330079.0,
+   "Westminster": 323021.0
+  },
+  {
+   "month": "2002-09",
+   "Anaheim": 293483.0,
+   "Costa Mesa": 378802.0,
+   "Fountain Valley": 365998.0,
+   "Fullerton": 340074.0,
+   "Garden Grove": 273858.0,
+   "Huntington Beach": 397747.0,
+   "Irvine": 404562.0,
+   "Newport Beach": 906506.0,
+   "Santa Ana": 241678.0,
+   "Tustin": 335634.0,
+   "Westminster": 328267.0
+  },
+  {
+   "month": "2002-10",
+   "Anaheim": 297733.0,
+   "Costa Mesa": 384501.0,
+   "Fountain Valley": 370914.0,
+   "Fullerton": 344921.0,
+   "Garden Grove": 277890.0,
+   "Huntington Beach": 403713.0,
+   "Irvine": 410030.0,
+   "Newport Beach": 917405.0,
+   "Santa Ana": 245208.0,
+   "Tustin": 340698.0,
+   "Westminster": 333110.0
+  },
+  {
+   "month": "2002-11",
+   "Anaheim": 301716.0,
+   "Costa Mesa": 389893.0,
+   "Fountain Valley": 375413.0,
+   "Fullerton": 349565.0,
+   "Garden Grove": 281732.0,
+   "Huntington Beach": 409263.0,
+   "Irvine": 415062.0,
+   "Newport Beach": 928029.0,
+   "Santa Ana": 248434.0,
+   "Tustin": 345228.0,
+   "Westminster": 337629.0
+  },
+  {
+   "month": "2002-12",
+   "Anaheim": 306013.0,
+   "Costa Mesa": 395285.0,
+   "Fountain Valley": 380150.0,
+   "Fullerton": 354538.0,
+   "Garden Grove": 285901.0,
+   "Huntington Beach": 414879.0,
+   "Irvine": 420288.0,
+   "Newport Beach": 938897.0,
+   "Santa Ana": 251830.0,
+   "Tustin": 349777.0,
+   "Westminster": 342435.0
+  },
+  {
+   "month": "2003-01",
+   "Anaheim": 310041.0,
+   "Costa Mesa": 400181.0,
+   "Fountain Valley": 384502.0,
+   "Fullerton": 359076.0,
+   "Garden Grove": 289960.0,
+   "Huntington Beach": 420002.0,
+   "Irvine": 424958.0,
+   "Newport Beach": 949620.0,
+   "Santa Ana": 255081.0,
+   "Tustin": 353912.0,
+   "Westminster": 346982.0
+  },
+  {
+   "month": "2003-02",
+   "Anaheim": 314259.0,
+   "Costa Mesa": 405218.0,
+   "Fountain Valley": 389177.0,
+   "Fullerton": 363717.0,
+   "Garden Grove": 294066.0,
+   "Huntington Beach": 425384.0,
+   "Irvine": 429816.0,
+   "Newport Beach": 961562.0,
+   "Santa Ana": 258636.0,
+   "Tustin": 358200.0,
+   "Westminster": 351737.0
+  },
+  {
+   "month": "2003-03",
+   "Anaheim": 318409.0,
+   "Costa Mesa": 410197.0,
+   "Fountain Valley": 393853.0,
+   "Fullerton": 368002.0,
+   "Garden Grove": 298182.0,
+   "Huntington Beach": 430769.0,
+   "Irvine": 434404.0,
+   "Newport Beach": 972993.0,
+   "Santa Ana": 262257.0,
+   "Tustin": 362320.0,
+   "Westminster": 356424.0
+  },
+  {
+   "month": "2003-04",
+   "Anaheim": 323406.0,
+   "Costa Mesa": 416263.0,
+   "Fountain Valley": 399315.0,
+   "Fullerton": 373272.0,
+   "Garden Grove": 302984.0,
+   "Huntington Beach": 437216.0,
+   "Irvine": 440227.0,
+   "Newport Beach": 985807.0,
+   "Santa Ana": 266665.0,
+   "Tustin": 367375.0,
+   "Westminster": 361918.0
+  },
+  {
+   "month": "2003-05",
+   "Anaheim": 329117.0,
+   "Costa Mesa": 423156.0,
+   "Fountain Valley": 405252.0,
+   "Fullerton": 379296.0,
+   "Garden Grove": 308403.0,
+   "Huntington Beach": 444463.0,
+   "Irvine": 447055.0,
+   "Newport Beach": 999699.0,
+   "Santa Ana": 271744.0,
+   "Tustin": 373264.0,
+   "Westminster": 368067.0
+  },
+  {
+   "month": "2003-06",
+   "Anaheim": 334353.0,
+   "Costa Mesa": 429520.0,
+   "Fountain Valley": 410548.0,
+   "Fullerton": 385037.0,
+   "Garden Grove": 313347.0,
+   "Huntington Beach": 451080.0,
+   "Irvine": 453574.0,
+   "Newport Beach": 1012252.0,
+   "Santa Ana": 276528.0,
+   "Tustin": 378855.0,
+   "Westminster": 373651.0
+  },
+  {
+   "month": "2003-07",
+   "Anaheim": 339539.0,
+   "Costa Mesa": 435839.0,
+   "Fountain Valley": 415889.0,
+   "Fullerton": 390924.0,
+   "Garden Grove": 318314.0,
+   "Huntington Beach": 457443.0,
+   "Irvine": 460034.0,
+   "Newport Beach": 1024117.0,
+   "Santa Ana": 281231.0,
+   "Tustin": 384350.0,
+   "Westminster": 379097.0
+  },
+  {
+   "month": "2003-08",
+   "Anaheim": 344999.0,
+   "Costa Mesa": 442606.0,
+   "Fountain Valley": 421894.0,
+   "Fullerton": 397050.0,
+   "Garden Grove": 323614.0,
+   "Huntington Beach": 463979.0,
+   "Irvine": 467038.0,
+   "Newport Beach": 1036781.0,
+   "Santa Ana": 285993.0,
+   "Tustin": 389870.0,
+   "Westminster": 384750.0
+  },
+  {
+   "month": "2003-09",
+   "Anaheim": 351578.0,
+   "Costa Mesa": 450714.0,
+   "Fountain Valley": 429544.0,
+   "Fullerton": 404418.0,
+   "Garden Grove": 329907.0,
+   "Huntington Beach": 471888.0,
+   "Irvine": 475631.0,
+   "Newport Beach": 1053010.0,
+   "Santa Ana": 291548.0,
+   "Tustin": 396476.0,
+   "Westminster": 391580.0
+  },
+  {
+   "month": "2003-10",
+   "Anaheim": 358493.0,
+   "Costa Mesa": 458908.0,
+   "Fountain Valley": 437619.0,
+   "Fullerton": 412023.0,
+   "Garden Grove": 336399.0,
+   "Huntington Beach": 480385.0,
+   "Irvine": 484782.0,
+   "Newport Beach": 1070601.0,
+   "Santa Ana": 297280.0,
+   "Tustin": 403637.0,
+   "Westminster": 398740.0
+  },
+  {
+   "month": "2003-11",
+   "Anaheim": 365304.0,
+   "Costa Mesa": 466727.0,
+   "Fountain Valley": 445494.0,
+   "Fullerton": 419397.0,
+   "Garden Grove": 342795.0,
+   "Huntington Beach": 488740.0,
+   "Irvine": 493677.0,
+   "Newport Beach": 1087587.0,
+   "Santa Ana": 302909.0,
+   "Tustin": 410815.0,
+   "Westminster": 405882.0
+  },
+  {
+   "month": "2003-12",
+   "Anaheim": 371547.0,
+   "Costa Mesa": 473096.0,
+   "Fountain Valley": 448176.0,
+   "Fullerton": 423384.0,
+   "Garden Grove": 347790.0,
+   "Huntington Beach": 490422.0,
+   "Irvine": 498754.0,
+   "Newport Beach": 1107301.0,
+   "Santa Ana": 307966.0,
+   "Tustin": 416166.0,
+   "Westminster": 410298.0
+  },
+  {
+   "month": "2004-01",
+   "Anaheim": 377711.0,
+   "Costa Mesa": 480999.0,
+   "Fountain Valley": 454758.0,
+   "Fullerton": 429185.0,
+   "Garden Grove": 353718.0,
+   "Huntington Beach": 495952.0,
+   "Irvine": 507072.0,
+   "Newport Beach": 1129955.0,
+   "Santa Ana": 313591.0,
+   "Tustin": 422989.0,
+   "Westminster": 416279.0
+  },
+  {
+   "month": "2004-02",
+   "Anaheim": 385270.0,
+   "Costa Mesa": 491277.0,
+   "Fountain Valley": 464620.0,
+   "Fullerton": 437189.0,
+   "Garden Grove": 361314.0,
+   "Huntington Beach": 504819.0,
+   "Irvine": 518425.0,
+   "Newport Beach": 1158029.0,
+   "Santa Ana": 320617.0,
+   "Tustin": 432136.0,
+   "Westminster": 424422.0
+  },
+  {
+   "month": "2004-03",
+   "Anaheim": 394868.0,
+   "Costa Mesa": 505247.0,
+   "Fountain Valley": null,
+   "Fullerton": 450290.0,
+   "Garden Grove": 371838.0,
+   "Huntington Beach": null,
+   "Irvine": null,
+   "Newport Beach": 1188742.0,
+   "Santa Ana": 329708.0,
+   "Tustin": 445241.0,
+   "Westminster": 437383.0
+  },
+  {
+   "month": "2004-04",
+   "Anaheim": 405667.0,
+   "Costa Mesa": 519267.0,
+   "Fountain Valley": 496217.0,
+   "Fullerton": 462564.0,
+   "Garden Grove": 382487.0,
+   "Huntington Beach": 538436.0,
+   "Irvine": 552402.0,
+   "Newport Beach": 1220504.0,
+   "Santa Ana": 339263.0,
+   "Tustin": 458052.0,
+   "Westminster": 450075.0
+  },
+  {
+   "month": "2004-05",
+   "Anaheim": 417869.0,
+   "Costa Mesa": 534755.0,
+   "Fountain Valley": 511165.0,
+   "Fullerton": 475673.0,
+   "Garden Grove": 394008.0,
+   "Huntington Beach": 553949.0,
+   "Irvine": 569805.0,
+   "Newport Beach": 1255180.0,
+   "Santa Ana": 349675.0,
+   "Tustin": 471861.0,
+   "Westminster": 463531.0
+  },
+  {
+   "month": "2004-06",
+   "Anaheim": 430854.0,
+   "Costa Mesa": 551147.0,
+   "Fountain Valley": 526346.0,
+   "Fullerton": 489378.0,
+   "Garden Grove": 406077.0,
+   "Huntington Beach": 569647.0,
+   "Irvine": 587706.0,
+   "Newport Beach": 1290092.0,
+   "Santa Ana": 360389.0,
+   "Tustin": 486127.0,
+   "Westminster": 477130.0
+  },
+  {
+   "month": "2004-07",
+   "Anaheim": 443015.0,
+   "Costa Mesa": 566320.0,
+   "Fountain Valley": 539971.0,
+   "Fullerton": 502024.0,
+   "Garden Grove": 417468.0,
+   "Huntington Beach": 583877.0,
+   "Irvine": 603916.0,
+   "Newport Beach": 1320831.0,
+   "Santa Ana": 370443.0,
+   "Tustin": 499315.0,
+   "Westminster": 489524.0
+  },
+  {
+   "month": "2004-08",
+   "Anaheim": 452597.0,
+   "Costa Mesa": 578047.0,
+   "Fountain Valley": 549910.0,
+   "Fullerton": 511795.0,
+   "Garden Grove": 426491.0,
+   "Huntington Beach": 594666.0,
+   "Irvine": 615883.0,
+   "Newport Beach": 1343767.0,
+   "Santa Ana": 378708.0,
+   "Tustin": 509593.0,
+   "Westminster": 499036.0
+  },
+  {
+   "month": "2004-09",
+   "Anaheim": 458590.0,
+   "Costa Mesa": 585144.0,
+   "Fountain Valley": 554900.0,
+   "Fullerton": 517455.0,
+   "Garden Grove": 432246.0,
+   "Huntington Beach": 600651.0,
+   "Irvine": 622457.0,
+   "Newport Beach": 1357445.0,
+   "Santa Ana": 384302.0,
+   "Tustin": 515968.0,
+   "Westminster": 504549.0
+  },
+  {
+   "month": "2004-10",
+   "Anaheim": 463908.0,
+   "Costa Mesa": 591157.0,
+   "Fountain Valley": 558756.0,
+   "Fullerton": 522349.0,
+   "Garden Grove": 437311.0,
+   "Huntington Beach": 605622.0,
+   "Irvine": 627812.0,
+   "Newport Beach": 1370669.0,
+   "Santa Ana": 389648.0,
+   "Tustin": 521343.0,
+   "Westminster": 509143.0
+  },
+  {
+   "month": "2004-11",
+   "Anaheim": 467669.0,
+   "Costa Mesa": 595038.0,
+   "Fountain Valley": 560675.0,
+   "Fullerton": 525564.0,
+   "Garden Grove": 440954.0,
+   "Huntington Beach": 608611.0,
+   "Irvine": 630757.0,
+   "Newport Beach": 1378889.0,
+   "Santa Ana": 393744.0,
+   "Tustin": 524436.0,
+   "Westminster": 511916.0
+  },
+  {
+   "month": "2004-12",
+   "Anaheim": 473155.0,
+   "Costa Mesa": 600679.0,
+   "Fountain Valley": 565366.0,
+   "Fullerton": 531234.0,
+   "Garden Grove": 446141.0,
+   "Huntington Beach": 613915.0,
+   "Irvine": 636173.0,
+   "Newport Beach": 1391111.0,
+   "Santa Ana": 399649.0,
+   "Tustin": 529238.0,
+   "Westminster": 516648.0
+  },
+  {
+   "month": "2005-01",
+   "Anaheim": 479553.0,
+   "Costa Mesa": 607661.0,
+   "Fountain Valley": 571291.0,
+   "Fullerton": 538004.0,
+   "Garden Grove": 451845.0,
+   "Huntington Beach": 620237.0,
+   "Irvine": 642417.0,
+   "Newport Beach": 1406304.0,
+   "Santa Ana": 406297.0,
+   "Tustin": 534752.0,
+   "Westminster": 521970.0
+  },
+  {
+   "month": "2005-02",
+   "Anaheim": 485988.0,
+   "Costa Mesa": 614505.0,
+   "Fountain Valley": 577083.0,
+   "Fullerton": 544899.0,
+   "Garden Grove": 457460.0,
+   "Huntington Beach": 626448.0,
+   "Irvine": 648489.0,
+   "Newport Beach": 1422268.0,
+   "Santa Ana": 412949.0,
+   "Tustin": 540433.0,
+   "Westminster": 527421.0
+  },
+  {
+   "month": "2005-03",
+   "Anaheim": 493807.0,
+   "Costa Mesa": 623333.0,
+   "Fountain Valley": 584028.0,
+   "Fullerton": 552986.0,
+   "Garden Grove": 464482.0,
+   "Huntington Beach": 634238.0,
+   "Irvine": 655755.0,
+   "Newport Beach": 1443870.0,
+   "Santa Ana": 420569.0,
+   "Tustin": 547637.0,
+   "Westminster": 534409.0
+  },
+  {
+   "month": "2005-04",
+   "Anaheim": 501353.0,
+   "Costa Mesa": 631686.0,
+   "Fountain Valley": 590922.0,
+   "Fullerton": 561283.0,
+   "Garden Grove": 471695.0,
+   "Huntington Beach": 641482.0,
+   "Irvine": 662453.0,
+   "Newport Beach": 1465696.0,
+   "Santa Ana": 428133.0,
+   "Tustin": 555070.0,
+   "Westminster": 541752.0
+  },
+  {
+   "month": "2005-05",
+   "Anaheim": 509897.0,
+   "Costa Mesa": 641124.0,
+   "Fountain Valley": 599282.0,
+   "Fullerton": 570988.0,
+   "Garden Grove": 479998.0,
+   "Huntington Beach": 650098.0,
+   "Irvine": 670092.0,
+   "Newport Beach": 1491625.0,
+   "Santa Ana": 436797.0,
+   "Tustin": 563602.0,
+   "Westminster": 550584.0
+  },
+  {
+   "month": "2005-06",
+   "Anaheim": 515960.0,
+   "Costa Mesa": 647105.0,
+   "Fountain Valley": 604896.0,
+   "Fullerton": 577894.0,
+   "Garden Grove": 485962.0,
+   "Huntington Beach": 655240.0,
+   "Irvine": 674421.0,
+   "Newport Beach": 1509631.0,
+   "Santa Ana": 443383.0,
+   "Tustin": 569076.0,
+   "Westminster": 556903.0
+  },
+  {
+   "month": "2005-07",
+   "Anaheim": 522613.0,
+   "Costa Mesa": 653689.0,
+   "Fountain Valley": 611308.0,
+   "Fullerton": 585203.0,
+   "Garden Grove": 492398.0,
+   "Huntington Beach": 661190.0,
+   "Irvine": 679999.0,
+   "Newport Beach": 1528868.0,
+   "Santa Ana": 450604.0,
+   "Tustin": 575044.0,
+   "Westminster": 563772.0
+  },
+  {
+   "month": "2005-08",
+   "Anaheim": 529819.0,
+   "Costa Mesa": 660961.0,
+   "Fountain Valley": 618157.0,
+   "Fullerton": 593245.0,
+   "Garden Grove": 499103.0,
+   "Huntington Beach": 667647.0,
+   "Irvine": 686783.0,
+   "Newport Beach": 1548175.0,
+   "Santa Ana": 458086.0,
+   "Tustin": 581700.0,
+   "Westminster": 570973.0
+  },
+  {
+   "month": "2005-09",
+   "Anaheim": 538082.0,
+   "Costa Mesa": 669112.0,
+   "Fountain Valley": 626379.0,
+   "Fullerton": 602680.0,
+   "Garden Grove": 506686.0,
+   "Huntington Beach": 675529.0,
+   "Irvine": 695010.0,
+   "Newport Beach": 1569891.0,
+   "Santa Ana": 466180.0,
+   "Tustin": 589384.0,
+   "Westminster": 579034.0
+  },
+  {
+   "month": "2005-10",
+   "Anaheim": 545277.0,
+   "Costa Mesa": 676148.0,
+   "Fountain Valley": 633670.0,
+   "Fullerton": 611066.0,
+   "Garden Grove": 513419.0,
+   "Huntington Beach": 682181.0,
+   "Irvine": 701882.0,
+   "Newport Beach": 1587271.0,
+   "Santa Ana": 472988.0,
+   "Tustin": 595871.0,
+   "Westminster": 585978.0
+  },
+  {
+   "month": "2005-11",
+   "Anaheim": 550426.0,
+   "Costa Mesa": 680729.0,
+   "Fountain Valley": 638986.0,
+   "Fullerton": 616912.0,
+   "Garden Grove": 518556.0,
+   "Huntington Beach": 686599.0,
+   "Irvine": 706360.0,
+   "Newport Beach": 1598319.0,
+   "Santa Ana": 477951.0,
+   "Tustin": 600260.0,
+   "Westminster": 590603.0
+  },
+  {
+   "month": "2005-12",
+   "Anaheim": 556532.0,
+   "Costa Mesa": 687110.0,
+   "Fountain Valley": 645792.0,
+   "Fullerton": 624073.0,
+   "Garden Grove": 525027.0,
+   "Huntington Beach": 692978.0,
+   "Irvine": 712724.0,
+   "Newport Beach": 1611782.0,
+   "Santa Ana": 484071.0,
+   "Tustin": 606394.0,
+   "Westminster": 596932.0
+  },
+  {
+   "month": "2006-01",
+   "Anaheim": 561900.0,
+   "Costa Mesa": 692573.0,
+   "Fountain Valley": 651232.0,
+   "Fullerton": 630081.0,
+   "Garden Grove": 530750.0,
+   "Huntington Beach": 698609.0,
+   "Irvine": 717970.0,
+   "Newport Beach": 1624103.0,
+   "Santa Ana": 489601.0,
+   "Tustin": 611620.0,
+   "Westminster": 602439.0
+  },
+  {
+   "month": "2006-02",
+   "Anaheim": 567839.0,
+   "Costa Mesa": 699091.0,
+   "Fountain Valley": 657090.0,
+   "Fullerton": 636500.0,
+   "Garden Grove": 536712.0,
+   "Huntington Beach": 705030.0,
+   "Irvine": 723830.0,
+   "Newport Beach": 1638814.0,
+   "Santa Ana": 495605.0,
+   "Tustin": 617327.0,
+   "Westminster": 608532.0
+  },
+  {
+   "month": "2006-03",
+   "Anaheim": 572397.0,
+   "Costa Mesa": 703777.0,
+   "Fountain Valley": 660798.0,
+   "Fullerton": 640833.0,
+   "Garden Grove": 540960.0,
+   "Huntington Beach": 708844.0,
+   "Irvine": 727096.0,
+   "Newport Beach": 1648500.0,
+   "Santa Ana": 500144.0,
+   "Tustin": 620909.0,
+   "Westminster": 612447.0
+  },
+  {
+   "month": "2006-04",
+   "Anaheim": 577430.0,
+   "Costa Mesa": 709230.0,
+   "Fountain Valley": 665223.0,
+   "Fullerton": 645631.0,
+   "Garden Grove": 545816.0,
+   "Huntington Beach": 713548.0,
+   "Irvine": 731215.0,
+   "Newport Beach": 1659747.0,
+   "Santa Ana": 505219.0,
+   "Tustin": 625139.0,
+   "Westminster": 617193.0
+  },
+  {
+   "month": "2006-05",
+   "Anaheim": 581395.0,
+   "Costa Mesa": 713479.0,
+   "Fountain Valley": 668097.0,
+   "Fullerton": 649162.0,
+   "Garden Grove": 549903.0,
+   "Huntington Beach": 716845.0,
+   "Irvine": 733881.0,
+   "Newport Beach": 1667235.0,
+   "Santa Ana": 509332.0,
+   "Tustin": 628182.0,
+   "Westminster": 620780.0
+  },
+  {
+   "month": "2006-06",
+   "Anaheim": 584515.0,
+   "Costa Mesa": 716741.0,
+   "Fountain Valley": 669873.0,
+   "Fullerton": 651956.0,
+   "Garden Grove": 553309.0,
+   "Huntington Beach": 719239.0,
+   "Irvine": 735928.0,
+   "Newport Beach": 1674931.0,
+   "Santa Ana": 512841.0,
+   "Tustin": 630452.0,
+   "Westminster": 623583.0
+  },
+  {
+   "month": "2006-07",
+   "Anaheim": 584601.0,
+   "Costa Mesa": 715967.0,
+   "Fountain Valley": 667612.0,
+   "Fullerton": 651302.0,
+   "Garden Grove": 553586.0,
+   "Huntington Beach": 717089.0,
+   "Irvine": 733862.0,
+   "Newport Beach": 1672378.0,
+   "Santa Ana": 513490.0,
+   "Tustin": 629233.0,
+   "Westminster": 622848.0
+  },
+  {
+   "month": "2006-08",
+   "Anaheim": 585800.0,
+   "Costa Mesa": 716150.0,
+   "Fountain Valley": 666682.0,
+   "Fullerton": 651905.0,
+   "Garden Grove": 554866.0,
+   "Huntington Beach": 715883.0,
+   "Irvine": 733191.0,
+   "Newport Beach": 1675315.0,
+   "Santa Ana": 515343.0,
+   "Tustin": 629137.0,
+   "Westminster": 623081.0
+  },
+  {
+   "month": "2006-09",
+   "Anaheim": 585792.0,
+   "Costa Mesa": 714871.0,
+   "Fountain Valley": 664279.0,
+   "Fullerton": 651018.0,
+   "Garden Grove": 555011.0,
+   "Huntington Beach": 713498.0,
+   "Irvine": 731250.0,
+   "Newport Beach": 1675422.0,
+   "Santa Ana": 516342.0,
+   "Tustin": 628312.0,
+   "Westminster": 622123.0
+  },
+  {
+   "month": "2006-10",
+   "Anaheim": 587028.0,
+   "Costa Mesa": 715175.0,
+   "Fountain Valley": 663558.0,
+   "Fullerton": 651890.0,
+   "Garden Grove": 556306.0,
+   "Huntington Beach": 713046.0,
+   "Irvine": 731671.0,
+   "Newport Beach": 1680656.0,
+   "Santa Ana": 518796.0,
+   "Tustin": 629300.0,
+   "Westminster": 622724.0
+  },
+  {
+   "month": "2006-11",
+   "Anaheim": 585690.0,
+   "Costa Mesa": 712426.0,
+   "Fountain Valley": 659951.0,
+   "Fullerton": 649865.0,
+   "Garden Grove": 555148.0,
+   "Huntington Beach": 709879.0,
+   "Irvine": 729523.0,
+   "Newport Beach": 1678651.0,
+   "Santa Ana": 518992.0,
+   "Tustin": 627488.0,
+   "Westminster": 620978.0
+  },
+  {
+   "month": "2006-12",
+   "Anaheim": 583064.0,
+   "Costa Mesa": 708181.0,
+   "Fountain Valley": 655490.0,
+   "Fullerton": 646959.0,
+   "Garden Grove": 552955.0,
+   "Huntington Beach": 705734.0,
+   "Irvine": 726392.0,
+   "Newport Beach": 1672041.0,
+   "Santa Ana": 517913.0,
+   "Tustin": 624057.0,
+   "Westminster": 618329.0
+  },
+  {
+   "month": "2007-01",
+   "Anaheim": 582336.0,
+   "Costa Mesa": 706236.0,
+   "Fountain Valley": 653522.0,
+   "Fullerton": 646274.0,
+   "Garden Grove": 552459.0,
+   "Huntington Beach": 704140.0,
+   "Irvine": 725560.0,
+   "Newport Beach": 1670931.0,
+   "Santa Ana": 518183.0,
+   "Tustin": 622450.0,
+   "Westminster": 617610.0
+  },
+  {
+   "month": "2007-02",
+   "Anaheim": 582373.0,
+   "Costa Mesa": 705293.0,
+   "Fountain Valley": 652604.0,
+   "Fullerton": 646676.0,
+   "Garden Grove": 552509.0,
+   "Huntington Beach": 703644.0,
+   "Irvine": 725387.0,
+   "Newport Beach": 1671278.0,
+   "Santa Ana": 518869.0,
+   "Tustin": 622120.0,
+   "Westminster": 617401.0
+  },
+  {
+   "month": "2007-03",
+   "Anaheim": 582874.0,
+   "Costa Mesa": 705047.0,
+   "Fountain Valley": 651641.0,
+   "Fullerton": 647099.0,
+   "Garden Grove": 552601.0,
+   "Huntington Beach": 703148.0,
+   "Irvine": 725105.0,
+   "Newport Beach": 1673618.0,
+   "Santa Ana": 519876.0,
+   "Tustin": 622119.0,
+   "Westminster": 616874.0
+  },
+  {
+   "month": "2007-04",
+   "Anaheim": 580054.0,
+   "Costa Mesa": 700864.0,
+   "Fountain Valley": 647029.0,
+   "Fullerton": 643855.0,
+   "Garden Grove": 549572.0,
+   "Huntington Beach": 699044.0,
+   "Irvine": 720680.0,
+   "Newport Beach": 1667720.0,
+   "Santa Ana": 518079.0,
+   "Tustin": 618721.0,
+   "Westminster": 612782.0
+  },
+  {
+   "month": "2007-05",
+   "Anaheim": 575709.0,
+   "Costa Mesa": 694367.0,
+   "Fountain Valley": 641014.0,
+   "Fullerton": 638872.0,
+   "Garden Grove": 545081.0,
+   "Huntington Beach": 693465.0,
+   "Irvine": 714579.0,
+   "Newport Beach": 1659072.0,
+   "Santa Ana": 514988.0,
+   "Tustin": 613886.0,
+   "Westminster": 607323.0
+  },
+  {
+   "month": "2007-06",
+   "Anaheim": 571449.0,
+   "Costa Mesa": 687628.0,
+   "Fountain Valley": 635622.0,
+   "Fullerton": 633943.0,
+   "Garden Grove": 540838.0,
+   "Huntington Beach": 688636.0,
+   "Irvine": 708906.0,
+   "Newport Beach": 1651769.0,
+   "Santa Ana": 512043.0,
+   "Tustin": 609476.0,
+   "Westminster": 602659.0
+  },
+  {
+   "month": "2007-07",
+   "Anaheim": 565025.0,
+   "Costa Mesa": 678654.0,
+   "Fountain Valley": 628432.0,
+   "Fullerton": 626654.0,
+   "Garden Grove": 534458.0,
+   "Huntington Beach": 681886.0,
+   "Irvine": 701208.0,
+   "Newport Beach": 1638103.0,
+   "Santa Ana": 506916.0,
+   "Tustin": 603006.0,
+   "Westminster": 595821.0
+  },
+  {
+   "month": "2007-08",
+   "Anaheim": 557061.0,
+   "Costa Mesa": 668996.0,
+   "Fountain Valley": 619870.0,
+   "Fullerton": 617875.0,
+   "Garden Grove": 526779.0,
+   "Huntington Beach": 674158.0,
+   "Irvine": 692448.0,
+   "Newport Beach": 1620056.0,
+   "Santa Ana": 500311.0,
+   "Tustin": 595113.0,
+   "Westminster": 587868.0
+  },
+  {
+   "month": "2007-09",
+   "Anaheim": 546415.0,
+   "Costa Mesa": 656750.0,
+   "Fountain Valley": 608905.0,
+   "Fullerton": 606388.0,
+   "Garden Grove": 516439.0,
+   "Huntington Beach": 663628.0,
+   "Irvine": 680925.0,
+   "Newport Beach": 1595265.0,
+   "Santa Ana": 490853.0,
+   "Tustin": 584512.0,
+   "Westminster": 576836.0
+  },
+  {
+   "month": "2007-10",
+   "Anaheim": 537516.0,
+   "Costa Mesa": 647107.0,
+   "Fountain Valley": 599820.0,
+   "Fullerton": 596838.0,
+   "Garden Grove": 507624.0,
+   "Huntington Beach": 655103.0,
+   "Irvine": 671414.0,
+   "Newport Beach": 1576509.0,
+   "Santa Ana": 483020.0,
+   "Tustin": 575929.0,
+   "Westminster": 567470.0
+  },
+  {
+   "month": "2007-11",
+   "Anaheim": 531378.0,
+   "Costa Mesa": 640881.0,
+   "Fountain Valley": 594294.0,
+   "Fullerton": 590890.0,
+   "Garden Grove": 501301.0,
+   "Huntington Beach": 649933.0,
+   "Irvine": 665586.0,
+   "Newport Beach": 1566013.0,
+   "Santa Ana": 477729.0,
+   "Tustin": 571211.0,
+   "Westminster": 560854.0
+  },
+  {
+   "month": "2007-12",
+   "Anaheim": 523417.0,
+   "Costa Mesa": 632638.0,
+   "Fountain Valley": 587749.0,
+   "Fullerton": 583373.0,
+   "Garden Grove": 493491.0,
+   "Huntington Beach": 643152.0,
+   "Irvine": 657963.0,
+   "Newport Beach": 1549555.0,
+   "Santa Ana": 471028.0,
+   "Tustin": 565041.0,
+   "Westminster": 552836.0
+  },
+  {
+   "month": "2008-01",
+   "Anaheim": 513232.0,
+   "Costa Mesa": 621147.0,
+   "Fountain Valley": 578744.0,
+   "Fullerton": 573504.0,
+   "Garden Grove": 483737.0,
+   "Huntington Beach": 633546.0,
+   "Irvine": 647551.0,
+   "Newport Beach": 1526397.0,
+   "Santa Ana": 462040.0,
+   "Tustin": 556337.0,
+   "Westminster": 542817.0
+  },
+  {
+   "month": "2008-02",
+   "Anaheim": 498956.0,
+   "Costa Mesa": 604398.0,
+   "Fountain Valley": 565152.0,
+   "Fullerton": 558641.0,
+   "Garden Grove": 469938.0,
+   "Huntington Beach": 618751.0,
+   "Irvine": 631882.0,
+   "Newport Beach": 1492450.0,
+   "Santa Ana": 448894.0,
+   "Tustin": 542296.0,
+   "Westminster": 528470.0
+  },
+  {
+   "month": "2008-03",
+   "Anaheim": 487554.0,
+   "Costa Mesa": 589753.0,
+   "Fountain Valley": 553867.0,
+   "Fullerton": 546982.0,
+   "Garden Grove": 458126.0,
+   "Huntington Beach": 606744.0,
+   "Irvine": 620133.0,
+   "Newport Beach": 1468593.0,
+   "Santa Ana": 436831.0,
+   "Tustin": 530543.0,
+   "Westminster": 516909.0
+  },
+  {
+   "month": "2008-04",
+   "Anaheim": 474604.0,
+   "Costa Mesa": 573849.0,
+   "Fountain Valley": 541966.0,
+   "Fullerton": 534474.0,
+   "Garden Grove": 444858.0,
+   "Huntington Beach": 593918.0,
+   "Irvine": 608008.0,
+   "Newport Beach": 1445536.0,
+   "Santa Ana": 423123.0,
+   "Tustin": 517782.0,
+   "Westminster": 504729.0
+  },
+  {
+   "month": "2008-05",
+   "Anaheim": 461899.0,
+   "Costa Mesa": 559295.0,
+   "Fountain Valley": 532066.0,
+   "Fullerton": 523580.0,
+   "Garden Grove": 432070.0,
+   "Huntington Beach": 583282.0,
+   "Irvine": 598185.0,
+   "Newport Beach": 1428986.0,
+   "Santa Ana": 407363.0,
+   "Tustin": 505877.0,
+   "Westminster": 493734.0
+  },
+  {
+   "month": "2008-06",
+   "Anaheim": 448160.0,
+   "Costa Mesa": 546918.0,
+   "Fountain Valley": 523004.0,
+   "Fullerton": 512450.0,
+   "Garden Grove": 417943.0,
+   "Huntington Beach": 573412.0,
+   "Irvine": 589206.0,
+   "Newport Beach": 1416544.0,
+   "Santa Ana": 388945.0,
+   "Tustin": 495499.0,
+   "Westminster": 481995.0
+  },
+  {
+   "month": "2008-07",
+   "Anaheim": 436486.0,
+   "Costa Mesa": 538877.0,
+   "Fountain Valley": 518391.0,
+   "Fullerton": 504060.0,
+   "Garden Grove": 406047.0,
+   "Huntington Beach": 568013.0,
+   "Irvine": 584303.0,
+   "Newport Beach": 1416460.0,
+   "Santa Ana": 371027.0,
+   "Tustin": 488775.0,
+   "Westminster": 472403.0
+  },
+  {
+   "month": "2008-08",
+   "Anaheim": 426124.0,
+   "Costa Mesa": 533737.0,
+   "Fountain Valley": 515663.0,
+   "Fullerton": 497154.0,
+   "Garden Grove": 395770.0,
+   "Huntington Beach": 565060.0,
+   "Irvine": 581638.0,
+   "Newport Beach": 1423491.0,
+   "Santa Ana": 355791.0,
+   "Tustin": 484292.0,
+   "Westminster": 464399.0
+  },
+  {
+   "month": "2008-09",
+   "Anaheim": 418120.0,
+   "Costa Mesa": 531262.0,
+   "Fountain Valley": 515445.0,
+   "Fullerton": 492640.0,
+   "Garden Grove": 388870.0,
+   "Huntington Beach": 564765.0,
+   "Irvine": 581256.0,
+   "Newport Beach": 1434508.0,
+   "Santa Ana": 344591.0,
+   "Tustin": 480916.0,
+   "Westminster": 460185.0
+  },
+  {
+   "month": "2008-10",
+   "Anaheim": 409279.0,
+   "Costa Mesa": 526098.0,
+   "Fountain Valley": 512610.0,
+   "Fullerton": 486956.0,
+   "Garden Grove": 381974.0,
+   "Huntington Beach": 561722.0,
+   "Irvine": 578847.0,
+   "Newport Beach": 1434764.0,
+   "Santa Ana": 334095.0,
+   "Tustin": 475185.0,
+   "Westminster": 455408.0
+  },
+  {
+   "month": "2008-11",
+   "Anaheim": 399724.0,
+   "Costa Mesa": 518571.0,
+   "Fountain Valley": 507567.0,
+   "Fullerton": 479129.0,
+   "Garden Grove": 374193.0,
+   "Huntington Beach": 555634.0,
+   "Irvine": 573306.0,
+   "Newport Beach": 1424128.0,
+   "Santa Ana": 323524.0,
+   "Tustin": 466759.0,
+   "Westminster": 449273.0
+  },
+  {
+   "month": "2008-12",
+   "Anaheim": 389549.0,
+   "Costa Mesa": 509235.0,
+   "Fountain Valley": 501124.0,
+   "Fullerton": 470119.0,
+   "Garden Grove": 366171.0,
+   "Huntington Beach": 548222.0,
+   "Irvine": 565884.0,
+   "Newport Beach": 1405501.0,
+   "Santa Ana": 312551.0,
+   "Tustin": 456908.0,
+   "Westminster": 441752.0
+  },
+  {
+   "month": "2009-01",
+   "Anaheim": 381107.0,
+   "Costa Mesa": 502140.0,
+   "Fountain Valley": 495157.0,
+   "Fullerton": 461441.0,
+   "Garden Grove": 359051.0,
+   "Huntington Beach": 541625.0,
+   "Irvine": 558817.0,
+   "Newport Beach": 1382965.0,
+   "Santa Ana": 302780.0,
+   "Tustin": 448003.0,
+   "Westminster": 435001.0
+  },
+  {
+   "month": "2009-02",
+   "Anaheim": 376357.0,
+   "Costa Mesa": 498829.0,
+   "Fountain Valley": 493129.0,
+   "Fullerton": 457154.0,
+   "Garden Grove": 355630.0,
+   "Huntington Beach": 539261.0,
+   "Irvine": 556677.0,
+   "Newport Beach": 1367142.0,
+   "Santa Ana": 296218.0,
+   "Tustin": 443528.0,
+   "Westminster": 432078.0
+  },
+  {
+   "month": "2009-03",
+   "Anaheim": 371866.0,
+   "Costa Mesa": 495333.0,
+   "Fountain Valley": 490015.0,
+   "Fullerton": 452374.0,
+   "Garden Grove": 352128.0,
+   "Huntington Beach": 535715.0,
+   "Irvine": 553852.0,
+   "Newport Beach": 1348672.0,
+   "Santa Ana": 290558.0,
+   "Tustin": 439108.0,
+   "Westminster": 428459.0
+  },
+  {
+   "month": "2009-04",
+   "Anaheim": 368424.0,
+   "Costa Mesa": 492707.0,
+   "Fountain Valley": 488640.0,
+   "Fullerton": 449641.0,
+   "Garden Grove": 349771.0,
+   "Huntington Beach": 534025.0,
+   "Irvine": 553347.0,
+   "Newport Beach": 1339334.0,
+   "Santa Ana": 286216.0,
+   "Tustin": 436842.0,
+   "Westminster": 425715.0
+  },
+  {
+   "month": "2009-05",
+   "Anaheim": 365064.0,
+   "Costa Mesa": 489915.0,
+   "Fountain Valley": 486978.0,
+   "Fullerton": 446196.0,
+   "Garden Grove": 347360.0,
+   "Huntington Beach": 532335.0,
+   "Irvine": 552346.0,
+   "Newport Beach": 1330896.0,
+   "Santa Ana": 282403.0,
+   "Tustin": 434774.0,
+   "Westminster": 423050.0
+  },
+  {
+   "month": "2009-06",
+   "Anaheim": 361756.0,
+   "Costa Mesa": 487560.0,
+   "Fountain Valley": 486245.0,
+   "Fullerton": 442832.0,
+   "Garden Grove": 345093.0,
+   "Huntington Beach": 532500.0,
+   "Irvine": 551452.0,
+   "Newport Beach": 1326451.0,
+   "Santa Ana": 279256.0,
+   "Tustin": 432927.0,
+   "Westminster": 420471.0
+  },
+  {
+   "month": "2009-07",
+   "Anaheim": 359209.0,
+   "Costa Mesa": 486700.0,
+   "Fountain Valley": 486260.0,
+   "Fullerton": 439829.0,
+   "Garden Grove": 343490.0,
+   "Huntington Beach": 533498.0,
+   "Irvine": 550843.0,
+   "Newport Beach": 1321461.0,
+   "Santa Ana": 276882.0,
+   "Tustin": 431327.0,
+   "Westminster": 418914.0
+  },
+  {
+   "month": "2009-08",
+   "Anaheim": 357131.0,
+   "Costa Mesa": 485021.0,
+   "Fountain Valley": 485609.0,
+   "Fullerton": 437108.0,
+   "Garden Grove": 342003.0,
+   "Huntington Beach": 532828.0,
+   "Irvine": 549830.0,
+   "Newport Beach": 1313682.0,
+   "Santa Ana": 274553.0,
+   "Tustin": 429639.0,
+   "Westminster": 417246.0
+  },
+  {
+   "month": "2009-09",
+   "Anaheim": 357254.0,
+   "Costa Mesa": 485219.0,
+   "Fountain Valley": 487361.0,
+   "Fullerton": 437140.0,
+   "Garden Grove": 342281.0,
+   "Huntington Beach": 532919.0,
+   "Irvine": 551127.0,
+   "Newport Beach": 1309033.0,
+   "Santa Ana": 273826.0,
+   "Tustin": 430370.0,
+   "Westminster": 417547.0
+  },
+  {
+   "month": "2009-10",
+   "Anaheim": 359041.0,
+   "Costa Mesa": 486819.0,
+   "Fountain Valley": 490576.0,
+   "Fullerton": 438575.0,
+   "Garden Grove": 343722.0,
+   "Huntington Beach": 533633.0,
+   "Irvine": 554342.0,
+   "Newport Beach": 1306886.0,
+   "Santa Ana": 274350.0,
+   "Tustin": 432744.0,
+   "Westminster": 419068.0
+  },
+  {
+   "month": "2009-11",
+   "Anaheim": 363138.0,
+   "Costa Mesa": 492056.0,
+   "Fountain Valley": 497461.0,
+   "Fullerton": 442507.0,
+   "Garden Grove": 347325.0,
+   "Huntington Beach": 538612.0,
+   "Irvine": 560583.0,
+   "Newport Beach": 1302924.0,
+   "Santa Ana": 276742.0,
+   "Tustin": 438173.0,
+   "Westminster": 423635.0
+  },
+  {
+   "month": "2009-12",
+   "Anaheim": 367132.0,
+   "Costa Mesa": 497644.0,
+   "Fountain Valley": 504243.0,
+   "Fullerton": 446416.0,
+   "Garden Grove": 350875.0,
+   "Huntington Beach": 543986.0,
+   "Irvine": 567242.0,
+   "Newport Beach": 1296737.0,
+   "Santa Ana": 278981.0,
+   "Tustin": 443821.0,
+   "Westminster": 428624.0
+  },
+  {
+   "month": "2010-01",
+   "Anaheim": 369182.0,
+   "Costa Mesa": 500246.0,
+   "Fountain Valley": 508453.0,
+   "Fullerton": 447917.0,
+   "Garden Grove": 352494.0,
+   "Huntington Beach": 546883.0,
+   "Irvine": 569878.0,
+   "Newport Beach": 1280951.0,
+   "Santa Ana": 279684.0,
+   "Tustin": 447244.0,
+   "Westminster": 431076.0
+  },
+  {
+   "month": "2010-02",
+   "Anaheim": 369411.0,
+   "Costa Mesa": 501183.0,
+   "Fountain Valley": 510394.0,
+   "Fullerton": 447844.0,
+   "Garden Grove": 352726.0,
+   "Huntington Beach": 547207.0,
+   "Irvine": 570606.0,
+   "Newport Beach": 1274980.0,
+   "Santa Ana": 279652.0,
+   "Tustin": 448491.0,
+   "Westminster": 430956.0
+  },
+  {
+   "month": "2010-03",
+   "Anaheim": 368906.0,
+   "Costa Mesa": 500525.0,
+   "Fountain Valley": 510699.0,
+   "Fullerton": 446333.0,
+   "Garden Grove": 352260.0,
+   "Huntington Beach": 545487.0,
+   "Irvine": 569851.0,
+   "Newport Beach": 1270778.0,
+   "Santa Ana": 279411.0,
+   "Tustin": 448588.0,
+   "Westminster": 429407.0
+  },
+  {
+   "month": "2010-04",
+   "Anaheim": 371304.0,
+   "Costa Mesa": 503966.0,
+   "Fountain Valley": 514757.0,
+   "Fullerton": 448998.0,
+   "Garden Grove": 354765.0,
+   "Huntington Beach": 547930.0,
+   "Irvine": 574088.0,
+   "Newport Beach": 1282521.0,
+   "Santa Ana": 281573.0,
+   "Tustin": 451774.0,
+   "Westminster": 431608.0
+  },
+  {
+   "month": "2010-05",
+   "Anaheim": 373004.0,
+   "Costa Mesa": 506548.0,
+   "Fountain Valley": 517553.0,
+   "Fullerton": 450890.0,
+   "Garden Grove": 356593.0,
+   "Huntington Beach": 549080.0,
+   "Irvine": 577010.0,
+   "Newport Beach": 1288897.0,
+   "Santa Ana": 283362.0,
+   "Tustin": 454112.0,
+   "Westminster": 433152.0
+  },
+  {
+   "month": "2010-06",
+   "Anaheim": 374304.0,
+   "Costa Mesa": 507713.0,
+   "Fountain Valley": 519479.0,
+   "Fullerton": 452497.0,
+   "Garden Grove": 358176.0,
+   "Huntington Beach": 549092.0,
+   "Irvine": 578510.0,
+   "Newport Beach": 1293245.0,
+   "Santa Ana": 284837.0,
+   "Tustin": 455194.0,
+   "Westminster": 434461.0
+  },
+  {
+   "month": "2010-07",
+   "Anaheim": 372582.0,
+   "Costa Mesa": 504164.0,
+   "Fountain Valley": 516719.0,
+   "Fullerton": 450394.0,
+   "Garden Grove": 356982.0,
+   "Huntington Beach": 544393.0,
+   "Irvine": 575051.0,
+   "Newport Beach": 1286817.0,
+   "Santa Ana": 284445.0,
+   "Tustin": 452559.0,
+   "Westminster": 432101.0
+  },
+  {
+   "month": "2010-08",
+   "Anaheim": 370594.0,
+   "Costa Mesa": 500162.0,
+   "Fountain Valley": 513280.0,
+   "Fullerton": 448156.0,
+   "Garden Grove": 355119.0,
+   "Huntington Beach": 539337.0,
+   "Irvine": 571369.0,
+   "Newport Beach": 1282480.0,
+   "Santa Ana": 283645.0,
+   "Tustin": 449555.0,
+   "Westminster": 429260.0
+  },
+  {
+   "month": "2010-09",
+   "Anaheim": 368382.0,
+   "Costa Mesa": 496313.0,
+   "Fountain Valley": 509267.0,
+   "Fullerton": 445080.0,
+   "Garden Grove": 352640.0,
+   "Huntington Beach": 534492.0,
+   "Irvine": 567408.0,
+   "Newport Beach": 1278026.0,
+   "Santa Ana": 282528.0,
+   "Tustin": 446033.0,
+   "Westminster": 426019.0
+  },
+  {
+   "month": "2010-10",
+   "Anaheim": 365726.0,
+   "Costa Mesa": 492852.0,
+   "Fountain Valley": 505443.0,
+   "Fullerton": 441299.0,
+   "Garden Grove": 349948.0,
+   "Huntington Beach": 529929.0,
+   "Irvine": 563296.0,
+   "Newport Beach": 1276667.0,
+   "Santa Ana": 280931.0,
+   "Tustin": 442308.0,
+   "Westminster": 423212.0
+  },
+  {
+   "month": "2010-11",
+   "Anaheim": 362833.0,
+   "Costa Mesa": 489517.0,
+   "Fountain Valley": 501277.0,
+   "Fullerton": 436842.0,
+   "Garden Grove": 346920.0,
+   "Huntington Beach": 525168.0,
+   "Irvine": 557990.0,
+   "Newport Beach": 1265898.0,
+   "Santa Ana": 279080.0,
+   "Tustin": 437887.0,
+   "Westminster": 420099.0
+  },
+  {
+   "month": "2010-12",
+   "Anaheim": 360357.0,
+   "Costa Mesa": 487436.0,
+   "Fountain Valley": 498464.0,
+   "Fullerton": 433637.0,
+   "Garden Grove": 344801.0,
+   "Huntington Beach": 521861.0,
+   "Irvine": 554035.0,
+   "Newport Beach": 1254559.0,
+   "Santa Ana": 277788.0,
+   "Tustin": 434521.0,
+   "Westminster": 417860.0
+  },
+  {
+   "month": "2011-01",
+   "Anaheim": 359126.0,
+   "Costa Mesa": 486409.0,
+   "Fountain Valley": 496510.0,
+   "Fullerton": 431895.0,
+   "Garden Grove": 343658.0,
+   "Huntington Beach": 519520.0,
+   "Irvine": 552240.0,
+   "Newport Beach": 1243678.0,
+   "Santa Ana": 277371.0,
+   "Tustin": 432728.0,
+   "Westminster": 416251.0
+  },
+  {
+   "month": "2011-02",
+   "Anaheim": 358575.0,
+   "Costa Mesa": 485674.0,
+   "Fountain Valley": 496165.0,
+   "Fullerton": 430967.0,
+   "Garden Grove": 343657.0,
+   "Huntington Beach": 518241.0,
+   "Irvine": 551962.0,
+   "Newport Beach": 1239634.0,
+   "Santa Ana": 277236.0,
+   "Tustin": 432243.0,
+   "Westminster": 415609.0
+  },
+  {
+   "month": "2011-03",
+   "Anaheim": 357365.0,
+   "Costa Mesa": 483513.0,
+   "Fountain Valley": 494815.0,
+   "Fullerton": 429086.0,
+   "Garden Grove": 342792.0,
+   "Huntington Beach": 515947.0,
+   "Irvine": 550731.0,
+   "Newport Beach": 1237103.0,
+   "Santa Ana": 276564.0,
+   "Tustin": 430960.0,
+   "Westminster": 413774.0
+  },
+  {
+   "month": "2011-04",
+   "Anaheim": 355229.0,
+   "Costa Mesa": 480385.0,
+   "Fountain Valley": 492907.0,
+   "Fullerton": 425986.0,
+   "Garden Grove": 340879.0,
+   "Huntington Beach": 513083.0,
+   "Irvine": 547673.0,
+   "Newport Beach": 1232840.0,
+   "Santa Ana": 275212.0,
+   "Tustin": 428640.0,
+   "Westminster": 411025.0
+  },
+  {
+   "month": "2011-05",
+   "Anaheim": 351505.0,
+   "Costa Mesa": 475397.0,
+   "Fountain Valley": 488377.0,
+   "Fullerton": 420984.0,
+   "Garden Grove": 337007.0,
+   "Huntington Beach": 508391.0,
+   "Irvine": 542159.0,
+   "Newport Beach": 1226783.0,
+   "Santa Ana": 272690.0,
+   "Tustin": 424610.0,
+   "Westminster": 406290.0
+  },
+  {
+   "month": "2011-06",
+   "Anaheim": 349016.0,
+   "Costa Mesa": 471961.0,
+   "Fountain Valley": 484766.0,
+   "Fullerton": 417336.0,
+   "Garden Grove": 334391.0,
+   "Huntington Beach": 505257.0,
+   "Irvine": 538355.0,
+   "Newport Beach": 1222599.0,
+   "Santa Ana": 271261.0,
+   "Tustin": 421905.0,
+   "Westminster": 403603.0
+  },
+  {
+   "month": "2011-07",
+   "Anaheim": 348034.0,
+   "Costa Mesa": 470419.0,
+   "Fountain Valley": 482564.0,
+   "Fullerton": 415315.0,
+   "Garden Grove": 333514.0,
+   "Huntington Beach": 503917.0,
+   "Irvine": 536650.0,
+   "Newport Beach": 1223966.0,
+   "Santa Ana": 270750.0,
+   "Tustin": 420518.0,
+   "Westminster": 402569.0
+  },
+  {
+   "month": "2011-08",
+   "Anaheim": 347125.0,
+   "Costa Mesa": 469136.0,
+   "Fountain Valley": 480552.0,
+   "Fullerton": 413421.0,
+   "Garden Grove": 333029.0,
+   "Huntington Beach": 502488.0,
+   "Irvine": 535383.0,
+   "Newport Beach": 1225887.0,
+   "Santa Ana": 270453.0,
+   "Tustin": 418817.0,
+   "Westminster": 401504.0
+  },
+  {
+   "month": "2011-09",
+   "Anaheim": 344798.0,
+   "Costa Mesa": 466456.0,
+   "Fountain Valley": 476422.0,
+   "Fullerton": 409856.0,
+   "Garden Grove": 331069.0,
+   "Huntington Beach": 499022.0,
+   "Irvine": 532128.0,
+   "Newport Beach": 1224489.0,
+   "Santa Ana": 268664.0,
+   "Tustin": 415858.0,
+   "Westminster": 397907.0
+  },
+  {
+   "month": "2011-10",
+   "Anaheim": 342568.0,
+   "Costa Mesa": 464268.0,
+   "Fountain Valley": 472920.0,
+   "Fullerton": 406800.0,
+   "Garden Grove": 329011.0,
+   "Huntington Beach": 496108.0,
+   "Irvine": 529247.0,
+   "Newport Beach": 1220818.0,
+   "Santa Ana": 267203.0,
+   "Tustin": 412950.0,
+   "Westminster": 394446.0
+  },
+  {
+   "month": "2011-11",
+   "Anaheim": 341967.0,
+   "Costa Mesa": 463910.0,
+   "Fountain Valley": 471668.0,
+   "Fullerton": 406088.0,
+   "Garden Grove": 328682.0,
+   "Huntington Beach": 495604.0,
+   "Irvine": 528960.0,
+   "Newport Beach": 1224371.0,
+   "Santa Ana": 267149.0,
+   "Tustin": 412157.0,
+   "Westminster": 393018.0
+  },
+  {
+   "month": "2011-12",
+   "Anaheim": 342695.0,
+   "Costa Mesa": 464913.0,
+   "Fountain Valley": 473291.0,
+   "Fullerton": 407421.0,
+   "Garden Grove": 329861.0,
+   "Huntington Beach": 497299.0,
+   "Irvine": 530748.0,
+   "Newport Beach": 1223625.0,
+   "Santa Ana": 268133.0,
+   "Tustin": 412808.0,
+   "Westminster": 393966.0
+  },
+  {
+   "month": "2012-01",
+   "Anaheim": 342074.0,
+   "Costa Mesa": 463420.0,
+   "Fountain Valley": 472546.0,
+   "Fullerton": 406903.0,
+   "Garden Grove": 329425.0,
+   "Huntington Beach": 496809.0,
+   "Irvine": 530160.0,
+   "Newport Beach": 1218533.0,
+   "Santa Ana": 267943.0,
+   "Tustin": 411886.0,
+   "Westminster": 393057.0
+  },
+  {
+   "month": "2012-02",
+   "Anaheim": 340600.0,
+   "Costa Mesa": 460522.0,
+   "Fountain Valley": 470208.0,
+   "Fullerton": 405157.0,
+   "Garden Grove": 327818.0,
+   "Huntington Beach": 494718.0,
+   "Irvine": 528037.0,
+   "Newport Beach": 1206247.0,
+   "Santa Ana": 266398.0,
+   "Tustin": 409704.0,
+   "Westminster": 390616.0
+  },
+  {
+   "month": "2012-03",
+   "Anaheim": 338336.0,
+   "Costa Mesa": 457061.0,
+   "Fountain Valley": 466232.0,
+   "Fullerton": 402313.0,
+   "Garden Grove": 325264.0,
+   "Huntington Beach": 491327.0,
+   "Irvine": 524358.0,
+   "Newport Beach": 1200672.0,
+   "Santa Ana": 264025.0,
+   "Tustin": 406318.0,
+   "Westminster": 386801.0
+  },
+  {
+   "month": "2012-04",
+   "Anaheim": 336760.0,
+   "Costa Mesa": 455321.0,
+   "Fountain Valley": 463544.0,
+   "Fullerton": 400643.0,
+   "Garden Grove": 323597.0,
+   "Huntington Beach": 488989.0,
+   "Irvine": 521568.0,
+   "Newport Beach": 1198374.0,
+   "Santa Ana": 262045.0,
+   "Tustin": 403678.0,
+   "Westminster": 384352.0
+  },
+  {
+   "month": "2012-05",
+   "Anaheim": 336107.0,
+   "Costa Mesa": 455076.0,
+   "Fountain Valley": 462031.0,
+   "Fullerton": 400112.0,
+   "Garden Grove": 322972.0,
+   "Huntington Beach": 488399.0,
+   "Irvine": 520289.0,
+   "Newport Beach": 1201062.0,
+   "Santa Ana": 261193.0,
+   "Tustin": 402184.0,
+   "Westminster": 383477.0
+  },
+  {
+   "month": "2012-06",
+   "Anaheim": 336474.0,
+   "Costa Mesa": 456170.0,
+   "Fountain Valley": 461572.0,
+   "Fullerton": 400613.0,
+   "Garden Grove": 323542.0,
+   "Huntington Beach": 488988.0,
+   "Irvine": 520304.0,
+   "Newport Beach": 1207850.0,
+   "Santa Ana": 261608.0,
+   "Tustin": 402318.0,
+   "Westminster": 384018.0
+  },
+  {
+   "month": "2012-07",
+   "Anaheim": 338193.0,
+   "Costa Mesa": 459006.0,
+   "Fountain Valley": 463235.0,
+   "Fullerton": 402024.0,
+   "Garden Grove": 325690.0,
+   "Huntington Beach": 491237.0,
+   "Irvine": 521466.0,
+   "Newport Beach": 1213170.0,
+   "Santa Ana": 263622.0,
+   "Tustin": 404312.0,
+   "Westminster": 386348.0
+  },
+  {
+   "month": "2012-08",
+   "Anaheim": 341481.0,
+   "Costa Mesa": 464388.0,
+   "Fountain Valley": 467893.0,
+   "Fullerton": 404965.0,
+   "Garden Grove": 329767.0,
+   "Huntington Beach": 495705.0,
+   "Irvine": 523847.0,
+   "Newport Beach": 1218399.0,
+   "Santa Ana": 267152.0,
+   "Tustin": 408003.0,
+   "Westminster": 391091.0
+  },
+  {
+   "month": "2012-09",
+   "Anaheim": 346573.0,
+   "Costa Mesa": 472132.0,
+   "Fountain Valley": 474304.0,
+   "Fullerton": 409558.0,
+   "Garden Grove": 335608.0,
+   "Huntington Beach": 501891.0,
+   "Irvine": 527793.0,
+   "Newport Beach": 1222202.0,
+   "Santa Ana": 272270.0,
+   "Tustin": 412898.0,
+   "Westminster": 397620.0
+  },
+  {
+   "month": "2012-10",
+   "Anaheim": 352555.0,
+   "Costa Mesa": 480649.0,
+   "Fountain Valley": 481359.0,
+   "Fullerton": 415453.0,
+   "Garden Grove": 342298.0,
+   "Huntington Beach": 509312.0,
+   "Irvine": 534372.0,
+   "Newport Beach": 1232820.0,
+   "Santa Ana": 278137.0,
+   "Tustin": 418845.0,
+   "Westminster": 404372.0
+  },
+  {
+   "month": "2012-11",
+   "Anaheim": 359227.0,
+   "Costa Mesa": 489846.0,
+   "Fountain Valley": 488593.0,
+   "Fullerton": 422666.0,
+   "Garden Grove": 349622.0,
+   "Huntington Beach": 517264.0,
+   "Irvine": 543565.0,
+   "Newport Beach": 1253437.0,
+   "Santa Ana": 284634.0,
+   "Tustin": 425650.0,
+   "Westminster": 411063.0
+  },
+  {
+   "month": "2012-12",
+   "Anaheim": 365601.0,
+   "Costa Mesa": 498551.0,
+   "Fountain Valley": 496062.0,
+   "Fullerton": 429839.0,
+   "Garden Grove": 356494.0,
+   "Huntington Beach": 524857.0,
+   "Irvine": 553270.0,
+   "Newport Beach": 1277425.0,
+   "Santa Ana": 290978.0,
+   "Tustin": 432914.0,
+   "Westminster": 417245.0
+  },
+  {
+   "month": "2013-01",
+   "Anaheim": 371648.0,
+   "Costa Mesa": 506473.0,
+   "Fountain Valley": 503074.0,
+   "Fullerton": 436663.0,
+   "Garden Grove": 362687.0,
+   "Huntington Beach": 532041.0,
+   "Irvine": 563226.0,
+   "Newport Beach": 1302532.0,
+   "Santa Ana": 296792.0,
+   "Tustin": 440247.0,
+   "Westminster": 422753.0
+  },
+  {
+   "month": "2013-02",
+   "Anaheim": 376636.0,
+   "Costa Mesa": 513181.0,
+   "Fountain Valley": 508133.0,
+   "Fullerton": 442150.0,
+   "Garden Grove": 367233.0,
+   "Huntington Beach": 537327.0,
+   "Irvine": 571696.0,
+   "Newport Beach": 1311636.0,
+   "Santa Ana": 301387.0,
+   "Tustin": 447402.0,
+   "Westminster": 426751.0
+  },
+  {
+   "month": "2013-03",
+   "Anaheim": 380896.0,
+   "Costa Mesa": 519653.0,
+   "Fountain Valley": 511807.0,
+   "Fullerton": 446916.0,
+   "Garden Grove": 370587.0,
+   "Huntington Beach": 541749.0,
+   "Irvine": 580079.0,
+   "Newport Beach": 1313985.0,
+   "Santa Ana": 305223.0,
+   "Tustin": 453928.0,
+   "Westminster": 430180.0
+  },
+  {
+   "month": "2013-04",
+   "Anaheim": 385147.0,
+   "Costa Mesa": 527237.0,
+   "Fountain Valley": 515454.0,
+   "Fullerton": 452008.0,
+   "Garden Grove": 373778.0,
+   "Huntington Beach": 546155.0,
+   "Irvine": 587800.0,
+   "Newport Beach": 1309366.0,
+   "Santa Ana": 308949.0,
+   "Tustin": 459954.0,
+   "Westminster": 434173.0
+  },
+  {
+   "month": "2013-05",
+   "Anaheim": 390976.0,
+   "Costa Mesa": 536874.0,
+   "Fountain Valley": 521170.0,
+   "Fullerton": 458826.0,
+   "Garden Grove": 378683.0,
+   "Huntington Beach": 552723.0,
+   "Irvine": 597473.0,
+   "Newport Beach": 1315304.0,
+   "Santa Ana": 314644.0,
+   "Tustin": 466655.0,
+   "Westminster": 439852.0
+  },
+  {
+   "month": "2013-06",
+   "Anaheim": 397889.0,
+   "Costa Mesa": 546228.0,
+   "Fountain Valley": 527535.0,
+   "Fullerton": 466797.0,
+   "Garden Grove": 384798.0,
+   "Huntington Beach": 560071.0,
+   "Irvine": 609067.0,
+   "Newport Beach": 1328215.0,
+   "Santa Ana": 321639.0,
+   "Tustin": 474576.0,
+   "Westminster": 446076.0
+  },
+  {
+   "month": "2013-07",
+   "Anaheim": 405086.0,
+   "Costa Mesa": 555003.0,
+   "Fountain Valley": 533567.0,
+   "Fullerton": 474434.0,
+   "Garden Grove": 390767.0,
+   "Huntington Beach": 566747.0,
+   "Irvine": 620692.0,
+   "Newport Beach": 1341557.0,
+   "Santa Ana": 329720.0,
+   "Tustin": 482940.0,
+   "Westminster": 452470.0
+  },
+  {
+   "month": "2013-08",
+   "Anaheim": 411797.0,
+   "Costa Mesa": 562562.0,
+   "Fountain Valley": 538588.0,
+   "Fullerton": 481484.0,
+   "Garden Grove": 396149.0,
+   "Huntington Beach": 572589.0,
+   "Irvine": 630574.0,
+   "Newport Beach": 1349685.0,
+   "Santa Ana": 337526.0,
+   "Tustin": 490694.0,
+   "Westminster": 458867.0
+  },
+  {
+   "month": "2013-09",
+   "Anaheim": 418632.0,
+   "Costa Mesa": 571422.0,
+   "Fountain Valley": 544119.0,
+   "Fullerton": 488123.0,
+   "Garden Grove": 401790.0,
+   "Huntington Beach": 579455.0,
+   "Irvine": 639660.0,
+   "Newport Beach": 1359971.0,
+   "Santa Ana": 345251.0,
+   "Tustin": 498452.0,
+   "Westminster": 465190.0
+  },
+  {
+   "month": "2013-10",
+   "Anaheim": 425069.0,
+   "Costa Mesa": 580238.0,
+   "Fountain Valley": 550189.0,
+   "Fullerton": 494776.0,
+   "Garden Grove": 407659.0,
+   "Huntington Beach": 587235.0,
+   "Irvine": 649239.0,
+   "Newport Beach": 1380161.0,
+   "Santa Ana": 352280.0,
+   "Tustin": 506316.0,
+   "Westminster": 471198.0
+  },
+  {
+   "month": "2013-11",
+   "Anaheim": 430815.0,
+   "Costa Mesa": 587867.0,
+   "Fountain Valley": 556510.0,
+   "Fullerton": 500563.0,
+   "Garden Grove": 413120.0,
+   "Huntington Beach": 594979.0,
+   "Irvine": 659422.0,
+   "Newport Beach": 1409648.0,
+   "Santa Ana": 357922.0,
+   "Tustin": 513672.0,
+   "Westminster": 476345.0
+  },
+  {
+   "month": "2013-12",
+   "Anaheim": 435126.0,
+   "Costa Mesa": 593768.0,
+   "Fountain Valley": 562222.0,
+   "Fullerton": 505239.0,
+   "Garden Grove": 417226.0,
+   "Huntington Beach": 601712.0,
+   "Irvine": 668950.0,
+   "Newport Beach": 1438064.0,
+   "Santa Ana": 362069.0,
+   "Tustin": 519595.0,
+   "Westminster": 480797.0
+  },
+  {
+   "month": "2014-01",
+   "Anaheim": 438318.0,
+   "Costa Mesa": 597292.0,
+   "Fountain Valley": 566215.0,
+   "Fullerton": 508553.0,
+   "Garden Grove": 420352.0,
+   "Huntington Beach": 606739.0,
+   "Irvine": 677546.0,
+   "Newport Beach": 1460462.0,
+   "Santa Ana": 365057.0,
+   "Tustin": 524216.0,
+   "Westminster": 483909.0
+  },
+  {
+   "month": "2014-02",
+   "Anaheim": 440481.0,
+   "Costa Mesa": 599451.0,
+   "Fountain Valley": 568502.0,
+   "Fullerton": 510749.0,
+   "Garden Grove": 422151.0,
+   "Huntington Beach": 610015.0,
+   "Irvine": 684076.0,
+   "Newport Beach": 1477218.0,
+   "Santa Ana": 366933.0,
+   "Tustin": 528145.0,
+   "Westminster": 486031.0
+  },
+  {
+   "month": "2014-03",
+   "Anaheim": 442377.0,
+   "Costa Mesa": 601531.0,
+   "Fountain Valley": 570768.0,
+   "Fullerton": 512943.0,
+   "Garden Grove": 423944.0,
+   "Huntington Beach": 612784.0,
+   "Irvine": 689744.0,
+   "Newport Beach": 1492187.0,
+   "Santa Ana": 368187.0,
+   "Tustin": 531553.0,
+   "Westminster": 488691.0
+  },
+  {
+   "month": "2014-04",
+   "Anaheim": 444566.0,
+   "Costa Mesa": 604748.0,
+   "Fountain Valley": 573174.0,
+   "Fullerton": 515917.0,
+   "Garden Grove": 426015.0,
+   "Huntington Beach": 615266.0,
+   "Irvine": 694588.0,
+   "Newport Beach": 1506261.0,
+   "Santa Ana": 369586.0,
+   "Tustin": 534604.0,
+   "Westminster": 492162.0
+  },
+  {
+   "month": "2014-05",
+   "Anaheim": 446722.0,
+   "Costa Mesa": 608740.0,
+   "Fountain Valley": 575849.0,
+   "Fullerton": 519095.0,
+   "Garden Grove": 428135.0,
+   "Huntington Beach": 617491.0,
+   "Irvine": 699002.0,
+   "Newport Beach": 1520490.0,
+   "Santa Ana": 371529.0,
+   "Tustin": 537251.0,
+   "Westminster": 495164.0
+  },
+  {
+   "month": "2014-06",
+   "Anaheim": 448490.0,
+   "Costa Mesa": 611116.0,
+   "Fountain Valley": 576590.0,
+   "Fullerton": 521078.0,
+   "Garden Grove": 429653.0,
+   "Huntington Beach": 617783.0,
+   "Irvine": 700889.0,
+   "Newport Beach": 1530503.0,
+   "Santa Ana": 373389.0,
+   "Tustin": 539045.0,
+   "Westminster": 496375.0
+  },
+  {
+   "month": "2014-07",
+   "Anaheim": 450176.0,
+   "Costa Mesa": 613345.0,
+   "Fountain Valley": 577265.0,
+   "Fullerton": 522128.0,
+   "Garden Grove": 430785.0,
+   "Huntington Beach": 617102.0,
+   "Irvine": 700176.0,
+   "Newport Beach": 1533840.0,
+   "Santa Ana": 375732.0,
+   "Tustin": 540320.0,
+   "Westminster": 497613.0
+  },
+  {
+   "month": "2014-08",
+   "Anaheim": 452053.0,
+   "Costa Mesa": 614972.0,
+   "Fountain Valley": 577298.0,
+   "Fullerton": 522600.0,
+   "Garden Grove": 432194.0,
+   "Huntington Beach": 616025.0,
+   "Irvine": 697397.0,
+   "Newport Beach": 1530833.0,
+   "Santa Ana": 378638.0,
+   "Tustin": 541228.0,
+   "Westminster": 499383.0
+  },
+  {
+   "month": "2014-09",
+   "Anaheim": 455283.0,
+   "Costa Mesa": 619356.0,
+   "Fountain Valley": 579471.0,
+   "Fullerton": 524877.0,
+   "Garden Grove": 434853.0,
+   "Huntington Beach": 617314.0,
+   "Irvine": 696910.0,
+   "Newport Beach": 1532763.0,
+   "Santa Ana": 383003.0,
+   "Tustin": 543284.0,
+   "Westminster": 502979.0
+  },
+  {
+   "month": "2014-10",
+   "Anaheim": 458624.0,
+   "Costa Mesa": 624046.0,
+   "Fountain Valley": 582314.0,
+   "Fullerton": 527835.0,
+   "Garden Grove": 438051.0,
+   "Huntington Beach": 620589.0,
+   "Irvine": 698734.0,
+   "Newport Beach": 1547190.0,
+   "Santa Ana": 387220.0,
+   "Tustin": 546415.0,
+   "Westminster": 506400.0
+  },
+  {
+   "month": "2014-11",
+   "Anaheim": 462427.0,
+   "Costa Mesa": 630247.0,
+   "Fountain Valley": 587593.0,
+   "Fullerton": 532485.0,
+   "Garden Grove": 442363.0,
+   "Huntington Beach": 626215.0,
+   "Irvine": 703668.0,
+   "Newport Beach": 1571542.0,
+   "Santa Ana": 391942.0,
+   "Tustin": 550435.0,
+   "Westminster": 511227.0
+  },
+  {
+   "month": "2014-12",
+   "Anaheim": 465765.0,
+   "Costa Mesa": 635641.0,
+   "Fountain Valley": 592881.0,
+   "Fullerton": 536846.0,
+   "Garden Grove": 446100.0,
+   "Huntington Beach": 632257.0,
+   "Irvine": 708559.0,
+   "Newport Beach": 1598168.0,
+   "Santa Ana": 395988.0,
+   "Tustin": 554472.0,
+   "Westminster": 515598.0
+  },
+  {
+   "month": "2015-01",
+   "Anaheim": 468985.0,
+   "Costa Mesa": 640402.0,
+   "Fountain Valley": 598413.0,
+   "Fullerton": 540812.0,
+   "Garden Grove": 449474.0,
+   "Huntington Beach": 637768.0,
+   "Irvine": 713460.0,
+   "Newport Beach": 1625649.0,
+   "Santa Ana": 398967.0,
+   "Tustin": 558127.0,
+   "Westminster": 519802.0
+  },
+  {
+   "month": "2015-02",
+   "Anaheim": 471614.0,
+   "Costa Mesa": 643618.0,
+   "Fountain Valley": 601958.0,
+   "Fullerton": 543313.0,
+   "Garden Grove": 451523.0,
+   "Huntington Beach": 641393.0,
+   "Irvine": 717375.0,
+   "Newport Beach": 1647770.0,
+   "Santa Ana": 399971.0,
+   "Tustin": 560995.0,
+   "Westminster": 522321.0
+  },
+  {
+   "month": "2015-03",
+   "Anaheim": 473671.0,
+   "Costa Mesa": 645539.0,
+   "Fountain Valley": 604320.0,
+   "Fullerton": 544624.0,
+   "Garden Grove": 453131.0,
+   "Huntington Beach": 643428.0,
+   "Irvine": 720393.0,
+   "Newport Beach": 1660739.0,
+   "Santa Ana": 399989.0,
+   "Tustin": 563342.0,
+   "Westminster": 523814.0
+  },
+  {
+   "month": "2015-04",
+   "Anaheim": 475058.0,
+   "Costa Mesa": 646586.0,
+   "Fountain Valley": 604733.0,
+   "Fullerton": 544958.0,
+   "Garden Grove": 454059.0,
+   "Huntington Beach": 643403.0,
+   "Irvine": 720603.0,
+   "Newport Beach": 1658744.0,
+   "Santa Ana": 400077.0,
+   "Tustin": 564401.0,
+   "Westminster": 524192.0
+  },
+  {
+   "month": "2015-05",
+   "Anaheim": 476259.0,
+   "Costa Mesa": 647781.0,
+   "Fountain Valley": 605452.0,
+   "Fullerton": 545395.0,
+   "Garden Grove": 455265.0,
+   "Huntington Beach": 643818.0,
+   "Irvine": 720377.0,
+   "Newport Beach": 1655364.0,
+   "Santa Ana": 401092.0,
+   "Tustin": 565842.0,
+   "Westminster": 524735.0
+  },
+  {
+   "month": "2015-06",
+   "Anaheim": 477676.0,
+   "Costa Mesa": 648303.0,
+   "Fountain Valley": 606138.0,
+   "Fullerton": 546007.0,
+   "Garden Grove": 456892.0,
+   "Huntington Beach": 643899.0,
+   "Irvine": 719771.0,
+   "Newport Beach": 1652914.0,
+   "Santa Ana": 402649.0,
+   "Tustin": 567060.0,
+   "Westminster": 525835.0
+  },
+  {
+   "month": "2015-07",
+   "Anaheim": 480055.0,
+   "Costa Mesa": 649432.0,
+   "Fountain Valley": 608239.0,
+   "Fullerton": 547679.0,
+   "Garden Grove": 459706.0,
+   "Huntington Beach": 645522.0,
+   "Irvine": 719771.0,
+   "Newport Beach": 1648012.0,
+   "Santa Ana": 405339.0,
+   "Tustin": 568881.0,
+   "Westminster": 528619.0
+  },
+  {
+   "month": "2015-08",
+   "Anaheim": 480739.0,
+   "Costa Mesa": 647005.0,
+   "Fountain Valley": 607073.0,
+   "Fullerton": 546771.0,
+   "Garden Grove": 460369.0,
+   "Huntington Beach": 643847.0,
+   "Irvine": 716329.0,
+   "Newport Beach": 1624153.0,
+   "Santa Ana": 406131.0,
+   "Tustin": 567807.0,
+   "Westminster": 529127.0
+  },
+  {
+   "month": "2015-09",
+   "Anaheim": 479882.0,
+   "Costa Mesa": 642353.0,
+   "Fountain Valley": 603266.0,
+   "Fullerton": 543905.0,
+   "Garden Grove": 458624.0,
+   "Huntington Beach": 639667.0,
+   "Irvine": 710598.0,
+   "Newport Beach": 1587204.0,
+   "Santa Ana": 405458.0,
+   "Tustin": 565157.0,
+   "Westminster": 527624.0
+  },
+  {
+   "month": "2015-10",
+   "Anaheim": 476672.0,
+   "Costa Mesa": 634718.0,
+   "Fountain Valley": 596000.0,
+   "Fullerton": 538695.0,
+   "Garden Grove": 454124.0,
+   "Huntington Beach": 632595.0,
+   "Irvine": 704057.0,
+   "Newport Beach": 1549277.0,
+   "Santa Ana": 401978.0,
+   "Tustin": 560628.0,
+   "Westminster": 523048.0
+  },
+  {
+   "month": "2015-11",
+   "Anaheim": 473100.0,
+   "Costa Mesa": 627727.0,
+   "Fountain Valley": 588974.0,
+   "Fullerton": 533798.0,
+   "Garden Grove": 449282.0,
+   "Huntington Beach": 625382.0,
+   "Irvine": 699517.0,
+   "Newport Beach": 1521725.0,
+   "Santa Ana": 397689.0,
+   "Tustin": 556747.0,
+   "Westminster": 518160.0
+  },
+  {
+   "month": "2015-12",
+   "Anaheim": 469186.0,
+   "Costa Mesa": 621744.0,
+   "Fountain Valley": 582844.0,
+   "Fullerton": 529428.0,
+   "Garden Grove": 444562.0,
+   "Huntington Beach": 619164.0,
+   "Irvine": 696313.0,
+   "Newport Beach": 1505458.0,
+   "Santa Ana": 393270.0,
+   "Tustin": 553025.0,
+   "Westminster": 513219.0
+  },
+  {
+   "month": "2016-01",
+   "Anaheim": 471263.0,
+   "Costa Mesa": 626105.0,
+   "Fountain Valley": 587765.0,
+   "Fullerton": 532498.0,
+   "Garden Grove": 446733.0,
+   "Huntington Beach": 623075.0,
+   "Irvine": 700601.0,
+   "Newport Beach": 1517484.0,
+   "Santa Ana": 395378.0,
+   "Tustin": 556444.0,
+   "Westminster": 515775.0
+  },
+  {
+   "month": "2016-02",
+   "Anaheim": 478714.0,
+   "Costa Mesa": 638997.0,
+   "Fountain Valley": 600991.0,
+   "Fullerton": 541928.0,
+   "Garden Grove": 454930.0,
+   "Huntington Beach": 635698.0,
+   "Irvine": 710225.0,
+   "Newport Beach": 1555910.0,
+   "Santa Ana": 403491.0,
+   "Tustin": 565381.0,
+   "Westminster": 525134.0
+  },
+  {
+   "month": "2016-03",
+   "Anaheim": 489504.0,
+   "Costa Mesa": 656456.0,
+   "Fountain Valley": 619722.0,
+   "Fullerton": 555285.0,
+   "Garden Grove": 467206.0,
+   "Huntington Beach": 653635.0,
+   "Irvine": 722543.0,
+   "Newport Beach": 1607289.0,
+   "Santa Ana": 414631.0,
+   "Tustin": 577838.0,
+   "Westminster": 538550.0
+  },
+  {
+   "month": "2016-04",
+   "Anaheim": 497372.0,
+   "Costa Mesa": 667655.0,
+   "Fountain Valley": 631089.0,
+   "Fullerton": 564089.0,
+   "Garden Grove": 476011.0,
+   "Huntington Beach": 665236.0,
+   "Irvine": 729965.0,
+   "Newport Beach": 1642362.0,
+   "Santa Ana": 422388.0,
+   "Tustin": 586056.0,
+   "Westminster": 547335.0
+  },
+  {
+   "month": "2016-05",
+   "Anaheim": 502524.0,
+   "Costa Mesa": 674259.0,
+   "Fountain Valley": 637362.0,
+   "Fullerton": 568899.0,
+   "Garden Grove": 481795.0,
+   "Huntington Beach": 671472.0,
+   "Irvine": 733738.0,
+   "Newport Beach": 1662344.0,
+   "Santa Ana": 427568.0,
+   "Tustin": 591449.0,
+   "Westminster": 552103.0
+  },
+  {
+   "month": "2016-06",
+   "Anaheim": 506849.0,
+   "Costa Mesa": 679127.0,
+   "Fountain Valley": 640480.0,
+   "Fullerton": 571985.0,
+   "Garden Grove": 486624.0,
+   "Huntington Beach": 674418.0,
+   "Irvine": 735652.0,
+   "Newport Beach": 1673491.0,
+   "Santa Ana": 432320.0,
+   "Tustin": 595066.0,
+   "Westminster": 555482.0
+  },
+  {
+   "month": "2016-07",
+   "Anaheim": 510918.0,
+   "Costa Mesa": 683440.0,
+   "Fountain Valley": 642861.0,
+   "Fullerton": 574655.0,
+   "Garden Grove": 490879.0,
+   "Huntington Beach": 676760.0,
+   "Irvine": 736896.0,
+   "Newport Beach": 1677413.0,
+   "Santa Ana": 436260.0,
+   "Tustin": 598056.0,
+   "Westminster": 558943.0
+  },
+  {
+   "month": "2016-08",
+   "Anaheim": 510910.0,
+   "Costa Mesa": 681299.0,
+   "Fountain Valley": 640057.0,
+   "Fullerton": 573184.0,
+   "Garden Grove": 490466.0,
+   "Huntington Beach": 673526.0,
+   "Irvine": 733060.0,
+   "Newport Beach": 1653880.0,
+   "Santa Ana": 435538.0,
+   "Tustin": 596018.0,
+   "Westminster": 557829.0
+  },
+  {
+   "month": "2016-09",
+   "Anaheim": 506817.0,
+   "Costa Mesa": 673685.0,
+   "Fountain Valley": 633540.0,
+   "Fullerton": 567933.0,
+   "Garden Grove": 485570.0,
+   "Huntington Beach": 666220.0,
+   "Irvine": 725980.0,
+   "Newport Beach": 1614612.0,
+   "Santa Ana": 430477.0,
+   "Tustin": 590629.0,
+   "Westminster": 552480.0
+  },
+  {
+   "month": "2016-10",
+   "Anaheim": 500602.0,
+   "Costa Mesa": 663016.0,
+   "Fountain Valley": 625777.0,
+   "Fullerton": 561025.0,
+   "Garden Grove": 478005.0,
+   "Huntington Beach": 657063.0,
+   "Irvine": 718148.0,
+   "Newport Beach": 1570357.0,
+   "Santa Ana": 422864.0,
+   "Tustin": 584204.0,
+   "Westminster": 544803.0
+  },
+  {
+   "month": "2016-11",
+   "Anaheim": 497608.0,
+   "Costa Mesa": 658041.0,
+   "Fountain Valley": 622889.0,
+   "Fullerton": 558464.0,
+   "Garden Grove": 474135.0,
+   "Huntington Beach": 653723.0,
+   "Irvine": 715484.0,
+   "Newport Beach": 1549472.0,
+   "Santa Ana": 418707.0,
+   "Tustin": 582194.0,
+   "Westminster": 541208.0
+  },
+  {
+   "month": "2016-12",
+   "Anaheim": 497880.0,
+   "Costa Mesa": 657728.0,
+   "Fountain Valley": 623478.0,
+   "Fullerton": 559576.0,
+   "Garden Grove": 473623.0,
+   "Huntington Beach": 654945.0,
+   "Irvine": 716739.0,
+   "Newport Beach": 1542638.0,
+   "Santa Ana": 417174.0,
+   "Tustin": 583504.0,
+   "Westminster": 540866.0
+  },
+  {
+   "month": "2017-01",
+   "Anaheim": 503937.0,
+   "Costa Mesa": 667218.0,
+   "Fountain Valley": 631870.0,
+   "Fullerton": 567294.0,
+   "Garden Grove": 480166.0,
+   "Huntington Beach": 664180.0,
+   "Irvine": 725268.0,
+   "Newport Beach": 1566504.0,
+   "Santa Ana": 423031.0,
+   "Tustin": 591219.0,
+   "Westminster": 547888.0
+  },
+  {
+   "month": "2017-02",
+   "Anaheim": 513374.0,
+   "Costa Mesa": 682146.0,
+   "Fountain Valley": 644285.0,
+   "Fullerton": 578260.0,
+   "Garden Grove": 490361.0,
+   "Huntington Beach": 677753.0,
+   "Irvine": 737245.0,
+   "Newport Beach": 1609271.0,
+   "Santa Ana": 433324.0,
+   "Tustin": 601899.0,
+   "Westminster": 558984.0
+  },
+  {
+   "month": "2017-03",
+   "Anaheim": 525281.0,
+   "Costa Mesa": 701091.0,
+   "Fountain Valley": 659181.0,
+   "Fullerton": 591230.0,
+   "Garden Grove": 503938.0,
+   "Huntington Beach": 693946.0,
+   "Irvine": 752349.0,
+   "Newport Beach": 1665824.0,
+   "Santa Ana": 447598.0,
+   "Tustin": 614605.0,
+   "Westminster": 573335.0
+  },
+  {
+   "month": "2017-04",
+   "Anaheim": 533217.0,
+   "Costa Mesa": 714303.0,
+   "Fountain Valley": 668807.0,
+   "Fullerton": 599015.0,
+   "Garden Grove": 514122.0,
+   "Huntington Beach": 704681.0,
+   "Irvine": 762588.0,
+   "Newport Beach": 1708521.0,
+   "Santa Ana": 458114.0,
+   "Tustin": 622530.0,
+   "Westminster": 583160.0
+  },
+  {
+   "month": "2017-05",
+   "Anaheim": 538821.0,
+   "Costa Mesa": 723305.0,
+   "Fountain Valley": 675117.0,
+   "Fullerton": 604070.0,
+   "Garden Grove": 522226.0,
+   "Huntington Beach": 711664.0,
+   "Irvine": 770344.0,
+   "Newport Beach": 1738192.0,
+   "Santa Ana": 465567.0,
+   "Tustin": 627759.0,
+   "Westminster": 590416.0
+  },
+  {
+   "month": "2017-06",
+   "Anaheim": 542374.0,
+   "Costa Mesa": 729120.0,
+   "Fountain Valley": 679833.0,
+   "Fullerton": 607145.0,
+   "Garden Grove": 527565.0,
+   "Huntington Beach": 716315.0,
+   "Irvine": 775302.0,
+   "Newport Beach": 1758895.0,
+   "Santa Ana": 470205.0,
+   "Tustin": 630943.0,
+   "Westminster": 594972.0
+  },
+  {
+   "month": "2017-07",
+   "Anaheim": 545816.0,
+   "Costa Mesa": 733418.0,
+   "Fountain Valley": 684425.0,
+   "Fullerton": 610454.0,
+   "Garden Grove": 531962.0,
+   "Huntington Beach": 720664.0,
+   "Irvine": 779663.0,
+   "Newport Beach": 1773705.0,
+   "Santa Ana": 473874.0,
+   "Tustin": 633908.0,
+   "Westminster": 598664.0
+  },
+  {
+   "month": "2017-08",
+   "Anaheim": 550236.0,
+   "Costa Mesa": 738063.0,
+   "Fountain Valley": 690231.0,
+   "Fullerton": 614632.0,
+   "Garden Grove": 537511.0,
+   "Huntington Beach": 726150.0,
+   "Irvine": 784590.0,
+   "Newport Beach": 1791328.0,
+   "Santa Ana": 478447.0,
+   "Tustin": 638102.0,
+   "Westminster": 603095.0
+  },
+  {
+   "month": "2017-09",
+   "Anaheim": 556693.0,
+   "Costa Mesa": 744676.0,
+   "Fountain Valley": 698101.0,
+   "Fullerton": 621148.0,
+   "Garden Grove": 545327.0,
+   "Huntington Beach": 733762.0,
+   "Irvine": 791824.0,
+   "Newport Beach": 1817186.0,
+   "Santa Ana": 485061.0,
+   "Tustin": 644963.0,
+   "Westminster": 610123.0
+  },
+  {
+   "month": "2017-10",
+   "Anaheim": 564907.0,
+   "Costa Mesa": 754985.0,
+   "Fountain Valley": 708421.0,
+   "Fullerton": 630201.0,
+   "Garden Grove": 555513.0,
+   "Huntington Beach": 744027.0,
+   "Irvine": 801119.0,
+   "Newport Beach": 1852452.0,
+   "Santa Ana": 494397.0,
+   "Tustin": 653634.0,
+   "Westminster": 619863.0
+  },
+  {
+   "month": "2017-11",
+   "Anaheim": 572692.0,
+   "Costa Mesa": 766320.0,
+   "Fountain Valley": 718585.0,
+   "Fullerton": 639599.0,
+   "Garden Grove": 564949.0,
+   "Huntington Beach": 753962.0,
+   "Irvine": 810576.0,
+   "Newport Beach": 1886959.0,
+   "Santa Ana": 503704.0,
+   "Tustin": 662025.0,
+   "Westminster": 629198.0
+  },
+  {
+   "month": "2017-12",
+   "Anaheim": 580697.0,
+   "Costa Mesa": 778786.0,
+   "Fountain Valley": 729263.0,
+   "Fullerton": 649085.0,
+   "Garden Grove": 574688.0,
+   "Huntington Beach": 764822.0,
+   "Irvine": 820953.0,
+   "Newport Beach": 1921357.0,
+   "Santa Ana": 513827.0,
+   "Tustin": 670479.0,
+   "Westminster": 639304.0
+  },
+  {
+   "month": "2018-01",
+   "Anaheim": 586360.0,
+   "Costa Mesa": 789001.0,
+   "Fountain Valley": 737224.0,
+   "Fullerton": 656053.0,
+   "Garden Grove": 581656.0,
+   "Huntington Beach": 772911.0,
+   "Irvine": 828966.0,
+   "Newport Beach": 1950742.0,
+   "Santa Ana": 521021.0,
+   "Tustin": 676556.0,
+   "Westminster": 646821.0
+  },
+  {
+   "month": "2018-02",
+   "Anaheim": 588956.0,
+   "Costa Mesa": 794554.0,
+   "Fountain Valley": 741425.0,
+   "Fullerton": 658698.0,
+   "Garden Grove": 585106.0,
+   "Huntington Beach": 777068.0,
+   "Irvine": 833564.0,
+   "Newport Beach": 1967944.0,
+   "Santa Ana": 524557.0,
+   "Tustin": 679832.0,
+   "Westminster": 650708.0
+  },
+  {
+   "month": "2018-03",
+   "Anaheim": 587681.0,
+   "Costa Mesa": 794894.0,
+   "Fountain Valley": 740068.0,
+   "Fullerton": 656786.0,
+   "Garden Grove": 583758.0,
+   "Huntington Beach": 775479.0,
+   "Irvine": 833258.0,
+   "Newport Beach": 1967970.0,
+   "Santa Ana": 523592.0,
+   "Tustin": 679305.0,
+   "Westminster": 649507.0
+  },
+  {
+   "month": "2018-04",
+   "Anaheim": 585466.0,
+   "Costa Mesa": 791766.0,
+   "Fountain Valley": 737009.0,
+   "Fullerton": 652775.0,
+   "Garden Grove": 581177.0,
+   "Huntington Beach": 772304.0,
+   "Irvine": 832551.0,
+   "Newport Beach": 1956861.0,
+   "Santa Ana": 521263.0,
+   "Tustin": 678306.0,
+   "Westminster": 646374.0
+  },
+  {
+   "month": "2018-05",
+   "Anaheim": 584793.0,
+   "Costa Mesa": 790033.0,
+   "Fountain Valley": 736086.0,
+   "Fullerton": 650713.0,
+   "Garden Grove": 580163.0,
+   "Huntington Beach": 771032.0,
+   "Irvine": 833220.0,
+   "Newport Beach": 1950760.0,
+   "Santa Ana": 520648.0,
+   "Tustin": 678169.0,
+   "Westminster": 644853.0
+  },
+  {
+   "month": "2018-06",
+   "Anaheim": 585220.0,
+   "Costa Mesa": 789379.0,
+   "Fountain Valley": 737535.0,
+   "Fullerton": 650377.0,
+   "Garden Grove": 580874.0,
+   "Huntington Beach": 771146.0,
+   "Irvine": 834903.0,
+   "Newport Beach": 1943517.0,
+   "Santa Ana": 521112.0,
+   "Tustin": 678551.0,
+   "Westminster": 644872.0
+  },
+  {
+   "month": "2018-07",
+   "Anaheim": 585775.0,
+   "Costa Mesa": 788498.0,
+   "Fountain Valley": 738031.0,
+   "Fullerton": 650372.0,
+   "Garden Grove": 581402.0,
+   "Huntington Beach": 770240.0,
+   "Irvine": 835974.0,
+   "Newport Beach": 1934349.0,
+   "Santa Ana": 521903.0,
+   "Tustin": 678692.0,
+   "Westminster": 645359.0
+  },
+  {
+   "month": "2018-08",
+   "Anaheim": 587958.0,
+   "Costa Mesa": 790251.0,
+   "Fountain Valley": 740744.0,
+   "Fullerton": 651898.0,
+   "Garden Grove": 584068.0,
+   "Huntington Beach": 771797.0,
+   "Irvine": 838565.0,
+   "Newport Beach": 1930598.0,
+   "Santa Ana": 524212.0,
+   "Tustin": 681037.0,
+   "Westminster": 648151.0
+  },
+  {
+   "month": "2018-09",
+   "Anaheim": 591181.0,
+   "Costa Mesa": 793643.0,
+   "Fountain Valley": 745306.0,
+   "Fullerton": 654447.0,
+   "Garden Grove": 588041.0,
+   "Huntington Beach": 775440.0,
+   "Irvine": 842211.0,
+   "Newport Beach": 1937702.0,
+   "Santa Ana": 527751.0,
+   "Tustin": 684704.0,
+   "Westminster": 652542.0
+  },
+  {
+   "month": "2018-10",
+   "Anaheim": 596228.0,
+   "Costa Mesa": 800338.0,
+   "Fountain Valley": 753076.0,
+   "Fullerton": 659591.0,
+   "Garden Grove": 594674.0,
+   "Huntington Beach": 782580.0,
+   "Irvine": 847240.0,
+   "Newport Beach": 1953692.0,
+   "Santa Ana": 533567.0,
+   "Tustin": 690176.0,
+   "Westminster": 659217.0
+  },
+  {
+   "month": "2018-11",
+   "Anaheim": 600026.0,
+   "Costa Mesa": 804766.0,
+   "Fountain Valley": 758812.0,
+   "Fullerton": 663167.0,
+   "Garden Grove": 599994.0,
+   "Huntington Beach": 788054.0,
+   "Irvine": 851546.0,
+   "Newport Beach": 1965148.0,
+   "Santa Ana": 538405.0,
+   "Tustin": 694119.0,
+   "Westminster": 664704.0
+  },
+  {
+   "month": "2018-12",
+   "Anaheim": 602057.0,
+   "Costa Mesa": 807176.0,
+   "Fountain Valley": 761596.0,
+   "Fullerton": 664779.0,
+   "Garden Grove": 603378.0,
+   "Huntington Beach": 790335.0,
+   "Irvine": 854242.0,
+   "Newport Beach": 1972155.0,
+   "Santa Ana": 541977.0,
+   "Tustin": 696376.0,
+   "Westminster": 667921.0
+  },
+  {
+   "month": "2019-01",
+   "Anaheim": 599665.0,
+   "Costa Mesa": 803602.0,
+   "Fountain Valley": 759208.0,
+   "Fullerton": 661872.0,
+   "Garden Grove": 601389.0,
+   "Huntington Beach": 787275.0,
+   "Irvine": 851977.0,
+   "Newport Beach": 1957135.0,
+   "Santa Ana": 540316.0,
+   "Tustin": 693667.0,
+   "Westminster": 666196.0
+  },
+  {
+   "month": "2019-02",
+   "Anaheim": 594768.0,
+   "Costa Mesa": 796413.0,
+   "Fountain Valley": 752915.0,
+   "Fullerton": 656532.0,
+   "Garden Grove": 596250.0,
+   "Huntington Beach": 780434.0,
+   "Irvine": 845669.0,
+   "Newport Beach": 1926700.0,
+   "Santa Ana": 535742.0,
+   "Tustin": 687543.0,
+   "Westminster": 661263.0
+  },
+  {
+   "month": "2019-03",
+   "Anaheim": 589912.0,
+   "Costa Mesa": 788645.0,
+   "Fountain Valley": 745779.0,
+   "Fullerton": 651833.0,
+   "Garden Grove": 590859.0,
+   "Huntington Beach": 773577.0,
+   "Irvine": 837704.0,
+   "Newport Beach": 1890019.0,
+   "Santa Ana": 530611.0,
+   "Tustin": 680659.0,
+   "Westminster": 656080.0
+  },
+  {
+   "month": "2019-04",
+   "Anaheim": 588652.0,
+   "Costa Mesa": 785706.0,
+   "Fountain Valley": 743081.0,
+   "Fullerton": 650504.0,
+   "Garden Grove": 589413.0,
+   "Huntington Beach": 770955.0,
+   "Irvine": 833539.0,
+   "Newport Beach": 1873441.0,
+   "Santa Ana": 529016.0,
+   "Tustin": 678098.0,
+   "Westminster": 654093.0
+  },
+  {
+   "month": "2019-05",
+   "Anaheim": 589457.0,
+   "Costa Mesa": 785971.0,
+   "Fountain Valley": 743346.0,
+   "Fullerton": 651436.0,
+   "Garden Grove": 590577.0,
+   "Huntington Beach": 770841.0,
+   "Irvine": 831229.0,
+   "Newport Beach": 1870126.0,
+   "Santa Ana": 529326.0,
+   "Tustin": 677802.0,
+   "Westminster": 654345.0
+  },
+  {
+   "month": "2019-06",
+   "Anaheim": 590828.0,
+   "Costa Mesa": 786603.0,
+   "Fountain Valley": 745600.0,
+   "Fullerton": 652413.0,
+   "Garden Grove": 592092.0,
+   "Huntington Beach": 772327.0,
+   "Irvine": 829878.0,
+   "Newport Beach": 1871051.0,
+   "Santa Ana": 530020.0,
+   "Tustin": 678271.0,
+   "Westminster": 655344.0
+  },
+  {
+   "month": "2019-07",
+   "Anaheim": 592232.0,
+   "Costa Mesa": 787344.0,
+   "Fountain Valley": 747946.0,
+   "Fullerton": 653279.0,
+   "Garden Grove": 593745.0,
+   "Huntington Beach": 773709.0,
+   "Irvine": 828008.0,
+   "Newport Beach": 1872797.0,
+   "Santa Ana": 531157.0,
+   "Tustin": 678140.0,
+   "Westminster": 656594.0
+  },
+  {
+   "month": "2019-08",
+   "Anaheim": 595042.0,
+   "Costa Mesa": 790132.0,
+   "Fountain Valley": 752363.0,
+   "Fullerton": 655392.0,
+   "Garden Grove": 596968.0,
+   "Huntington Beach": 777478.0,
+   "Irvine": 827979.0,
+   "Newport Beach": 1883690.0,
+   "Santa Ana": 533993.0,
+   "Tustin": 679824.0,
+   "Westminster": 659476.0
+  },
+  {
+   "month": "2019-09",
+   "Anaheim": 599387.0,
+   "Costa Mesa": 795743.0,
+   "Fountain Valley": 758635.0,
+   "Fullerton": 659270.0,
+   "Garden Grove": 602660.0,
+   "Huntington Beach": 783803.0,
+   "Irvine": 830439.0,
+   "Newport Beach": 1902606.0,
+   "Santa Ana": 538748.0,
+   "Tustin": 683556.0,
+   "Westminster": 664882.0
+  },
+  {
+   "month": "2019-10",
+   "Anaheim": 604677.0,
+   "Costa Mesa": 803022.0,
+   "Fountain Valley": 765633.0,
+   "Fullerton": 664171.0,
+   "Garden Grove": 609962.0,
+   "Huntington Beach": 791254.0,
+   "Irvine": 834465.0,
+   "Newport Beach": 1926293.0,
+   "Santa Ana": 544830.0,
+   "Tustin": 688270.0,
+   "Westminster": 671640.0
+  },
+  {
+   "month": "2019-11",
+   "Anaheim": 609702.0,
+   "Costa Mesa": 809314.0,
+   "Fountain Valley": 772026.0,
+   "Fullerton": 668745.0,
+   "Garden Grove": 617177.0,
+   "Huntington Beach": 797639.0,
+   "Irvine": 837892.0,
+   "Newport Beach": 1941347.0,
+   "Santa Ana": 551019.0,
+   "Tustin": 692622.0,
+   "Westminster": 678121.0
+  },
+  {
+   "month": "2019-12",
+   "Anaheim": 614262.0,
+   "Costa Mesa": 814543.0,
+   "Fountain Valley": 777170.0,
+   "Fullerton": 672746.0,
+   "Garden Grove": 623480.0,
+   "Huntington Beach": 802086.0,
+   "Irvine": 840065.0,
+   "Newport Beach": 1951245.0,
+   "Santa Ana": 556912.0,
+   "Tustin": 696123.0,
+   "Westminster": 683471.0
+  },
+  {
+   "month": "2020-01",
+   "Anaheim": 617517.0,
+   "Costa Mesa": 817331.0,
+   "Fountain Valley": 780266.0,
+   "Fullerton": 675362.0,
+   "Garden Grove": 627040.0,
+   "Huntington Beach": 803652.0,
+   "Irvine": 840439.0,
+   "Newport Beach": 1951705.0,
+   "Santa Ana": 560147.0,
+   "Tustin": 698077.0,
+   "Westminster": 687036.0
+  },
+  {
+   "month": "2020-02",
+   "Anaheim": 619713.0,
+   "Costa Mesa": 819558.0,
+   "Fountain Valley": 782337.0,
+   "Fullerton": 677403.0,
+   "Garden Grove": 628799.0,
+   "Huntington Beach": 804919.0,
+   "Irvine": 840949.0,
+   "Newport Beach": 1954123.0,
+   "Santa Ana": 561996.0,
+   "Tustin": 699126.0,
+   "Westminster": 689687.0
+  },
+  {
+   "month": "2020-03",
+   "Anaheim": 622067.0,
+   "Costa Mesa": 822655.0,
+   "Fountain Valley": 784686.0,
+   "Fullerton": 679413.0,
+   "Garden Grove": 630626.0,
+   "Huntington Beach": 806755.0,
+   "Irvine": 842365.0,
+   "Newport Beach": 1956000.0,
+   "Santa Ana": 563369.0,
+   "Tustin": 700619.0,
+   "Westminster": 692322.0
+  },
+  {
+   "month": "2020-04",
+   "Anaheim": 625039.0,
+   "Costa Mesa": 826198.0,
+   "Fountain Valley": 787529.0,
+   "Fullerton": 682265.0,
+   "Garden Grove": 633804.0,
+   "Huntington Beach": 810319.0,
+   "Irvine": 845166.0,
+   "Newport Beach": 1961370.0,
+   "Santa Ana": 566184.0,
+   "Tustin": 702698.0,
+   "Westminster": 695301.0
+  },
+  {
+   "month": "2020-05",
+   "Anaheim": 626299.0,
+   "Costa Mesa": 826597.0,
+   "Fountain Valley": 788332.0,
+   "Fullerton": 683091.0,
+   "Garden Grove": 634857.0,
+   "Huntington Beach": 811625.0,
+   "Irvine": 845837.0,
+   "Newport Beach": 1955373.0,
+   "Santa Ana": 567560.0,
+   "Tustin": 703223.0,
+   "Westminster": 696145.0
+  },
+  {
+   "month": "2020-06",
+   "Anaheim": 625355.0,
+   "Costa Mesa": 823707.0,
+   "Fountain Valley": 786405.0,
+   "Fullerton": 681765.0,
+   "Garden Grove": 633645.0,
+   "Huntington Beach": 810393.0,
+   "Irvine": 843918.0,
+   "Newport Beach": 1941989.0,
+   "Santa Ana": 566690.0,
+   "Tustin": 701501.0,
+   "Westminster": 694535.0
+  },
+  {
+   "month": "2020-07",
+   "Anaheim": 624530.0,
+   "Costa Mesa": 822455.0,
+   "Fountain Valley": 785746.0,
+   "Fullerton": 680797.0,
+   "Garden Grove": 632638.0,
+   "Huntington Beach": 809810.0,
+   "Irvine": 841208.0,
+   "Newport Beach": 1932480.0,
+   "Santa Ana": 566198.0,
+   "Tustin": 700254.0,
+   "Westminster": 693871.0
+  },
+  {
+   "month": "2020-08",
+   "Anaheim": 627755.0,
+   "Costa Mesa": 827335.0,
+   "Fountain Valley": 789893.0,
+   "Fullerton": 684523.0,
+   "Garden Grove": 636217.0,
+   "Huntington Beach": 813864.0,
+   "Irvine": 841746.0,
+   "Newport Beach": 1942234.0,
+   "Santa Ana": 569155.0,
+   "Tustin": 703098.0,
+   "Westminster": 696959.0
+  },
+  {
+   "month": "2020-09",
+   "Anaheim": 635639.0,
+   "Costa Mesa": 839576.0,
+   "Fountain Valley": 800926.0,
+   "Fullerton": 693502.0,
+   "Garden Grove": 644390.0,
+   "Huntington Beach": 824273.0,
+   "Irvine": 846717.0,
+   "Newport Beach": 1973741.0,
+   "Santa Ana": 577152.0,
+   "Tustin": 710648.0,
+   "Westminster": 705417.0
+  },
+  {
+   "month": "2020-10",
+   "Anaheim": 646355.0,
+   "Costa Mesa": 855956.0,
+   "Fountain Valley": 815292.0,
+   "Fullerton": 705492.0,
+   "Garden Grove": 655475.0,
+   "Huntington Beach": 838380.0,
+   "Irvine": 854850.0,
+   "Newport Beach": 2016882.0,
+   "Santa Ana": 588082.0,
+   "Tustin": 721202.0,
+   "Westminster": 716893.0
+  },
+  {
+   "month": "2020-11",
+   "Anaheim": 658506.0,
+   "Costa Mesa": 874707.0,
+   "Fountain Valley": 832269.0,
+   "Fullerton": 718780.0,
+   "Garden Grove": 668432.0,
+   "Huntington Beach": 854998.0,
+   "Irvine": 865200.0,
+   "Newport Beach": 2065316.0,
+   "Santa Ana": 600421.0,
+   "Tustin": 733339.0,
+   "Westminster": 730872.0
+  },
+  {
+   "month": "2020-12",
+   "Anaheim": 670683.0,
+   "Costa Mesa": 891283.0,
+   "Fountain Valley": 847904.0,
+   "Fullerton": 731454.0,
+   "Garden Grove": 681452.0,
+   "Huntington Beach": 870586.0,
+   "Irvine": 875399.0,
+   "Newport Beach": 2110980.0,
+   "Santa Ana": 612054.0,
+   "Tustin": 744499.0,
+   "Westminster": 743782.0
+  },
+  {
+   "month": "2021-01",
+   "Anaheim": 680332.0,
+   "Costa Mesa": 903598.0,
+   "Fountain Valley": 859755.0,
+   "Fullerton": 741004.0,
+   "Garden Grove": 691663.0,
+   "Huntington Beach": 882835.0,
+   "Irvine": 883366.0,
+   "Newport Beach": 2139934.0,
+   "Santa Ana": 620220.0,
+   "Tustin": 752754.0,
+   "Westminster": 753951.0
+  },
+  {
+   "month": "2021-02",
+   "Anaheim": 687941.0,
+   "Costa Mesa": 912420.0,
+   "Fountain Valley": 867372.0,
+   "Fullerton": 748043.0,
+   "Garden Grove": 699539.0,
+   "Huntington Beach": 891554.0,
+   "Irvine": 888737.0,
+   "Newport Beach": 2157475.0,
+   "Santa Ana": 626043.0,
+   "Tustin": 758165.0,
+   "Westminster": 761104.0
+  },
+  {
+   "month": "2021-03",
+   "Anaheim": 693384.0,
+   "Costa Mesa": 919906.0,
+   "Fountain Valley": 872928.0,
+   "Fullerton": 753511.0,
+   "Garden Grove": 705068.0,
+   "Huntington Beach": 898145.0,
+   "Irvine": 892595.0,
+   "Newport Beach": 2161987.0,
+   "Santa Ana": 629564.0,
+   "Tustin": 762796.0,
+   "Westminster": 766266.0
+  },
+  {
+   "month": "2021-04",
+   "Anaheim": 700570.0,
+   "Costa Mesa": 930875.0,
+   "Fountain Valley": 883606.0,
+   "Fullerton": 761984.0,
+   "Garden Grove": 712979.0,
+   "Huntington Beach": 908184.0,
+   "Irvine": 899606.0,
+   "Newport Beach": 2181694.0,
+   "Santa Ana": 635056.0,
+   "Tustin": 770630.0,
+   "Westminster": 773503.0
+  },
+  {
+   "month": "2021-05",
+   "Anaheim": 709138.0,
+   "Costa Mesa": 945299.0,
+   "Fountain Valley": 897083.0,
+   "Fullerton": 772951.0,
+   "Garden Grove": 722005.0,
+   "Huntington Beach": 920737.0,
+   "Irvine": 910323.0,
+   "Newport Beach": 2211763.0,
+   "Santa Ana": 641700.0,
+   "Tustin": 781200.0,
+   "Westminster": 783114.0
+  },
+  {
+   "month": "2021-06",
+   "Anaheim": 719454.0,
+   "Costa Mesa": 961907.0,
+   "Fountain Valley": 913406.0,
+   "Fullerton": 785241.0,
+   "Garden Grove": 733176.0,
+   "Huntington Beach": 935960.0,
+   "Irvine": 923937.0,
+   "Newport Beach": 2255650.0,
+   "Santa Ana": 649931.0,
+   "Tustin": 793456.0,
+   "Westminster": 794527.0
+  },
+  {
+   "month": "2021-07",
+   "Anaheim": 727770.0,
+   "Costa Mesa": 975389.0,
+   "Fountain Valley": 924123.0,
+   "Fullerton": 794569.0,
+   "Garden Grove": 741510.0,
+   "Huntington Beach": 947519.0,
+   "Irvine": 937119.0,
+   "Newport Beach": 2299050.0,
+   "Santa Ana": 655745.0,
+   "Tustin": 804224.0,
+   "Westminster": 802836.0
+  },
+  {
+   "month": "2021-08",
+   "Anaheim": 733105.0,
+   "Costa Mesa": 984167.0,
+   "Fountain Valley": 930447.0,
+   "Fullerton": 800544.0,
+   "Garden Grove": 747054.0,
+   "Huntington Beach": 954708.0,
+   "Irvine": 949615.0,
+   "Newport Beach": 2341763.0,
+   "Santa Ana": 658360.0,
+   "Tustin": 812875.0,
+   "Westminster": 806951.0
+  },
+  {
+   "month": "2021-09",
+   "Anaheim": 736324.0,
+   "Costa Mesa": 990230.0,
+   "Fountain Valley": 931416.0,
+   "Fullerton": 804885.0,
+   "Garden Grove": 749803.0,
+   "Huntington Beach": 957101.0,
+   "Irvine": 962398.0,
+   "Newport Beach": 2379565.0,
+   "Santa Ana": 658774.0,
+   "Tustin": 820168.0,
+   "Westminster": 808751.0
+  },
+  {
+   "month": "2021-10",
+   "Anaheim": 741734.0,
+   "Costa Mesa": 999593.0,
+   "Fountain Valley": 936043.0,
+   "Fullerton": 811518.0,
+   "Garden Grove": 755273.0,
+   "Huntington Beach": 963006.0,
+   "Irvine": 978482.0,
+   "Newport Beach": 2422495.0,
+   "Santa Ana": 662225.0,
+   "Tustin": 829331.0,
+   "Westminster": 813982.0
+  },
+  {
+   "month": "2021-11",
+   "Anaheim": 750175.0,
+   "Costa Mesa": 1013034.0,
+   "Fountain Valley": 945378.0,
+   "Fullerton": 820844.0,
+   "Garden Grove": 763676.0,
+   "Huntington Beach": 972639.0,
+   "Irvine": 997553.0,
+   "Newport Beach": 2469296.0,
+   "Santa Ana": 669277.0,
+   "Tustin": 841111.0,
+   "Westminster": 822914.0
+  },
+  {
+   "month": "2021-12",
+   "Anaheim": 761177.0,
+   "Costa Mesa": 1030812.0,
+   "Fountain Valley": 958957.0,
+   "Fullerton": 832813.0,
+   "Garden Grove": 774751.0,
+   "Huntington Beach": 987919.0,
+   "Irvine": 1019287.0,
+   "Newport Beach": 2527897.0,
+   "Santa Ana": 678843.0,
+   "Tustin": 855480.0,
+   "Westminster": 835365.0
+  },
+  {
+   "month": "2022-01",
+   "Anaheim": 775046.0,
+   "Costa Mesa": 1054804.0,
+   "Fountain Valley": 981836.0,
+   "Fullerton": 848591.0,
+   "Garden Grove": 789279.0,
+   "Huntington Beach": 1009243.0,
+   "Irvine": 1044448.0,
+   "Newport Beach": 2593407.0,
+   "Santa Ana": 691343.0,
+   "Tustin": 873250.0,
+   "Westminster": 851113.0
+  },
+  {
+   "month": "2022-02",
+   "Anaheim": 791716.0,
+   "Costa Mesa": 1084938.0,
+   "Fountain Valley": 1013961.0,
+   "Fullerton": 868073.0,
+   "Garden Grove": 807369.0,
+   "Huntington Beach": 1038086.0,
+   "Irvine": 1075204.0,
+   "Newport Beach": 2663190.0,
+   "Santa Ana": 706455.0,
+   "Tustin": 895606.0,
+   "Westminster": 871307.0
+  },
+  {
+   "month": "2022-03",
+   "Anaheim": 810053.0,
+   "Costa Mesa": 1119150.0,
+   "Fountain Valley": 1052761.0,
+   "Fullerton": 890056.0,
+   "Garden Grove": 827269.0,
+   "Huntington Beach": 1070356.0,
+   "Irvine": 1111799.0,
+   "Newport Beach": 2731039.0,
+   "Santa Ana": 723600.0,
+   "Tustin": 921456.0,
+   "Westminster": 893357.0
+  },
+  {
+   "month": "2022-04",
+   "Anaheim": 826948.0,
+   "Costa Mesa": 1149498.0,
+   "Fountain Valley": 1085324.0,
+   "Fullerton": 909447.0,
+   "Garden Grove": 844561.0,
+   "Huntington Beach": 1098623.0,
+   "Irvine": 1148651.0,
+   "Newport Beach": 2794079.0,
+   "Santa Ana": 737518.0,
+   "Tustin": 945897.0,
+   "Westminster": 913141.0
+  },
+  {
+   "month": "2022-05",
+   "Anaheim": 838975.0,
+   "Costa Mesa": 1171764.0,
+   "Fountain Valley": 1107433.0,
+   "Fullerton": 923201.0,
+   "Garden Grove": 856504.0,
+   "Huntington Beach": 1118815.0,
+   "Irvine": 1179003.0,
+   "Newport Beach": 2850438.0,
+   "Santa Ana": 745801.0,
+   "Tustin": 964667.0,
+   "Westminster": 926351.0
+  },
+  {
+   "month": "2022-06",
+   "Anaheim": 845551.0,
+   "Costa Mesa": 1183565.0,
+   "Fountain Valley": 1118566.0,
+   "Fullerton": 930350.0,
+   "Garden Grove": 862515.0,
+   "Huntington Beach": 1128399.0,
+   "Irvine": 1198275.0,
+   "Newport Beach": 2888023.0,
+   "Santa Ana": 749127.0,
+   "Tustin": 976157.0,
+   "Westminster": 932735.0
+  },
+  {
+   "month": "2022-07",
+   "Anaheim": 845020.0,
+   "Costa Mesa": 1182720.0,
+   "Fountain Valley": 1118443.0,
+   "Fullerton": 929811.0,
+   "Garden Grove": 861652.0,
+   "Huntington Beach": 1126800.0,
+   "Irvine": 1203056.0,
+   "Newport Beach": 2891123.0,
+   "Santa Ana": 747572.0,
+   "Tustin": 978086.0,
+   "Westminster": 931920.0
+  },
+  {
+   "month": "2022-08",
+   "Anaheim": 841061.0,
+   "Costa Mesa": 1173884.0,
+   "Fountain Valley": 1110893.0,
+   "Fullerton": 924649.0,
+   "Garden Grove": 857011.0,
+   "Huntington Beach": 1118843.0,
+   "Irvine": 1197843.0,
+   "Newport Beach": 2863685.0,
+   "Santa Ana": 744692.0,
+   "Tustin": 973535.0,
+   "Westminster": 927643.0
+  },
+  {
+   "month": "2022-09",
+   "Anaheim": 835418.0,
+   "Costa Mesa": 1160725.0,
+   "Fountain Valley": 1099814.0,
+   "Fullerton": 916678.0,
+   "Garden Grove": 851276.0,
+   "Huntington Beach": 1109442.0,
+   "Irvine": 1186848.0,
+   "Newport Beach": 2830887.0,
+   "Santa Ana": 740918.0,
+   "Tustin": 965023.0,
+   "Westminster": 921558.0
+  },
+  {
+   "month": "2022-10",
+   "Anaheim": 831586.0,
+   "Costa Mesa": 1153121.0,
+   "Fountain Valley": 1093210.0,
+   "Fullerton": 911845.0,
+   "Garden Grove": 848019.0,
+   "Huntington Beach": 1104467.0,
+   "Irvine": 1179888.0,
+   "Newport Beach": 2819691.0,
+   "Santa Ana": 739287.0,
+   "Tustin": 959547.0,
+   "Westminster": 917126.0
+  },
+  {
+   "month": "2022-11",
+   "Anaheim": 827621.0,
+   "Costa Mesa": 1149107.0,
+   "Fountain Valley": 1090071.0,
+   "Fullerton": 908204.0,
+   "Garden Grove": 844807.0,
+   "Huntington Beach": 1101635.0,
+   "Irvine": 1175995.0,
+   "Newport Beach": 2828005.0,
+   "Santa Ana": 738020.0,
+   "Tustin": 955588.0,
+   "Westminster": 912362.0
+  },
+  {
+   "month": "2022-12",
+   "Anaheim": 822706.0,
+   "Costa Mesa": 1146623.0,
+   "Fountain Valley": 1089042.0,
+   "Fullerton": 904767.0,
+   "Garden Grove": 840765.0,
+   "Huntington Beach": 1100283.0,
+   "Irvine": 1173655.0,
+   "Newport Beach": 2839944.0,
+   "Santa Ana": 736537.0,
+   "Tustin": 952527.0,
+   "Westminster": 906964.0
+  },
+  {
+   "month": "2023-01",
+   "Anaheim": 814193.0,
+   "Costa Mesa": 1138717.0,
+   "Fountain Valley": 1083394.0,
+   "Fullerton": 896234.0,
+   "Garden Grove": 832168.0,
+   "Huntington Beach": 1093483.0,
+   "Irvine": 1166224.0,
+   "Newport Beach": 2832868.0,
+   "Santa Ana": 731461.0,
+   "Tustin": 945413.0,
+   "Westminster": 897194.0
+  },
+  {
+   "month": "2023-02",
+   "Anaheim": 805631.0,
+   "Costa Mesa": 1128595.0,
+   "Fountain Valley": 1075151.0,
+   "Fullerton": 886361.0,
+   "Garden Grove": 822740.0,
+   "Huntington Beach": 1084427.0,
+   "Irvine": 1156388.0,
+   "Newport Beach": 2815851.0,
+   "Santa Ana": 724438.0,
+   "Tustin": 936914.0,
+   "Westminster": 886416.0
+  },
+  {
+   "month": "2023-03",
+   "Anaheim": 799838.0,
+   "Costa Mesa": 1120006.0,
+   "Fountain Valley": 1069155.0,
+   "Fullerton": 879134.0,
+   "Garden Grove": 815952.0,
+   "Huntington Beach": 1078013.0,
+   "Irvine": 1149493.0,
+   "Newport Beach": 2795133.0,
+   "Santa Ana": 719102.0,
+   "Tustin": 931560.0,
+   "Westminster": 879639.0
+  },
+  {
+   "month": "2023-04",
+   "Anaheim": 800979.0,
+   "Costa Mesa": 1121804.0,
+   "Fountain Valley": 1071808.0,
+   "Fullerton": 880055.0,
+   "Garden Grove": 816461.0,
+   "Huntington Beach": 1082294.0,
+   "Irvine": 1152293.0,
+   "Newport Beach": 2795529.0,
+   "Santa Ana": 719359.0,
+   "Tustin": 934628.0,
+   "Westminster": 881296.0
+  },
+  {
+   "month": "2023-05",
+   "Anaheim": 806977.0,
+   "Costa Mesa": 1130548.0,
+   "Fountain Valley": 1082045.0,
+   "Fullerton": 887387.0,
+   "Garden Grove": 822496.0,
+   "Huntington Beach": 1093875.0,
+   "Irvine": 1162589.0,
+   "Newport Beach": 2809385.0,
+   "Santa Ana": 725053.0,
+   "Tustin": 944130.0,
+   "Westminster": 890090.0
+  },
+  {
+   "month": "2023-06",
+   "Anaheim": 815390.0,
+   "Costa Mesa": 1145607.0,
+   "Fountain Valley": 1096292.0,
+   "Fullerton": 897996.0,
+   "Garden Grove": 831867.0,
+   "Huntington Beach": 1109560.0,
+   "Irvine": 1178903.0,
+   "Newport Beach": 2844060.0,
+   "Santa Ana": 733141.0,
+   "Tustin": 956931.0,
+   "Westminster": 901329.0
+  },
+  {
+   "month": "2023-07",
+   "Anaheim": 824767.0,
+   "Costa Mesa": 1161240.0,
+   "Fountain Valley": 1112527.0,
+   "Fullerton": 909779.0,
+   "Garden Grove": 842638.0,
+   "Huntington Beach": 1125992.0,
+   "Irvine": 1198690.0,
+   "Newport Beach": 2889166.0,
+   "Santa Ana": 742604.0,
+   "Tustin": 970926.0,
+   "Westminster": 913931.0
+  },
+  {
+   "month": "2023-08",
+   "Anaheim": 835564.0,
+   "Costa Mesa": 1179265.0,
+   "Fountain Valley": 1131864.0,
+   "Fullerton": 922748.0,
+   "Garden Grove": 854745.0,
+   "Huntington Beach": 1144388.0,
+   "Irvine": 1223420.0,
+   "Newport Beach": 2948474.0,
+   "Santa Ana": 753237.0,
+   "Tustin": 987325.0,
+   "Westminster": 927700.0
+  },
+  {
+   "month": "2023-09",
+   "Anaheim": 846860.0,
+   "Costa Mesa": 1198121.0,
+   "Fountain Valley": 1151221.0,
+   "Fullerton": 935284.0,
+   "Garden Grove": 867405.0,
+   "Huntington Beach": 1161837.0,
+   "Irvine": 1249418.0,
+   "Newport Beach": 3005109.0,
+   "Santa Ana": 763977.0,
+   "Tustin": 1004400.0,
+   "Westminster": 942047.0
+  },
+  {
+   "month": "2023-10",
+   "Anaheim": 856476.0,
+   "Costa Mesa": 1215066.0,
+   "Fountain Valley": 1167200.0,
+   "Fullerton": 946218.0,
+   "Garden Grove": 878351.0,
+   "Huntington Beach": 1176362.0,
+   "Irvine": 1273098.0,
+   "Newport Beach": 3057573.0,
+   "Santa Ana": 773837.0,
+   "Tustin": 1019350.0,
+   "Westminster": 954248.0
+  },
+  {
+   "month": "2023-11",
+   "Anaheim": 864023.0,
+   "Costa Mesa": 1227860.0,
+   "Fountain Valley": 1178296.0,
+   "Fullerton": 954164.0,
+   "Garden Grove": 888263.0,
+   "Huntington Beach": 1187072.0,
+   "Irvine": 1291851.0,
+   "Newport Beach": 3097070.0,
+   "Santa Ana": 781765.0,
+   "Tustin": 1030289.0,
+   "Westminster": 963832.0
+  },
+  {
+   "month": "2023-12",
+   "Anaheim": 869364.0,
+   "Costa Mesa": 1236264.0,
+   "Fountain Valley": 1186448.0,
+   "Fullerton": 958884.0,
+   "Garden Grove": 895750.0,
+   "Huntington Beach": 1193609.0,
+   "Irvine": 1305892.0,
+   "Newport Beach": 3124082.0,
+   "Santa Ana": 787768.0,
+   "Tustin": 1037341.0,
+   "Westminster": 970632.0
+  },
+  {
+   "month": "2024-01",
+   "Anaheim": 872637.0,
+   "Costa Mesa": 1238761.0,
+   "Fountain Valley": 1191559.0,
+   "Fullerton": 959796.0,
+   "Garden Grove": 900870.0,
+   "Huntington Beach": 1194617.0,
+   "Irvine": 1318089.0,
+   "Newport Beach": 3132442.0,
+   "Santa Ana": 790801.0,
+   "Tustin": 1042170.0,
+   "Westminster": 975185.0
+  },
+  {
+   "month": "2024-02",
+   "Anaheim": 874391.0,
+   "Costa Mesa": 1238697.0,
+   "Fountain Valley": 1193972.0,
+   "Fullerton": 959069.0,
+   "Garden Grove": 903652.0,
+   "Huntington Beach": 1193213.0,
+   "Irvine": 1330805.0,
+   "Newport Beach": 3127010.0,
+   "Santa Ana": 791798.0,
+   "Tustin": 1046806.0,
+   "Westminster": 976883.0
+  },
+  {
+   "month": "2024-03",
+   "Anaheim": 878123.0,
+   "Costa Mesa": 1242931.0,
+   "Fountain Valley": 1202277.0,
+   "Fullerton": 963322.0,
+   "Garden Grove": 907767.0,
+   "Huntington Beach": 1196693.0,
+   "Irvine": 1350972.0,
+   "Newport Beach": 3132889.0,
+   "Santa Ana": 794576.0,
+   "Tustin": 1056753.0,
+   "Westminster": 981786.0
+  },
+  {
+   "month": "2024-04",
+   "Anaheim": 885307.0,
+   "Costa Mesa": 1255158.0,
+   "Fountain Valley": 1217072.0,
+   "Fullerton": 973817.0,
+   "Garden Grove": 915461.0,
+   "Huntington Beach": 1207175.0,
+   "Irvine": 1377399.0,
+   "Newport Beach": 3152682.0,
+   "Santa Ana": 800995.0,
+   "Tustin": 1071477.0,
+   "Westminster": 991101.0
+  },
+  {
+   "month": "2024-05",
+   "Anaheim": 894200.0,
+   "Costa Mesa": 1270852.0,
+   "Fountain Valley": 1233854.0,
+   "Fullerton": 986585.0,
+   "Garden Grove": 925075.0,
+   "Huntington Beach": 1220867.0,
+   "Irvine": 1406993.0,
+   "Newport Beach": 3179255.0,
+   "Santa Ana": 809229.0,
+   "Tustin": 1089075.0,
+   "Westminster": 1003634.0
+  },
+  {
+   "month": "2024-06",
+   "Anaheim": 900580.0,
+   "Costa Mesa": 1281266.0,
+   "Fountain Valley": 1245137.0,
+   "Fullerton": 994571.0,
+   "Garden Grove": 932605.0,
+   "Huntington Beach": 1230000.0,
+   "Irvine": 1429737.0,
+   "Newport Beach": 3191627.0,
+   "Santa Ana": 815509.0,
+   "Tustin": 1102818.0,
+   "Westminster": 1012674.0
+  },
+  {
+   "month": "2024-07",
+   "Anaheim": 905589.0,
+   "Costa Mesa": 1289256.0,
+   "Fountain Valley": 1253501.0,
+   "Fullerton": 999481.0,
+   "Garden Grove": 938534.0,
+   "Huntington Beach": 1236991.0,
+   "Irvine": 1447959.0,
+   "Newport Beach": 3201670.0,
+   "Santa Ana": 820399.0,
+   "Tustin": 1113486.0,
+   "Westminster": 1018549.0
+  },
+  {
+   "month": "2024-08",
+   "Anaheim": 909477.0,
+   "Costa Mesa": 1297518.0,
+   "Fountain Valley": 1262224.0,
+   "Fullerton": 1003367.0,
+   "Garden Grove": 944183.0,
+   "Huntington Beach": 1242987.0,
+   "Irvine": 1462177.0,
+   "Newport Beach": 3215078.0,
+   "Santa Ana": 825934.0,
+   "Tustin": 1122193.0,
+   "Westminster": 1023781.0
+  },
+  {
+   "month": "2024-09",
+   "Anaheim": 914152.0,
+   "Costa Mesa": 1308060.0,
+   "Fountain Valley": 1271292.0,
+   "Fullerton": 1007579.0,
+   "Garden Grove": 950197.0,
+   "Huntington Beach": 1249960.0,
+   "Irvine": 1476616.0,
+   "Newport Beach": 3243739.0,
+   "Santa Ana": 832024.0,
+   "Tustin": 1130154.0,
+   "Westminster": 1030433.0
+  },
+  {
+   "month": "2024-10",
+   "Anaheim": 918208.0,
+   "Costa Mesa": 1317588.0,
+   "Fountain Valley": 1280771.0,
+   "Fullerton": 1011326.0,
+   "Garden Grove": 956291.0,
+   "Huntington Beach": 1257037.0,
+   "Irvine": 1488639.0,
+   "Newport Beach": 3266618.0,
+   "Santa Ana": 837859.0,
+   "Tustin": 1137170.0,
+   "Westminster": 1037632.0
+  },
+  {
+   "month": "2024-11",
+   "Anaheim": 922834.0,
+   "Costa Mesa": 1326357.0,
+   "Fountain Valley": 1290785.0,
+   "Fullerton": 1016241.0,
+   "Garden Grove": 962036.0,
+   "Huntington Beach": 1263611.0,
+   "Irvine": 1499916.0,
+   "Newport Beach": 3288890.0,
+   "Santa Ana": 843306.0,
+   "Tustin": 1143741.0,
+   "Westminster": 1044089.0
+  },
+  {
+   "month": "2024-12",
+   "Anaheim": 927579.0,
+   "Costa Mesa": 1334243.0,
+   "Fountain Valley": 1300764.0,
+   "Fullerton": 1022719.0,
+   "Garden Grove": 968002.0,
+   "Huntington Beach": 1270498.0,
+   "Irvine": 1510040.0,
+   "Newport Beach": 3297671.0,
+   "Santa Ana": 848323.0,
+   "Tustin": 1150216.0,
+   "Westminster": 1049726.0
+  },
+  {
+   "month": "2025-01",
+   "Anaheim": 930672.0,
+   "Costa Mesa": 1338684.0,
+   "Fountain Valley": 1307431.0,
+   "Fullerton": 1027581.0,
+   "Garden Grove": 971607.0,
+   "Huntington Beach": 1276213.0,
+   "Irvine": 1520105.0,
+   "Newport Beach": 3305080.0,
+   "Santa Ana": 850587.0,
+   "Tustin": 1155589.0,
+   "Westminster": 1053655.0
+  },
+  {
+   "month": "2025-02",
+   "Anaheim": 932121.0,
+   "Costa Mesa": 1341342.0,
+   "Fountain Valley": 1311426.0,
+   "Fullerton": 1030513.0,
+   "Garden Grove": 973617.0,
+   "Huntington Beach": 1280204.0,
+   "Irvine": 1528621.0,
+   "Newport Beach": 3306133.0,
+   "Santa Ana": 850255.0,
+   "Tustin": 1159496.0,
+   "Westminster": 1056339.0
+  },
+  {
+   "month": "2025-03",
+   "Anaheim": 930566.0,
+   "Costa Mesa": 1340191.0,
+   "Fountain Valley": 1312648.0,
+   "Fullerton": 1029330.0,
+   "Garden Grove": 972674.0,
+   "Huntington Beach": 1282289.0,
+   "Irvine": 1534258.0,
+   "Newport Beach": 3308528.0,
+   "Santa Ana": 846534.0,
+   "Tustin": 1160600.0,
+   "Westminster": 1055653.0
+  },
+  {
+   "month": "2025-04",
+   "Anaheim": 928249.0,
+   "Costa Mesa": 1337887.0,
+   "Fountain Valley": 1312027.0,
+   "Fullerton": 1026585.0,
+   "Garden Grove": 970658.0,
+   "Huntington Beach": 1281664.0,
+   "Irvine": 1537497.0,
+   "Newport Beach": 3309508.0,
+   "Santa Ana": 842033.0,
+   "Tustin": 1160899.0,
+   "Westminster": 1053103.0
+  },
+  {
+   "month": "2025-05",
+   "Anaheim": 924082.0,
+   "Costa Mesa": 1332435.0,
+   "Fountain Valley": 1308641.0,
+   "Fullerton": 1021635.0,
+   "Garden Grove": 966763.0,
+   "Huntington Beach": 1278537.0,
+   "Irvine": 1536431.0,
+   "Newport Beach": 3307710.0,
+   "Santa Ana": 836434.0,
+   "Tustin": 1158808.0,
+   "Westminster": 1048660.0
+  },
+  {
+   "month": "2025-06",
+   "Anaheim": 920263.0,
+   "Costa Mesa": 1327117.0,
+   "Fountain Valley": 1303091.0,
+   "Fullerton": 1017041.0,
+   "Garden Grove": 962685.0,
+   "Huntington Beach": 1273469.0,
+   "Irvine": 1532322.0,
+   "Newport Beach": 3306782.0,
+   "Santa Ana": 831848.0,
+   "Tustin": 1155356.0,
+   "Westminster": 1044001.0
+  },
+  {
+   "month": "2025-07",
+   "Anaheim": 917095.0,
+   "Costa Mesa": 1325977.0,
+   "Fountain Valley": 1299626.0,
+   "Fullerton": 1013372.0,
+   "Garden Grove": 959521.0,
+   "Huntington Beach": 1270928.0,
+   "Irvine": 1524204.0,
+   "Newport Beach": 3315109.0,
+   "Santa Ana": 829363.0,
+   "Tustin": 1150320.0,
+   "Westminster": 1040463.0
+  },
+  {
+   "month": "2025-08",
+   "Anaheim": 914855.0,
+   "Costa Mesa": 1328051.0,
+   "Fountain Valley": 1297387.0,
+   "Fullerton": 1009757.0,
+   "Garden Grove": 956857.0,
+   "Huntington Beach": 1270453.0,
+   "Irvine": 1515614.0,
+   "Newport Beach": 3338605.0,
+   "Santa Ana": 828145.0,
+   "Tustin": 1144308.0,
+   "Westminster": 1037407.0
+  },
+  {
+   "month": "2025-09",
+   "Anaheim": 913441.0,
+   "Costa Mesa": 1333527.0,
+   "Fountain Valley": 1299038.0,
+   "Fullerton": 1007503.0,
+   "Garden Grove": 956051.0,
+   "Huntington Beach": 1273379.0,
+   "Irvine": 1509567.0,
+   "Newport Beach": 3370524.0,
+   "Santa Ana": 827948.0,
+   "Tustin": 1140214.0,
+   "Westminster": 1036609.0
+  },
+  {
+   "month": "2025-10",
+   "Anaheim": 913948.0,
+   "Costa Mesa": 1340819.0,
+   "Fountain Valley": 1304095.0,
+   "Fullerton": 1007335.0,
+   "Garden Grove": 958044.0,
+   "Huntington Beach": 1279078.0,
+   "Irvine": 1508611.0,
+   "Newport Beach": 3399282.0,
+   "Santa Ana": 828921.0,
+   "Tustin": 1139643.0,
+   "Westminster": 1039472.0
+  },
+  {
+   "month": "2025-11",
+   "Anaheim": 915933.0,
+   "Costa Mesa": 1349082.0,
+   "Fountain Valley": 1313294.0,
+   "Fullerton": 1009614.0,
+   "Garden Grove": 962794.0,
+   "Huntington Beach": 1287264.0,
+   "Irvine": 1509486.0,
+   "Newport Beach": 3426703.0,
+   "Santa Ana": 830989.0,
+   "Tustin": 1141993.0,
+   "Westminster": 1045756.0
+  },
+  {
+   "month": "2025-12",
+   "Anaheim": 920532.0,
+   "Costa Mesa": 1358419.0,
+   "Fountain Valley": 1324328.0,
+   "Fullerton": 1014189.0,
+   "Garden Grove": 969554.0,
+   "Huntington Beach": 1296820.0,
+   "Irvine": 1511558.0,
+   "Newport Beach": 3448038.0,
+   "Santa Ana": 834826.0,
+   "Tustin": 1146283.0,
+   "Westminster": 1054257.0
+  },
+  {
+   "month": "2026-01",
+   "Anaheim": 925582.0,
+   "Costa Mesa": 1366473.0,
+   "Fountain Valley": 1333038.0,
+   "Fullerton": 1018384.0,
+   "Garden Grove": 976363.0,
+   "Huntington Beach": 1304352.0,
+   "Irvine": 1514019.0,
+   "Newport Beach": 3480009.0,
+   "Santa Ana": 838746.0,
+   "Tustin": 1150576.0,
+   "Westminster": 1061208.0
+  },
+  {
+   "month": "2026-02",
+   "Anaheim": 930019.0,
+   "Costa Mesa": 1374840.0,
+   "Fountain Valley": 1340990.0,
+   "Fullerton": 1022409.0,
+   "Garden Grove": 981943.0,
+   "Huntington Beach": 1311537.0,
+   "Irvine": 1519187.0,
+   "Newport Beach": 3521789.0,
+   "Santa Ana": 842109.0,
+   "Tustin": 1155797.0,
+   "Westminster": 1066991.0
+  },
+  {
+   "month": "2026-03",
+   "Anaheim": 932577.0,
+   "Costa Mesa": 1382023.0,
+   "Fountain Valley": 1347988.0,
+   "Fullerton": 1025131.0,
+   "Garden Grove": 986494.0,
+   "Huntington Beach": 1318133.0,
+   "Irvine": 1522017.0,
+   "Newport Beach": 3569442.0,
+   "Santa Ana": 844327.0,
+   "Tustin": 1158944.0,
+   "Westminster": 1071240.0
+  },
+  {
+   "month": "2026-04",
+   "Anaheim": 932928.0,
+   "Costa Mesa": 1386197.0,
+   "Fountain Valley": 1351915.0,
+   "Fullerton": 1026371.0,
+   "Garden Grove": 988661.0,
+   "Huntington Beach": 1322079.0,
+   "Irvine": 1519796.0,
+   "Newport Beach": 3607856.0,
+   "Santa Ana": 844897.0,
+   "Tustin": 1158415.0,
+   "Westminster": 1073635.0
+  },
+  {
+   "month": "2026-05",
+   "Anaheim": 933665.0,
+   "Costa Mesa": 1391320.0,
+   "Fountain Valley": 1355256.0,
+   "Fullerton": 1027365.0,
+   "Garden Grove": 991210.0,
+   "Huntington Beach": 1325276.0,
+   "Irvine": 1512258.0,
+   "Newport Beach": 3632028.0,
+   "Santa Ana": 846335.0,
+   "Tustin": 1154327.0,
+   "Westminster": 1076231.0
+  },
+  {
+   "month": "2026-06",
+   "Anaheim": 934367.0,
+   "Costa Mesa": 1396448.0,
+   "Fountain Valley": 1357469.0,
+   "Fullerton": 1028061.0,
+   "Garden Grove": 992495.0,
+   "Huntington Beach": 1327336.0,
+   "Irvine": 1502977.0,
+   "Newport Beach": 3652820.0,
+   "Santa Ana": 847939.0,
+   "Tustin": 1149826.0,
+   "Westminster": 1078595.0
+  },
+  {
+   "month": "2026-07",
+   "Anaheim": 936394.0,
+   "Costa Mesa": 1404311.0,
+   "Fountain Valley": 1363608.0,
+   "Fullerton": 1030827.0,
+   "Garden Grove": 995338.0,
+   "Huntington Beach": 1332629.0,
+   "Irvine": 1494662.0,
+   "Newport Beach": 3673123.0,
+   "Santa Ana": 851101.0,
+   "Tustin": 1147395.0,
+   "Westminster": 1083132.0
+  },
+  {
+   "month": "2026-08",
+   "Anaheim": 939260.0,
+   "Costa Mesa": 1411667.0,
+   "Fountain Valley": 1370737.0,
+   "Fullerton": 1034346.0,
+   "Garden Grove": 998763.0,
+   "Huntington Beach": 1339216.0,
+   "Irvine": 1488054.0,
+   "Newport Beach": 3695158.0,
+   "Santa Ana": 855359.0,
+   "Tustin": 1147016.0,
+   "Westminster": 1088526.0
+  },
+  {
+   "month": "2026-09",
+   "Anaheim": 941684.0,
+   "Costa Mesa": 1419109.0,
+   "Fountain Valley": 1377121.0,
+   "Fullerton": 1037545.0,
+   "Garden Grove": 1001908.0,
+   "Huntington Beach": 1344725.0,
+   "Irvine": 1481490.0,
+   "Newport Beach": 3710827.0,
+   "Santa Ana": 858641.0,
+   "Tustin": 1145586.0,
+   "Westminster": 1093355.0
+  }
+ ],
+ "indexed": [
+  {
+   "month": "2021-09",
+   "Average": 100.0,
+   "Anaheim": 100.0,
+   "Costa Mesa": 100.0,
+   "Fountain Valley": 100.0,
+   "Fullerton": 100.0,
+   "Garden Grove": 100.0,
+   "Huntington Beach": 100.0,
+   "Irvine": 100.0,
+   "Newport Beach": 100.0,
+   "Santa Ana": 100.0,
+   "Tustin": 100.0,
+   "Westminster": 100.0
+  },
+  {
+   "month": "2021-10",
+   "Average": 100.92,
+   "Anaheim": 100.73,
+   "Costa Mesa": 100.95,
+   "Fountain Valley": 100.5,
+   "Fullerton": 100.82,
+   "Garden Grove": 100.73,
+   "Huntington Beach": 100.62,
+   "Irvine": 101.67,
+   "Newport Beach": 101.8,
+   "Santa Ana": 100.52,
+   "Tustin": 101.12,
+   "Westminster": 100.65
+  },
+  {
+   "month": "2021-11",
+   "Average": 102.22,
+   "Anaheim": 101.88,
+   "Costa Mesa": 102.3,
+   "Fountain Valley": 101.5,
+   "Fullerton": 101.98,
+   "Garden Grove": 101.85,
+   "Huntington Beach": 101.62,
+   "Irvine": 103.65,
+   "Newport Beach": 103.77,
+   "Santa Ana": 101.59,
+   "Tustin": 102.55,
+   "Westminster": 101.75
+  },
+  {
+   "month": "2021-12",
+   "Average": 103.93,
+   "Anaheim": 103.38,
+   "Costa Mesa": 104.1,
+   "Fountain Valley": 102.96,
+   "Fullerton": 103.47,
+   "Garden Grove": 103.33,
+   "Huntington Beach": 103.22,
+   "Irvine": 105.91,
+   "Newport Beach": 106.23,
+   "Santa Ana": 103.05,
+   "Tustin": 104.31,
+   "Westminster": 103.29
+  },
+  {
+   "month": "2022-01",
+   "Average": 106.14,
+   "Anaheim": 105.26,
+   "Costa Mesa": 106.52,
+   "Fountain Valley": 105.41,
+   "Fullerton": 105.43,
+   "Garden Grove": 105.26,
+   "Huntington Beach": 105.45,
+   "Irvine": 108.53,
+   "Newport Beach": 108.99,
+   "Santa Ana": 104.94,
+   "Tustin": 106.47,
+   "Westminster": 105.24
+  },
+  {
+   "month": "2022-02",
+   "Average": 108.89,
+   "Anaheim": 107.52,
+   "Costa Mesa": 109.56,
+   "Fountain Valley": 108.86,
+   "Fullerton": 107.85,
+   "Garden Grove": 107.68,
+   "Huntington Beach": 108.46,
+   "Irvine": 111.72,
+   "Newport Beach": 111.92,
+   "Santa Ana": 107.24,
+   "Tustin": 109.2,
+   "Westminster": 107.73
+  },
+  {
+   "month": "2022-03",
+   "Average": 111.98,
+   "Anaheim": 110.01,
+   "Costa Mesa": 113.02,
+   "Fountain Valley": 113.03,
+   "Fullerton": 110.58,
+   "Garden Grove": 110.33,
+   "Huntington Beach": 111.83,
+   "Irvine": 115.52,
+   "Newport Beach": 114.77,
+   "Santa Ana": 109.84,
+   "Tustin": 112.35,
+   "Westminster": 110.46
+  },
+  {
+   "month": "2022-04",
+   "Average": 114.75,
+   "Anaheim": 112.31,
+   "Costa Mesa": 116.08,
+   "Fountain Valley": 116.52,
+   "Fullerton": 112.99,
+   "Garden Grove": 112.64,
+   "Huntington Beach": 114.79,
+   "Irvine": 119.35,
+   "Newport Beach": 117.42,
+   "Santa Ana": 111.95,
+   "Tustin": 115.33,
+   "Westminster": 112.91
+  },
+  {
+   "month": "2022-05",
+   "Average": 116.79,
+   "Anaheim": 113.94,
+   "Costa Mesa": 118.33,
+   "Fountain Valley": 118.9,
+   "Fullerton": 114.7,
+   "Garden Grove": 114.23,
+   "Huntington Beach": 116.9,
+   "Irvine": 122.51,
+   "Newport Beach": 119.79,
+   "Santa Ana": 113.21,
+   "Tustin": 117.62,
+   "Westminster": 114.54
+  },
+  {
+   "month": "2022-06",
+   "Average": 117.9,
+   "Anaheim": 114.83,
+   "Costa Mesa": 119.52,
+   "Fountain Valley": 120.09,
+   "Fullerton": 115.59,
+   "Garden Grove": 115.03,
+   "Huntington Beach": 117.9,
+   "Irvine": 124.51,
+   "Newport Beach": 121.37,
+   "Santa Ana": 113.72,
+   "Tustin": 119.02,
+   "Westminster": 115.33
+  },
+  {
+   "month": "2022-07",
+   "Average": 117.9,
+   "Anaheim": 114.76,
+   "Costa Mesa": 119.44,
+   "Fountain Valley": 120.08,
+   "Fullerton": 115.52,
+   "Garden Grove": 114.92,
+   "Huntington Beach": 117.73,
+   "Irvine": 125.01,
+   "Newport Beach": 121.5,
+   "Santa Ana": 113.48,
+   "Tustin": 119.25,
+   "Westminster": 115.23
+  },
+  {
+   "month": "2022-08",
+   "Average": 117.21,
+   "Anaheim": 114.22,
+   "Costa Mesa": 118.55,
+   "Fountain Valley": 119.27,
+   "Fullerton": 114.88,
+   "Garden Grove": 114.3,
+   "Huntington Beach": 116.9,
+   "Irvine": 124.46,
+   "Newport Beach": 120.34,
+   "Santa Ana": 113.04,
+   "Tustin": 118.7,
+   "Westminster": 114.7
+  },
+  {
+   "month": "2022-09",
+   "Average": 116.22,
+   "Anaheim": 113.46,
+   "Costa Mesa": 117.22,
+   "Fountain Valley": 118.08,
+   "Fullerton": 113.89,
+   "Garden Grove": 113.53,
+   "Huntington Beach": 115.92,
+   "Irvine": 123.32,
+   "Newport Beach": 118.97,
+   "Santa Ana": 112.47,
+   "Tustin": 117.66,
+   "Westminster": 113.95
+  },
+  {
+   "month": "2022-10",
+   "Average": 115.66,
+   "Anaheim": 112.94,
+   "Costa Mesa": 116.45,
+   "Fountain Valley": 117.37,
+   "Fullerton": 113.29,
+   "Garden Grove": 113.1,
+   "Huntington Beach": 115.4,
+   "Irvine": 122.6,
+   "Newport Beach": 118.5,
+   "Santa Ana": 112.22,
+   "Tustin": 116.99,
+   "Westminster": 113.4
+  },
+  {
+   "month": "2022-11",
+   "Average": 115.32,
+   "Anaheim": 112.4,
+   "Costa Mesa": 116.04,
+   "Fountain Valley": 117.03,
+   "Fullerton": 112.84,
+   "Garden Grove": 112.67,
+   "Huntington Beach": 115.1,
+   "Irvine": 122.19,
+   "Newport Beach": 118.85,
+   "Santa Ana": 112.03,
+   "Tustin": 116.51,
+   "Westminster": 112.81
+  },
+  {
+   "month": "2022-12",
+   "Average": 115.03,
+   "Anaheim": 111.73,
+   "Costa Mesa": 115.79,
+   "Fountain Valley": 116.92,
+   "Fullerton": 112.41,
+   "Garden Grove": 112.13,
+   "Huntington Beach": 114.96,
+   "Irvine": 121.95,
+   "Newport Beach": 119.35,
+   "Santa Ana": 111.8,
+   "Tustin": 116.14,
+   "Westminster": 112.14
+  },
+  {
+   "month": "2023-01",
+   "Average": 114.18,
+   "Anaheim": 110.58,
+   "Costa Mesa": 115.0,
+   "Fountain Valley": 116.32,
+   "Fullerton": 111.35,
+   "Garden Grove": 110.98,
+   "Huntington Beach": 114.25,
+   "Irvine": 121.18,
+   "Newport Beach": 119.05,
+   "Santa Ana": 111.03,
+   "Tustin": 115.27,
+   "Westminster": 110.94
+  },
+  {
+   "month": "2023-02",
+   "Average": 113.11,
+   "Anaheim": 109.41,
+   "Costa Mesa": 113.97,
+   "Fountain Valley": 115.43,
+   "Fullerton": 110.12,
+   "Garden Grove": 109.73,
+   "Huntington Beach": 113.3,
+   "Irvine": 120.16,
+   "Newport Beach": 118.33,
+   "Santa Ana": 109.97,
+   "Tustin": 114.23,
+   "Westminster": 109.6
+  },
+  {
+   "month": "2023-03",
+   "Average": 112.33,
+   "Anaheim": 108.63,
+   "Costa Mesa": 113.11,
+   "Fountain Valley": 114.79,
+   "Fullerton": 109.22,
+   "Garden Grove": 108.82,
+   "Huntington Beach": 112.63,
+   "Irvine": 119.44,
+   "Newport Beach": 117.46,
+   "Santa Ana": 109.16,
+   "Tustin": 113.58,
+   "Westminster": 108.77
+  },
+  {
+   "month": "2023-04",
+   "Average": 112.53,
+   "Anaheim": 108.78,
+   "Costa Mesa": 113.29,
+   "Fountain Valley": 115.07,
+   "Fullerton": 109.34,
+   "Garden Grove": 108.89,
+   "Huntington Beach": 113.08,
+   "Irvine": 119.73,
+   "Newport Beach": 117.48,
+   "Santa Ana": 109.2,
+   "Tustin": 113.96,
+   "Westminster": 108.97
+  },
+  {
+   "month": "2023-05",
+   "Average": 113.48,
+   "Anaheim": 109.6,
+   "Costa Mesa": 114.17,
+   "Fountain Valley": 116.17,
+   "Fullerton": 110.25,
+   "Garden Grove": 109.69,
+   "Huntington Beach": 114.29,
+   "Irvine": 120.8,
+   "Newport Beach": 118.06,
+   "Santa Ana": 110.06,
+   "Tustin": 115.11,
+   "Westminster": 110.06
+  },
+  {
+   "month": "2023-06",
+   "Average": 114.91,
+   "Anaheim": 110.74,
+   "Costa Mesa": 115.69,
+   "Fountain Valley": 117.7,
+   "Fullerton": 111.57,
+   "Garden Grove": 110.94,
+   "Huntington Beach": 115.93,
+   "Irvine": 122.5,
+   "Newport Beach": 119.52,
+   "Santa Ana": 111.29,
+   "Tustin": 116.68,
+   "Westminster": 111.45
+  },
+  {
+   "month": "2023-07",
+   "Average": 116.53,
+   "Anaheim": 112.01,
+   "Costa Mesa": 117.27,
+   "Fountain Valley": 119.44,
+   "Fullerton": 113.03,
+   "Garden Grove": 112.38,
+   "Huntington Beach": 117.65,
+   "Irvine": 124.55,
+   "Newport Beach": 121.42,
+   "Santa Ana": 112.73,
+   "Tustin": 118.38,
+   "Westminster": 113.01
+  },
+  {
+   "month": "2023-08",
+   "Average": 118.43,
+   "Anaheim": 113.48,
+   "Costa Mesa": 119.09,
+   "Fountain Valley": 121.52,
+   "Fullerton": 114.64,
+   "Garden Grove": 114.0,
+   "Huntington Beach": 119.57,
+   "Irvine": 127.12,
+   "Newport Beach": 123.91,
+   "Santa Ana": 114.34,
+   "Tustin": 120.38,
+   "Westminster": 114.71
+  },
+  {
+   "month": "2023-09",
+   "Average": 120.35,
+   "Anaheim": 115.01,
+   "Costa Mesa": 120.99,
+   "Fountain Valley": 123.6,
+   "Fullerton": 116.2,
+   "Garden Grove": 115.68,
+   "Huntington Beach": 121.39,
+   "Irvine": 129.82,
+   "Newport Beach": 126.29,
+   "Santa Ana": 115.97,
+   "Tustin": 122.46,
+   "Westminster": 116.48
+  },
+  {
+   "month": "2023-10",
+   "Average": 122.04,
+   "Anaheim": 116.32,
+   "Costa Mesa": 122.71,
+   "Fountain Valley": 125.31,
+   "Fullerton": 117.56,
+   "Garden Grove": 117.14,
+   "Huntington Beach": 122.91,
+   "Irvine": 132.28,
+   "Newport Beach": 128.49,
+   "Santa Ana": 117.47,
+   "Tustin": 124.29,
+   "Westminster": 117.99
+  },
+  {
+   "month": "2023-11",
+   "Average": 123.34,
+   "Anaheim": 117.34,
+   "Costa Mesa": 124.0,
+   "Fountain Valley": 126.51,
+   "Fullerton": 118.55,
+   "Garden Grove": 118.47,
+   "Huntington Beach": 124.03,
+   "Irvine": 134.23,
+   "Newport Beach": 130.15,
+   "Santa Ana": 118.67,
+   "Tustin": 125.62,
+   "Westminster": 119.18
+  },
+  {
+   "month": "2023-12",
+   "Average": 124.24,
+   "Anaheim": 118.07,
+   "Costa Mesa": 124.85,
+   "Fountain Valley": 127.38,
+   "Fullerton": 119.13,
+   "Garden Grove": 119.46,
+   "Huntington Beach": 124.71,
+   "Irvine": 135.69,
+   "Newport Beach": 131.29,
+   "Santa Ana": 119.58,
+   "Tustin": 126.48,
+   "Westminster": 120.02
+  },
+  {
+   "month": "2024-01",
+   "Average": 124.73,
+   "Anaheim": 118.51,
+   "Costa Mesa": 125.1,
+   "Fountain Valley": 127.93,
+   "Fullerton": 119.25,
+   "Garden Grove": 120.15,
+   "Huntington Beach": 124.82,
+   "Irvine": 136.96,
+   "Newport Beach": 131.64,
+   "Santa Ana": 120.04,
+   "Tustin": 127.07,
+   "Westminster": 120.58
+  },
+  {
+   "month": "2024-02",
+   "Average": 124.97,
+   "Anaheim": 118.75,
+   "Costa Mesa": 125.09,
+   "Fountain Valley": 128.19,
+   "Fullerton": 119.16,
+   "Garden Grove": 120.52,
+   "Huntington Beach": 124.67,
+   "Irvine": 138.28,
+   "Newport Beach": 131.41,
+   "Santa Ana": 120.19,
+   "Tustin": 127.63,
+   "Westminster": 120.79
+  },
+  {
+   "month": "2024-03",
+   "Average": 125.69,
+   "Anaheim": 119.26,
+   "Costa Mesa": 125.52,
+   "Fountain Valley": 129.08,
+   "Fullerton": 119.68,
+   "Garden Grove": 121.07,
+   "Huntington Beach": 125.03,
+   "Irvine": 140.38,
+   "Newport Beach": 131.66,
+   "Santa Ana": 120.61,
+   "Tustin": 128.85,
+   "Westminster": 121.4
+  },
+  {
+   "month": "2024-04",
+   "Average": 127.02,
+   "Anaheim": 120.23,
+   "Costa Mesa": 126.75,
+   "Fountain Valley": 130.67,
+   "Fullerton": 120.99,
+   "Garden Grove": 122.09,
+   "Huntington Beach": 126.13,
+   "Irvine": 143.12,
+   "Newport Beach": 132.49,
+   "Santa Ana": 121.59,
+   "Tustin": 130.64,
+   "Westminster": 122.55
+  },
+  {
+   "month": "2024-05",
+   "Average": 128.66,
+   "Anaheim": 121.44,
+   "Costa Mesa": 128.34,
+   "Fountain Valley": 132.47,
+   "Fullerton": 122.57,
+   "Garden Grove": 123.38,
+   "Huntington Beach": 127.56,
+   "Irvine": 146.2,
+   "Newport Beach": 133.61,
+   "Santa Ana": 122.84,
+   "Tustin": 132.79,
+   "Westminster": 124.1
+  },
+  {
+   "month": "2024-06",
+   "Average": 129.82,
+   "Anaheim": 122.31,
+   "Costa Mesa": 129.39,
+   "Fountain Valley": 133.68,
+   "Fullerton": 123.57,
+   "Garden Grove": 124.38,
+   "Huntington Beach": 128.51,
+   "Irvine": 148.56,
+   "Newport Beach": 134.13,
+   "Santa Ana": 123.79,
+   "Tustin": 134.46,
+   "Westminster": 125.21
+  },
+  {
+   "month": "2024-07",
+   "Average": 130.69,
+   "Anaheim": 122.99,
+   "Costa Mesa": 130.2,
+   "Fountain Valley": 134.58,
+   "Fullerton": 124.18,
+   "Garden Grove": 125.17,
+   "Huntington Beach": 129.24,
+   "Irvine": 150.45,
+   "Newport Beach": 134.55,
+   "Santa Ana": 124.53,
+   "Tustin": 135.76,
+   "Westminster": 125.94
+  },
+  {
+   "month": "2024-08",
+   "Average": 131.49,
+   "Anaheim": 123.52,
+   "Costa Mesa": 131.03,
+   "Fountain Valley": 135.52,
+   "Fullerton": 124.66,
+   "Garden Grove": 125.92,
+   "Huntington Beach": 129.87,
+   "Irvine": 151.93,
+   "Newport Beach": 135.11,
+   "Santa Ana": 125.37,
+   "Tustin": 136.82,
+   "Westminster": 126.59
+  },
+  {
+   "month": "2024-09",
+   "Average": 132.41,
+   "Anaheim": 124.15,
+   "Costa Mesa": 132.1,
+   "Fountain Valley": 136.49,
+   "Fullerton": 125.18,
+   "Garden Grove": 126.73,
+   "Huntington Beach": 130.6,
+   "Irvine": 153.43,
+   "Newport Beach": 136.32,
+   "Santa Ana": 126.3,
+   "Tustin": 137.8,
+   "Westminster": 127.41
+  },
+  {
+   "month": "2024-10",
+   "Average": 133.26,
+   "Anaheim": 124.7,
+   "Costa Mesa": 133.06,
+   "Fountain Valley": 137.51,
+   "Fullerton": 125.65,
+   "Garden Grove": 127.54,
+   "Huntington Beach": 131.34,
+   "Irvine": 154.68,
+   "Newport Beach": 137.28,
+   "Santa Ana": 127.18,
+   "Tustin": 138.65,
+   "Westminster": 128.3
+  },
+  {
+   "month": "2024-11",
+   "Average": 134.1,
+   "Anaheim": 125.33,
+   "Costa Mesa": 133.94,
+   "Fountain Valley": 138.58,
+   "Fullerton": 126.26,
+   "Garden Grove": 128.31,
+   "Huntington Beach": 132.02,
+   "Irvine": 155.85,
+   "Newport Beach": 138.21,
+   "Santa Ana": 128.01,
+   "Tustin": 139.45,
+   "Westminster": 129.1
+  },
+  {
+   "month": "2024-12",
+   "Average": 134.87,
+   "Anaheim": 125.97,
+   "Costa Mesa": 134.74,
+   "Fountain Valley": 139.65,
+   "Fullerton": 127.06,
+   "Garden Grove": 129.1,
+   "Huntington Beach": 132.74,
+   "Irvine": 156.9,
+   "Newport Beach": 138.58,
+   "Santa Ana": 128.77,
+   "Tustin": 140.24,
+   "Westminster": 129.8
+  },
+  {
+   "month": "2025-01",
+   "Average": 135.43,
+   "Anaheim": 126.39,
+   "Costa Mesa": 135.19,
+   "Fountain Valley": 140.37,
+   "Fullerton": 127.67,
+   "Garden Grove": 129.58,
+   "Huntington Beach": 133.34,
+   "Irvine": 157.95,
+   "Newport Beach": 138.89,
+   "Santa Ana": 129.12,
+   "Tustin": 140.9,
+   "Westminster": 130.28
+  },
+  {
+   "month": "2025-02",
+   "Average": 135.76,
+   "Anaheim": 126.59,
+   "Costa Mesa": 135.46,
+   "Fountain Valley": 140.8,
+   "Fullerton": 128.03,
+   "Garden Grove": 129.85,
+   "Huntington Beach": 133.76,
+   "Irvine": 158.83,
+   "Newport Beach": 138.94,
+   "Santa Ana": 129.07,
+   "Tustin": 141.37,
+   "Westminster": 130.61
+  },
+  {
+   "month": "2025-03",
+   "Average": 135.75,
+   "Anaheim": 126.38,
+   "Costa Mesa": 135.34,
+   "Fountain Valley": 140.93,
+   "Fullerton": 127.89,
+   "Garden Grove": 129.72,
+   "Huntington Beach": 133.98,
+   "Irvine": 159.42,
+   "Newport Beach": 139.04,
+   "Santa Ana": 128.5,
+   "Tustin": 141.51,
+   "Westminster": 130.53
+  },
+  {
+   "month": "2025-04",
+   "Average": 135.58,
+   "Anaheim": 126.07,
+   "Costa Mesa": 135.11,
+   "Fountain Valley": 140.86,
+   "Fullerton": 127.54,
+   "Garden Grove": 129.45,
+   "Huntington Beach": 133.91,
+   "Irvine": 159.76,
+   "Newport Beach": 139.08,
+   "Santa Ana": 127.82,
+   "Tustin": 141.54,
+   "Westminster": 130.21
+  },
+  {
+   "month": "2025-05",
+   "Average": 135.14,
+   "Anaheim": 125.5,
+   "Costa Mesa": 134.56,
+   "Fountain Valley": 140.5,
+   "Fullerton": 126.93,
+   "Garden Grove": 128.94,
+   "Huntington Beach": 133.58,
+   "Irvine": 159.65,
+   "Newport Beach": 139.0,
+   "Santa Ana": 126.97,
+   "Tustin": 141.29,
+   "Westminster": 129.66
+  },
+  {
+   "month": "2025-06",
+   "Average": 134.65,
+   "Anaheim": 124.98,
+   "Costa Mesa": 134.02,
+   "Fountain Valley": 139.9,
+   "Fullerton": 126.36,
+   "Garden Grove": 128.39,
+   "Huntington Beach": 133.05,
+   "Irvine": 159.22,
+   "Newport Beach": 138.97,
+   "Santa Ana": 126.27,
+   "Tustin": 140.87,
+   "Westminster": 129.09
+  },
+  {
+   "month": "2025-07",
+   "Average": 134.29,
+   "Anaheim": 124.55,
+   "Costa Mesa": 133.91,
+   "Fountain Valley": 139.53,
+   "Fullerton": 125.9,
+   "Garden Grove": 127.97,
+   "Huntington Beach": 132.79,
+   "Irvine": 158.38,
+   "Newport Beach": 139.32,
+   "Santa Ana": 125.89,
+   "Tustin": 140.25,
+   "Westminster": 128.65
+  },
+  {
+   "month": "2025-08",
+   "Average": 134.07,
+   "Anaheim": 124.25,
+   "Costa Mesa": 134.12,
+   "Fountain Valley": 139.29,
+   "Fullerton": 125.45,
+   "Garden Grove": 127.61,
+   "Huntington Beach": 132.74,
+   "Irvine": 157.48,
+   "Newport Beach": 140.3,
+   "Santa Ana": 125.71,
+   "Tustin": 139.52,
+   "Westminster": 128.27
+  },
+  {
+   "month": "2025-09",
+   "Average": 134.12,
+   "Anaheim": 124.05,
+   "Costa Mesa": 134.67,
+   "Fountain Valley": 139.47,
+   "Fullerton": 125.17,
+   "Garden Grove": 127.51,
+   "Huntington Beach": 133.05,
+   "Irvine": 156.85,
+   "Newport Beach": 141.64,
+   "Santa Ana": 125.68,
+   "Tustin": 139.02,
+   "Westminster": 128.17
+  },
+  {
+   "month": "2025-10",
+   "Average": 134.46,
+   "Anaheim": 124.12,
+   "Costa Mesa": 135.4,
+   "Fountain Valley": 140.01,
+   "Fullerton": 125.15,
+   "Garden Grove": 127.77,
+   "Huntington Beach": 133.64,
+   "Irvine": 156.76,
+   "Newport Beach": 142.85,
+   "Santa Ana": 125.83,
+   "Tustin": 138.95,
+   "Westminster": 128.53
+  },
+  {
+   "month": "2025-11",
+   "Average": 135.05,
+   "Anaheim": 124.39,
+   "Costa Mesa": 136.24,
+   "Fountain Valley": 141.0,
+   "Fullerton": 125.44,
+   "Garden Grove": 128.41,
+   "Huntington Beach": 134.5,
+   "Irvine": 156.85,
+   "Newport Beach": 144.01,
+   "Santa Ana": 126.14,
+   "Tustin": 139.24,
+   "Westminster": 129.31
+  },
+  {
+   "month": "2025-12",
+   "Average": 135.82,
+   "Anaheim": 125.02,
+   "Costa Mesa": 137.18,
+   "Fountain Valley": 142.18,
+   "Fullerton": 126.0,
+   "Garden Grove": 129.31,
+   "Huntington Beach": 135.49,
+   "Irvine": 157.06,
+   "Newport Beach": 144.9,
+   "Santa Ana": 126.72,
+   "Tustin": 139.76,
+   "Westminster": 130.36
+  },
+  {
+   "month": "2026-01",
+   "Average": 136.57,
+   "Anaheim": 125.7,
+   "Costa Mesa": 138.0,
+   "Fountain Valley": 143.12,
+   "Fullerton": 126.53,
+   "Garden Grove": 130.22,
+   "Huntington Beach": 136.28,
+   "Irvine": 157.32,
+   "Newport Beach": 146.25,
+   "Santa Ana": 127.32,
+   "Tustin": 140.29,
+   "Westminster": 131.22
+  },
+  {
+   "month": "2026-02",
+   "Average": 137.33,
+   "Anaheim": 126.31,
+   "Costa Mesa": 138.84,
+   "Fountain Valley": 143.97,
+   "Fullerton": 127.03,
+   "Garden Grove": 130.96,
+   "Huntington Beach": 137.03,
+   "Irvine": 157.85,
+   "Newport Beach": 148.0,
+   "Santa Ana": 127.83,
+   "Tustin": 140.92,
+   "Westminster": 131.93
+  },
+  {
+   "month": "2026-03",
+   "Average": 137.97,
+   "Anaheim": 126.65,
+   "Costa Mesa": 139.57,
+   "Fountain Valley": 144.72,
+   "Fullerton": 127.36,
+   "Garden Grove": 131.57,
+   "Huntington Beach": 137.72,
+   "Irvine": 158.15,
+   "Newport Beach": 150.0,
+   "Santa Ana": 128.17,
+   "Tustin": 141.31,
+   "Westminster": 132.46
+  },
+  {
+   "month": "2026-04",
+   "Average": 138.28,
+   "Anaheim": 126.7,
+   "Costa Mesa": 139.99,
+   "Fountain Valley": 145.15,
+   "Fullerton": 127.52,
+   "Garden Grove": 131.86,
+   "Huntington Beach": 138.13,
+   "Irvine": 157.92,
+   "Newport Beach": 151.62,
+   "Santa Ana": 128.25,
+   "Tustin": 141.24,
+   "Westminster": 132.75
+  },
+  {
+   "month": "2026-05",
+   "Average": 138.47,
+   "Anaheim": 126.8,
+   "Costa Mesa": 140.5,
+   "Fountain Valley": 145.5,
+   "Fullerton": 127.64,
+   "Garden Grove": 132.2,
+   "Huntington Beach": 138.47,
+   "Irvine": 157.13,
+   "Newport Beach": 152.63,
+   "Santa Ana": 128.47,
+   "Tustin": 140.74,
+   "Westminster": 133.07
+  },
+  {
+   "month": "2026-06",
+   "Average": 138.58,
+   "Anaheim": 126.9,
+   "Costa Mesa": 141.02,
+   "Fountain Valley": 145.74,
+   "Fullerton": 127.73,
+   "Garden Grove": 132.37,
+   "Huntington Beach": 138.68,
+   "Irvine": 156.17,
+   "Newport Beach": 153.51,
+   "Santa Ana": 128.71,
+   "Tustin": 140.19,
+   "Westminster": 133.37
+  },
+  {
+   "month": "2026-07",
+   "Average": 138.92,
+   "Anaheim": 127.17,
+   "Costa Mesa": 141.82,
+   "Fountain Valley": 146.4,
+   "Fullerton": 128.07,
+   "Garden Grove": 132.75,
+   "Huntington Beach": 139.24,
+   "Irvine": 155.31,
+   "Newport Beach": 154.36,
+   "Santa Ana": 129.19,
+   "Tustin": 139.9,
+   "Westminster": 133.93
+  },
+  {
+   "month": "2026-08",
+   "Average": 139.37,
+   "Anaheim": 127.56,
+   "Costa Mesa": 142.56,
+   "Fountain Valley": 147.17,
+   "Fullerton": 128.51,
+   "Garden Grove": 133.2,
+   "Huntington Beach": 139.92,
+   "Irvine": 154.62,
+   "Newport Beach": 155.29,
+   "Santa Ana": 129.84,
+   "Tustin": 139.85,
+   "Westminster": 134.59
+  },
+  {
+   "month": "2026-09",
+   "Average": 139.74,
+   "Anaheim": 127.89,
+   "Costa Mesa": 143.31,
+   "Fountain Valley": 147.85,
+   "Fullerton": 128.91,
+   "Garden Grove": 133.62,
+   "Huntington Beach": 140.5,
+   "Irvine": 153.94,
+   "Newport Beach": 155.95,
+   "Santa Ana": 130.34,
+   "Tustin": 139.68,
+   "Westminster": 135.19
+  }
+ ],
+ "summary": [
+  {
+   "city": "Newport Beach",
+   "latest_zhvi": 3710827.0,
+   "pct_change_1y": 10.1,
+   "pct_change_5y": 55.95,
+   "divergence_5y_pp": 16.2
+  },
+  {
+   "city": "Irvine",
+   "latest_zhvi": 1481490.0,
+   "pct_change_1y": -1.86,
+   "pct_change_5y": 53.94,
+   "divergence_5y_pp": 14.19
+  },
+  {
+   "city": "Fountain Valley",
+   "latest_zhvi": 1377121.0,
+   "pct_change_1y": 6.01,
+   "pct_change_5y": 47.85,
+   "divergence_5y_pp": 8.11
+  },
+  {
+   "city": "Costa Mesa",
+   "latest_zhvi": 1419109.0,
+   "pct_change_1y": 6.42,
+   "pct_change_5y": 43.31,
+   "divergence_5y_pp": 3.57
+  },
+  {
+   "city": "Huntington Beach",
+   "latest_zhvi": 1344725.0,
+   "pct_change_1y": 5.6,
+   "pct_change_5y": 40.5,
+   "divergence_5y_pp": 0.76
+  },
+  {
+   "city": "Tustin",
+   "latest_zhvi": 1145586.0,
+   "pct_change_1y": 0.47,
+   "pct_change_5y": 39.68,
+   "divergence_5y_pp": -0.07
+  },
+  {
+   "city": "Westminster",
+   "latest_zhvi": 1093355.0,
+   "pct_change_1y": 5.47,
+   "pct_change_5y": 35.19,
+   "divergence_5y_pp": -4.55
+  },
+  {
+   "city": "Garden Grove",
+   "latest_zhvi": 1001908.0,
+   "pct_change_1y": 4.8,
+   "pct_change_5y": 33.62,
+   "divergence_5y_pp": -6.12
+  },
+  {
+   "city": "Santa Ana",
+   "latest_zhvi": 858641.0,
+   "pct_change_1y": 3.71,
+   "pct_change_5y": 30.34,
+   "divergence_5y_pp": -9.4
+  },
+  {
+   "city": "Fullerton",
+   "latest_zhvi": 1037545.0,
+   "pct_change_1y": 2.98,
+   "pct_change_5y": 28.91,
+   "divergence_5y_pp": -10.84
+  },
+  {
+   "city": "Anaheim",
+   "latest_zhvi": 941684.0,
+   "pct_change_1y": 3.09,
+   "pct_change_5y": 27.89,
+   "divergence_5y_pp": -11.85
+  }
+ ],
+ "rates": [
+  {
+   "month": "1971-04",
+   "rate": 7.31
+  },
+  {
+   "month": "1971-05",
+   "rate": 7.425
+  },
+  {
+   "month": "1971-06",
+   "rate": 7.53
+  },
+  {
+   "month": "1971-07",
+   "rate": 7.604
+  },
+  {
+   "month": "1971-08",
+   "rate": 7.698
+  },
+  {
+   "month": "1971-09",
+   "rate": 7.688
+  },
+  {
+   "month": "1971-10",
+   "rate": 7.628
+  },
+  {
+   "month": "1971-11",
+   "rate": 7.55
+  },
+  {
+   "month": "1971-12",
+   "rate": 7.48
+  },
+  {
+   "month": "1972-01",
+   "rate": 7.438
+  },
+  {
+   "month": "1972-02",
+   "rate": 7.325
+  },
+  {
+   "month": "1972-03",
+   "rate": 7.298
+  },
+  {
+   "month": "1972-04",
+   "rate": 7.29
+  },
+  {
+   "month": "1972-05",
+   "rate": 7.373
+  },
+  {
+   "month": "1972-06",
+   "rate": 7.372
+  },
+  {
+   "month": "1972-07",
+   "rate": 7.395
+  },
+  {
+   "month": "1972-08",
+   "rate": 7.4
+  },
+  {
+   "month": "1972-09",
+   "rate": 7.42
+  },
+  {
+   "month": "1972-10",
+   "rate": 7.42
+  },
+  {
+   "month": "1972-11",
+   "rate": 7.428
+  },
+  {
+   "month": "1972-12",
+   "rate": 7.442
+  },
+  {
+   "month": "1973-01",
+   "rate": 7.438
+  },
+  {
+   "month": "1973-02",
+   "rate": 7.44
+  },
+  {
+   "month": "1973-03",
+   "rate": 7.458
+  },
+  {
+   "month": "1973-04",
+   "rate": 7.542
+  },
+  {
+   "month": "1973-05",
+   "rate": 7.652
+  },
+  {
+   "month": "1973-06",
+   "rate": 7.734
+  },
+  {
+   "month": "1973-07",
+   "rate": 8.05
+  },
+  {
+   "month": "1973-08",
+   "rate": 8.496
+  },
+  {
+   "month": "1973-09",
+   "rate": 8.815
+  },
+  {
+   "month": "1973-10",
+   "rate": 8.77
+  },
+  {
+   "month": "1973-11",
+   "rate": 8.582
+  },
+  {
+   "month": "1973-12",
+   "rate": 8.538
+  },
+  {
+   "month": "1974-01",
+   "rate": 8.54
+  },
+  {
+   "month": "1974-02",
+   "rate": 8.455
+  },
+  {
+   "month": "1974-03",
+   "rate": 8.406
+  },
+  {
+   "month": "1974-04",
+   "rate": 8.582
+  },
+  {
+   "month": "1974-05",
+   "rate": 8.972
+  },
+  {
+   "month": "1974-06",
+   "rate": 9.085
+  },
+  {
+   "month": "1974-07",
+   "rate": 9.28
+  },
+  {
+   "month": "1974-08",
+   "rate": 9.586
+  },
+  {
+   "month": "1974-09",
+   "rate": 9.958
+  },
+  {
+   "month": "1974-10",
+   "rate": 9.978
+  },
+  {
+   "month": "1974-11",
+   "rate": 9.788
+  },
+  {
+   "month": "1974-12",
+   "rate": 9.615
+  },
+  {
+   "month": "1975-01",
+   "rate": 9.432
+  },
+  {
+   "month": "1975-02",
+   "rate": 9.105
+  },
+  {
+   "month": "1975-03",
+   "rate": 8.902
+  },
+  {
+   "month": "1975-04",
+   "rate": 8.82
+  },
+  {
+   "month": "1975-05",
+   "rate": 8.906
+  },
+  {
+   "month": "1975-06",
+   "rate": 8.892
+  },
+  {
+   "month": "1975-07",
+   "rate": 8.89
+  },
+  {
+   "month": "1975-08",
+   "rate": 8.942
+  },
+  {
+   "month": "1975-09",
+   "rate": 9.13
+  },
+  {
+   "month": "1975-10",
+   "rate": 9.224
+  },
+  {
+   "month": "1975-11",
+   "rate": 9.145
+  },
+  {
+   "month": "1975-12",
+   "rate": 9.098
+  },
+  {
+   "month": "1976-01",
+   "rate": 9.016
+  },
+  {
+   "month": "1976-02",
+   "rate": 8.812
+  },
+  {
+   "month": "1976-03",
+   "rate": 8.755
+  },
+  {
+   "month": "1976-04",
+   "rate": 8.73
+  },
+  {
+   "month": "1976-05",
+   "rate": 8.765
+  },
+  {
+   "month": "1976-06",
+   "rate": 8.848
+  },
+  {
+   "month": "1976-07",
+   "rate": 8.934
+  },
+  {
+   "month": "1976-08",
+   "rate": 9.0
+  },
+  {
+   "month": "1976-09",
+   "rate": 8.978
+  },
+  {
+   "month": "1976-10",
+   "rate": 8.93
+  },
+  {
+   "month": "1976-11",
+   "rate": 8.812
+  },
+  {
+   "month": "1976-12",
+   "rate": 8.792
+  },
+  {
+   "month": "1977-01",
+   "rate": 8.722
+  },
+  {
+   "month": "1977-02",
+   "rate": 8.67
+  },
+  {
+   "month": "1977-03",
+   "rate": 8.688
+  },
+  {
+   "month": "1977-04",
+   "rate": 8.752
+  },
+  {
+   "month": "1977-05",
+   "rate": 8.828
+  },
+  {
+   "month": "1977-06",
+   "rate": 8.858
+  },
+  {
+   "month": "1977-07",
+   "rate": 8.942
+  },
+  {
+   "month": "1977-08",
+   "rate": 8.94
+  },
+  {
+   "month": "1977-09",
+   "rate": 8.896
+  },
+  {
+   "month": "1977-10",
+   "rate": 8.922
+  },
+  {
+   "month": "1977-11",
+   "rate": 8.922
+  },
+  {
+   "month": "1977-12",
+   "rate": 8.96
+  },
+  {
+   "month": "1978-01",
+   "rate": 9.015
+  },
+  {
+   "month": "1978-02",
+   "rate": 9.145
+  },
+  {
+   "month": "1978-03",
+   "rate": 9.202
+  },
+  {
+   "month": "1978-04",
+   "rate": 9.355
+  },
+  {
+   "month": "1978-05",
+   "rate": 9.573
+  },
+  {
+   "month": "1978-06",
+   "rate": 9.708
+  },
+  {
+   "month": "1978-07",
+   "rate": 9.74
+  },
+  {
+   "month": "1978-08",
+   "rate": 9.785
+  },
+  {
+   "month": "1978-09",
+   "rate": 9.756
+  },
+  {
+   "month": "1978-10",
+   "rate": 9.858
+  },
+  {
+   "month": "1978-11",
+   "rate": 10.108
+  },
+  {
+   "month": "1978-12",
+   "rate": 10.346
+  },
+  {
+   "month": "1979-01",
+   "rate": 10.39
+  },
+  {
+   "month": "1979-02",
+   "rate": 10.407
+  },
+  {
+   "month": "1979-03",
+   "rate": 10.426
+  },
+  {
+   "month": "1979-04",
+   "rate": 10.497
+  },
+  {
+   "month": "1979-05",
+   "rate": 10.69
+  },
+  {
+   "month": "1979-06",
+   "rate": 11.036
+  },
+  {
+   "month": "1979-07",
+   "rate": 11.093
+  },
+  {
+   "month": "1979-08",
+   "rate": 11.094
+  },
+  {
+   "month": "1979-09",
+   "rate": 11.3
+  },
+  {
+   "month": "1979-10",
+   "rate": 11.638
+  },
+  {
+   "month": "1979-11",
+   "rate": 12.83
+  },
+  {
+   "month": "1979-12",
+   "rate": 12.9
+  },
+  {
+   "month": "1980-01",
+   "rate": 12.878
+  },
+  {
+   "month": "1980-02",
+   "rate": 13.04
+  },
+  {
+   "month": "1980-03",
+   "rate": 15.282
+  },
+  {
+   "month": "1980-04",
+   "rate": 16.325
+  },
+  {
+   "month": "1980-05",
+   "rate": 14.262
+  },
+  {
+   "month": "1980-06",
+   "rate": 12.71
+  },
+  {
+   "month": "1980-07",
+   "rate": 12.192
+  },
+  {
+   "month": "1980-08",
+   "rate": 12.56
+  },
+  {
+   "month": "1980-09",
+   "rate": 13.198
+  },
+  {
+   "month": "1980-10",
+   "rate": 13.792
+  },
+  {
+   "month": "1980-11",
+   "rate": 14.205
+  },
+  {
+   "month": "1980-12",
+   "rate": 14.79
+  },
+  {
+   "month": "1981-01",
+   "rate": 14.904
+  },
+  {
+   "month": "1981-02",
+   "rate": 15.132
+  },
+  {
+   "month": "1981-03",
+   "rate": 15.4
+  },
+  {
+   "month": "1981-04",
+   "rate": 15.58
+  },
+  {
+   "month": "1981-05",
+   "rate": 16.402
+  },
+  {
+   "month": "1981-06",
+   "rate": 16.695
+  },
+  {
+   "month": "1981-07",
+   "rate": 16.832
+  },
+  {
+   "month": "1981-08",
+   "rate": 17.285
+  },
+  {
+   "month": "1981-09",
+   "rate": 18.16
+  },
+  {
+   "month": "1981-10",
+   "rate": 18.454
+  },
+  {
+   "month": "1981-11",
+   "rate": 17.825
+  },
+  {
+   "month": "1981-12",
+   "rate": 16.946
+  },
+  {
+   "month": "1982-01",
+   "rate": 17.485
+  },
+  {
+   "month": "1982-02",
+   "rate": 17.598
+  },
+  {
+   "month": "1982-03",
+   "rate": 17.16
+  },
+  {
+   "month": "1982-04",
+   "rate": 16.892
+  },
+  {
+   "month": "1982-05",
+   "rate": 16.678
+  },
+  {
+   "month": "1982-06",
+   "rate": 16.697
+  },
+  {
+   "month": "1982-07",
+   "rate": 16.816
+  },
+  {
+   "month": "1982-08",
+   "rate": 16.27
+  },
+  {
+   "month": "1982-09",
+   "rate": 15.43
+  },
+  {
+   "month": "1982-10",
+   "rate": 14.608
+  },
+  {
+   "month": "1982-11",
+   "rate": 13.825
+  },
+  {
+   "month": "1982-12",
+   "rate": 13.624
+  },
+  {
+   "month": "1983-01",
+   "rate": 13.248
+  },
+  {
+   "month": "1983-02",
+   "rate": 13.042
+  },
+  {
+   "month": "1983-03",
+   "rate": 12.8
+  },
+  {
+   "month": "1983-04",
+   "rate": 12.782
+  },
+  {
+   "month": "1983-05",
+   "rate": 12.632
+  },
+  {
+   "month": "1983-06",
+   "rate": 12.87
+  },
+  {
+   "month": "1983-07",
+   "rate": 13.422
+  },
+  {
+   "month": "1983-08",
+   "rate": 13.81
+  },
+  {
+   "month": "1983-09",
+   "rate": 13.726
+  },
+  {
+   "month": "1983-10",
+   "rate": 13.535
+  },
+  {
+   "month": "1983-11",
+   "rate": 13.435
+  },
+  {
+   "month": "1983-12",
+   "rate": 13.42
+  },
+  {
+   "month": "1984-01",
+   "rate": 13.368
+  },
+  {
+   "month": "1984-02",
+   "rate": 13.232
+  },
+  {
+   "month": "1984-03",
+   "rate": 13.386
+  },
+  {
+   "month": "1984-04",
+   "rate": 13.653
+  },
+  {
+   "month": "1984-05",
+   "rate": 13.942
+  },
+  {
+   "month": "1984-06",
+   "rate": 14.416
+  },
+  {
+   "month": "1984-07",
+   "rate": 14.668
+  },
+  {
+   "month": "1984-08",
+   "rate": 14.47
+  },
+  {
+   "month": "1984-09",
+   "rate": 14.35
+  },
+  {
+   "month": "1984-10",
+   "rate": 14.13
+  },
+  {
+   "month": "1984-11",
+   "rate": 13.638
+  },
+  {
+   "month": "1984-12",
+   "rate": 13.18
+  },
+  {
+   "month": "1985-01",
+   "rate": 13.075
+  },
+  {
+   "month": "1985-02",
+   "rate": 12.92
+  },
+  {
+   "month": "1985-03",
+   "rate": 13.17
+  },
+  {
+   "month": "1985-04",
+   "rate": 13.195
+  },
+  {
+   "month": "1985-05",
+   "rate": 12.914
+  },
+  {
+   "month": "1985-06",
+   "rate": 12.215
+  },
+  {
+   "month": "1985-07",
+   "rate": 12.032
+  },
+  {
+   "month": "1985-08",
+   "rate": 12.186
+  },
+  {
+   "month": "1985-09",
+   "rate": 12.192
+  },
+  {
+   "month": "1985-10",
+   "rate": 12.135
+  },
+  {
+   "month": "1985-11",
+   "rate": 11.784
+  },
+  {
+   "month": "1985-12",
+   "rate": 11.26
+  },
+  {
+   "month": "1986-01",
+   "rate": 10.886
+  },
+  {
+   "month": "1986-02",
+   "rate": 10.71
+  },
+  {
+   "month": "1986-03",
+   "rate": 10.08
+  },
+  {
+   "month": "1986-04",
+   "rate": 9.938
+  },
+  {
+   "month": "1986-05",
+   "rate": 10.144
+  },
+  {
+   "month": "1986-06",
+   "rate": 10.682
+  },
+  {
+   "month": "1986-07",
+   "rate": 10.508
+  },
+  {
+   "month": "1986-08",
+   "rate": 10.2
+  },
+  {
+   "month": "1986-09",
+   "rate": 10.008
+  },
+  {
+   "month": "1986-10",
+   "rate": 9.974
+  },
+  {
+   "month": "1986-11",
+   "rate": 9.695
+  },
+  {
+   "month": "1986-12",
+   "rate": 9.31
+  },
+  {
+   "month": "1987-01",
+   "rate": 9.204
+  },
+  {
+   "month": "1987-02",
+   "rate": 9.082
+  },
+  {
+   "month": "1987-03",
+   "rate": 9.035
+  },
+  {
+   "month": "1987-04",
+   "rate": 9.832
+  },
+  {
+   "month": "1987-05",
+   "rate": 10.596
+  },
+  {
+   "month": "1987-06",
+   "rate": 10.538
+  },
+  {
+   "month": "1987-07",
+   "rate": 10.278
+  },
+  {
+   "month": "1987-08",
+   "rate": 10.33
+  },
+  {
+   "month": "1987-09",
+   "rate": 10.888
+  },
+  {
+   "month": "1987-10",
+   "rate": 11.26
+  },
+  {
+   "month": "1987-11",
+   "rate": 10.65
+  },
+  {
+   "month": "1987-12",
+   "rate": 10.64
+  },
+  {
+   "month": "1988-01",
+   "rate": 10.382
+  },
+  {
+   "month": "1988-02",
+   "rate": 9.892
+  },
+  {
+   "month": "1988-03",
+   "rate": 9.93
+  },
+  {
+   "month": "1988-04",
+   "rate": 10.202
+  },
+  {
+   "month": "1988-05",
+   "rate": 10.455
+  },
+  {
+   "month": "1988-06",
+   "rate": 10.46
+  },
+  {
+   "month": "1988-07",
+   "rate": 10.432
+  },
+  {
+   "month": "1988-08",
+   "rate": 10.598
+  },
+  {
+   "month": "1988-09",
+   "rate": 10.48
+  },
+  {
+   "month": "1988-10",
+   "rate": 10.302
+  },
+  {
+   "month": "1988-11",
+   "rate": 10.265
+  },
+  {
+   "month": "1988-12",
+   "rate": 10.612
+  },
+  {
+   "month": "1989-01",
+   "rate": 10.73
+  },
+  {
+   "month": "1989-02",
+   "rate": 10.645
+  },
+  {
+   "month": "1989-03",
+   "rate": 11.032
+  },
+  {
+   "month": "1989-04",
+   "rate": 11.05
+  },
+  {
+   "month": "1989-05",
+   "rate": 10.772
+  },
+  {
+   "month": "1989-06",
+   "rate": 10.196
+  },
+  {
+   "month": "1989-07",
+   "rate": 9.882
+  },
+  {
+   "month": "1989-08",
+   "rate": 9.985
+  },
+  {
+   "month": "1989-09",
+   "rate": 10.126
+  },
+  {
+   "month": "1989-10",
+   "rate": 9.948
+  },
+  {
+   "month": "1989-11",
+   "rate": 9.768
+  },
+  {
+   "month": "1989-12",
+   "rate": 9.744
+  },
+  {
+   "month": "1990-01",
+   "rate": 9.895
+  },
+  {
+   "month": "1990-02",
+   "rate": 10.198
+  },
+  {
+   "month": "1990-03",
+   "rate": 10.268
+  },
+  {
+   "month": "1990-04",
+   "rate": 10.37
+  },
+  {
+   "month": "1990-05",
+   "rate": 10.478
+  },
+  {
+   "month": "1990-06",
+   "rate": 10.164
+  },
+  {
+   "month": "1990-07",
+   "rate": 10.035
+  },
+  {
+   "month": "1990-08",
+   "rate": 10.1
+  },
+  {
+   "month": "1990-09",
+   "rate": 10.175
+  },
+  {
+   "month": "1990-10",
+   "rate": 10.178
+  },
+  {
+   "month": "1990-11",
+   "rate": 10.014
+  },
+  {
+   "month": "1990-12",
+   "rate": 9.673
+  },
+  {
+   "month": "1991-01",
+   "rate": 9.638
+  },
+  {
+   "month": "1991-02",
+   "rate": 9.365
+  },
+  {
+   "month": "1991-03",
+   "rate": 9.5
+  },
+  {
+   "month": "1991-04",
+   "rate": 9.493
+  },
+  {
+   "month": "1991-05",
+   "rate": 9.472
+  },
+  {
+   "month": "1991-06",
+   "rate": 9.615
+  },
+  {
+   "month": "1991-07",
+   "rate": 9.575
+  },
+  {
+   "month": "1991-08",
+   "rate": 9.244
+  },
+  {
+   "month": "1991-09",
+   "rate": 9.008
+  },
+  {
+   "month": "1991-10",
+   "rate": 8.855
+  },
+  {
+   "month": "1991-11",
+   "rate": 8.712
+  },
+  {
+   "month": "1991-12",
+   "rate": 8.497
+  },
+  {
+   "month": "1992-01",
+   "rate": 8.432
+  },
+  {
+   "month": "1992-02",
+   "rate": 8.763
+  },
+  {
+   "month": "1992-03",
+   "rate": 8.935
+  },
+  {
+   "month": "1992-04",
+   "rate": 8.853
+  },
+  {
+   "month": "1992-05",
+   "rate": 8.672
+  },
+  {
+   "month": "1992-06",
+   "rate": 8.51
+  },
+  {
+   "month": "1992-07",
+   "rate": 8.128
+  },
+  {
+   "month": "1992-08",
+   "rate": 7.975
+  },
+  {
+   "month": "1992-09",
+   "rate": 7.922
+  },
+  {
+   "month": "1992-10",
+   "rate": 8.088
+  },
+  {
+   "month": "1992-11",
+   "rate": 8.305
+  },
+  {
+   "month": "1992-12",
+   "rate": 8.206
+  },
+  {
+   "month": "1993-01",
+   "rate": 7.992
+  },
+  {
+   "month": "1993-02",
+   "rate": 7.682
+  },
+  {
+   "month": "1993-03",
+   "rate": 7.495
+  },
+  {
+   "month": "1993-04",
+   "rate": 7.472
+  },
+  {
+   "month": "1993-05",
+   "rate": 7.465
+  },
+  {
+   "month": "1993-06",
+   "rate": 7.417
+  },
+  {
+   "month": "1993-07",
+   "rate": 7.206
+  },
+  {
+   "month": "1993-08",
+   "rate": 7.112
+  },
+  {
+   "month": "1993-09",
+   "rate": 6.915
+  },
+  {
+   "month": "1993-10",
+   "rate": 6.834
+  },
+  {
+   "month": "1993-11",
+   "rate": 7.155
+  },
+  {
+   "month": "1993-12",
+   "rate": 7.172
+  },
+  {
+   "month": "1994-01",
+   "rate": 7.06
+  },
+  {
+   "month": "1994-02",
+   "rate": 7.152
+  },
+  {
+   "month": "1994-03",
+   "rate": 7.675
+  },
+  {
+   "month": "1994-04",
+   "rate": 8.316
+  },
+  {
+   "month": "1994-05",
+   "rate": 8.598
+  },
+  {
+   "month": "1994-06",
+   "rate": 8.398
+  },
+  {
+   "month": "1994-07",
+   "rate": 8.614
+  },
+  {
+   "month": "1994-08",
+   "rate": 8.513
+  },
+  {
+   "month": "1994-09",
+   "rate": 8.64
+  },
+  {
+   "month": "1994-10",
+   "rate": 8.925
+  },
+  {
+   "month": "1994-11",
+   "rate": 9.17
+  },
+  {
+   "month": "1994-12",
+   "rate": 9.198
+  },
+  {
+   "month": "1995-01",
+   "rate": 9.148
+  },
+  {
+   "month": "1995-02",
+   "rate": 8.828
+  },
+  {
+   "month": "1995-03",
+   "rate": 8.462
+  },
+  {
+   "month": "1995-04",
+   "rate": 8.32
+  },
+  {
+   "month": "1995-05",
+   "rate": 7.955
+  },
+  {
+   "month": "1995-06",
+   "rate": 7.566
+  },
+  {
+   "month": "1995-07",
+   "rate": 7.608
+  },
+  {
+   "month": "1995-08",
+   "rate": 7.86
+  },
+  {
+   "month": "1995-09",
+   "rate": 7.636
+  },
+  {
+   "month": "1995-10",
+   "rate": 7.475
+  },
+  {
+   "month": "1995-11",
+   "rate": 7.378
+  },
+  {
+   "month": "1995-12",
+   "rate": 7.2
+  },
+  {
+   "month": "1996-01",
+   "rate": 7.03
+  },
+  {
+   "month": "1996-02",
+   "rate": 7.075
+  },
+  {
+   "month": "1996-03",
+   "rate": 7.624
+  },
+  {
+   "month": "1996-04",
+   "rate": 7.925
+  },
+  {
+   "month": "1996-05",
+   "rate": 8.07
+  },
+  {
+   "month": "1996-06",
+   "rate": 8.32
+  },
+  {
+   "month": "1996-07",
+   "rate": 8.245
+  },
+  {
+   "month": "1996-08",
+   "rate": 8.002
+  },
+  {
+   "month": "1996-09",
+   "rate": 8.23
+  },
+  {
+   "month": "1996-10",
+   "rate": 7.915
+  },
+  {
+   "month": "1996-11",
+   "rate": 7.618
+  },
+  {
+   "month": "1996-12",
+   "rate": 7.598
+  },
+  {
+   "month": "1997-01",
+   "rate": 7.824
+  },
+  {
+   "month": "1997-02",
+   "rate": 7.65
+  },
+  {
+   "month": "1997-03",
+   "rate": 7.898
+  },
+  {
+   "month": "1997-04",
+   "rate": 8.142
+  },
+  {
+   "month": "1997-05",
+   "rate": 7.944
+  },
+  {
+   "month": "1997-06",
+   "rate": 7.69
+  },
+  {
+   "month": "1997-07",
+   "rate": 7.498
+  },
+  {
+   "month": "1997-08",
+   "rate": 7.48
+  },
+  {
+   "month": "1997-09",
+   "rate": 7.43
+  },
+  {
+   "month": "1997-10",
+   "rate": 7.294
+  },
+  {
+   "month": "1997-11",
+   "rate": 7.205
+  },
+  {
+   "month": "1997-12",
+   "rate": 7.095
+  },
+  {
+   "month": "1998-01",
+   "rate": 6.994
+  },
+  {
+   "month": "1998-02",
+   "rate": 7.042
+  },
+  {
+   "month": "1998-03",
+   "rate": 7.128
+  },
+  {
+   "month": "1998-04",
+   "rate": 7.14
+  },
+  {
+   "month": "1998-05",
+   "rate": 7.144
+  },
+  {
+   "month": "1998-06",
+   "rate": 6.998
+  },
+  {
+   "month": "1998-07",
+   "rate": 6.952
+  },
+  {
+   "month": "1998-08",
+   "rate": 6.922
+  },
+  {
+   "month": "1998-09",
+   "rate": 6.722
+  },
+  {
+   "month": "1998-10",
+   "rate": 6.71
+  },
+  {
+   "month": "1998-11",
+   "rate": 6.865
+  },
+  {
+   "month": "1998-12",
+   "rate": 6.738
+  },
+  {
+   "month": "1999-01",
+   "rate": 6.785
+  },
+  {
+   "month": "1999-02",
+   "rate": 6.808
+  },
+  {
+   "month": "1999-03",
+   "rate": 7.04
+  },
+  {
+   "month": "1999-04",
+   "rate": 6.916
+  },
+  {
+   "month": "1999-05",
+   "rate": 7.145
+  },
+  {
+   "month": "1999-06",
+   "rate": 7.55
+  },
+  {
+   "month": "1999-07",
+   "rate": 7.632
+  },
+  {
+   "month": "1999-08",
+   "rate": 7.942
+  },
+  {
+   "month": "1999-09",
+   "rate": 7.822
+  },
+  {
+   "month": "1999-10",
+   "rate": 7.852
+  },
+  {
+   "month": "1999-11",
+   "rate": 7.738
+  },
+  {
+   "month": "1999-12",
+   "rate": 7.912
+  },
+  {
+   "month": "2000-01",
+   "rate": 8.21
+  },
+  {
+   "month": "2000-02",
+   "rate": 8.325
+  },
+  {
+   "month": "2000-03",
+   "rate": 8.24
+  },
+  {
+   "month": "2000-04",
+   "rate": 8.152
+  },
+  {
+   "month": "2000-05",
+   "rate": 8.515
+  },
+  {
+   "month": "2000-06",
+   "rate": 8.288
+  },
+  {
+   "month": "2000-07",
+   "rate": 8.148
+  },
+  {
+   "month": "2000-08",
+   "rate": 8.028
+  },
+  {
+   "month": "2000-09",
+   "rate": 7.912
+  },
+  {
+   "month": "2000-10",
+   "rate": 7.795
+  },
+  {
+   "month": "2000-11",
+   "rate": 7.745
+  },
+  {
+   "month": "2000-12",
+   "rate": 7.382
+  },
+  {
+   "month": "2001-01",
+   "rate": 7.033
+  },
+  {
+   "month": "2001-02",
+   "rate": 7.05
+  },
+  {
+   "month": "2001-03",
+   "rate": 6.952
+  },
+  {
+   "month": "2001-04",
+   "rate": 7.078
+  },
+  {
+   "month": "2001-05",
+   "rate": 7.145
+  },
+  {
+   "month": "2001-06",
+   "rate": 7.16
+  },
+  {
+   "month": "2001-07",
+   "rate": 7.128
+  },
+  {
+   "month": "2001-08",
+   "rate": 6.95
+  },
+  {
+   "month": "2001-09",
+   "rate": 6.818
+  },
+  {
+   "month": "2001-10",
+   "rate": 6.618
+  },
+  {
+   "month": "2001-11",
+   "rate": 6.658
+  },
+  {
+   "month": "2001-12",
+   "rate": 7.065
+  },
+  {
+   "month": "2002-01",
+   "rate": 6.998
+  },
+  {
+   "month": "2002-02",
+   "rate": 6.892
+  },
+  {
+   "month": "2002-03",
+   "rate": 7.014
+  },
+  {
+   "month": "2002-04",
+   "rate": 6.985
+  },
+  {
+   "month": "2002-05",
+   "rate": 6.806
+  },
+  {
+   "month": "2002-06",
+   "rate": 6.65
+  },
+  {
+   "month": "2002-07",
+   "rate": 6.485
+  },
+  {
+   "month": "2002-08",
+   "rate": 6.29
+  },
+  {
+   "month": "2002-09",
+   "rate": 6.092
+  },
+  {
+   "month": "2002-10",
+   "rate": 6.113
+  },
+  {
+   "month": "2002-11",
+   "rate": 6.068
+  },
+  {
+   "month": "2002-12",
+   "rate": 6.048
+  },
+  {
+   "month": "2003-01",
+   "rate": 5.916
+  },
+  {
+   "month": "2003-02",
+   "rate": 5.842
+  },
+  {
+   "month": "2003-03",
+   "rate": 5.745
+  },
+  {
+   "month": "2003-04",
+   "rate": 5.812
+  },
+  {
+   "month": "2003-05",
+   "rate": 5.484
+  },
+  {
+   "month": "2003-06",
+   "rate": 5.23
+  },
+  {
+   "month": "2003-07",
+   "rate": 5.632
+  },
+  {
+   "month": "2003-08",
+   "rate": 6.264
+  },
+  {
+   "month": "2003-09",
+   "rate": 6.148
+  },
+  {
+   "month": "2003-10",
+   "rate": 5.952
+  },
+  {
+   "month": "2003-11",
+   "rate": 5.932
+  },
+  {
+   "month": "2003-12",
+   "rate": 5.876
+  },
+  {
+   "month": "2004-01",
+   "rate": 5.712
+  },
+  {
+   "month": "2004-02",
+   "rate": 5.635
+  },
+  {
+   "month": "2004-03",
+   "rate": 5.445
+  },
+  {
+   "month": "2004-04",
+   "rate": 5.83
+  },
+  {
+   "month": "2004-05",
+   "rate": 6.27
+  },
+  {
+   "month": "2004-06",
+   "rate": 6.288
+  },
+  {
+   "month": "2004-07",
+   "rate": 6.056
+  },
+  {
+   "month": "2004-08",
+   "rate": 5.868
+  },
+  {
+   "month": "2004-09",
+   "rate": 5.754
+  },
+  {
+   "month": "2004-10",
+   "rate": 5.722
+  },
+  {
+   "month": "2004-11",
+   "rate": 5.73
+  },
+  {
+   "month": "2004-12",
+   "rate": 5.752
+  },
+  {
+   "month": "2005-01",
+   "rate": 5.71
+  },
+  {
+   "month": "2005-02",
+   "rate": 5.628
+  },
+  {
+   "month": "2005-03",
+   "rate": 5.928
+  },
+  {
+   "month": "2005-04",
+   "rate": 5.855
+  },
+  {
+   "month": "2005-05",
+   "rate": 5.72
+  },
+  {
+   "month": "2005-06",
+   "rate": 5.582
+  },
+  {
+   "month": "2005-07",
+   "rate": 5.695
+  },
+  {
+   "month": "2005-08",
+   "rate": 5.82
+  },
+  {
+   "month": "2005-09",
+   "rate": 5.774
+  },
+  {
+   "month": "2005-10",
+   "rate": 6.065
+  },
+  {
+   "month": "2005-11",
+   "rate": 6.33
+  },
+  {
+   "month": "2005-12",
+   "rate": 6.272
+  },
+  {
+   "month": "2006-01",
+   "rate": 6.145
+  },
+  {
+   "month": "2006-02",
+   "rate": 6.252
+  },
+  {
+   "month": "2006-03",
+   "rate": 6.324
+  },
+  {
+   "month": "2006-04",
+   "rate": 6.508
+  },
+  {
+   "month": "2006-05",
+   "rate": 6.598
+  },
+  {
+   "month": "2006-06",
+   "rate": 6.682
+  },
+  {
+   "month": "2006-07",
+   "rate": 6.762
+  },
+  {
+   "month": "2006-08",
+   "rate": 6.524
+  },
+  {
+   "month": "2006-09",
+   "rate": 6.402
+  },
+  {
+   "month": "2006-10",
+   "rate": 6.358
+  },
+  {
+   "month": "2006-11",
+   "rate": 6.24
+  },
+  {
+   "month": "2006-12",
+   "rate": 6.135
+  },
+  {
+   "month": "2007-01",
+   "rate": 6.218
+  },
+  {
+   "month": "2007-02",
+   "rate": 6.285
+  },
+  {
+   "month": "2007-03",
+   "rate": 6.156
+  },
+  {
+   "month": "2007-04",
+   "rate": 6.18
+  },
+  {
+   "month": "2007-05",
+   "rate": 6.262
+  },
+  {
+   "month": "2007-06",
+   "rate": 6.658
+  },
+  {
+   "month": "2007-07",
+   "rate": 6.695
+  },
+  {
+   "month": "2007-08",
+   "rate": 6.572
+  },
+  {
+   "month": "2007-09",
+   "rate": 6.382
+  },
+  {
+   "month": "2007-10",
+   "rate": 6.375
+  },
+  {
+   "month": "2007-11",
+   "rate": 6.208
+  },
+  {
+   "month": "2007-12",
+   "rate": 6.095
+  },
+  {
+   "month": "2008-01",
+   "rate": 5.758
+  },
+  {
+   "month": "2008-02",
+   "rate": 5.918
+  },
+  {
+   "month": "2008-03",
+   "rate": 5.97
+  },
+  {
+   "month": "2008-04",
+   "rate": 5.917
+  },
+  {
+   "month": "2008-05",
+   "rate": 6.036
+  },
+  {
+   "month": "2008-06",
+   "rate": 6.32
+  },
+  {
+   "month": "2008-07",
+   "rate": 6.426
+  },
+  {
+   "month": "2008-08",
+   "rate": 6.478
+  },
+  {
+   "month": "2008-09",
+   "rate": 6.038
+  },
+  {
+   "month": "2008-10",
+   "rate": 6.2
+  },
+  {
+   "month": "2008-11",
+   "rate": 6.087
+  },
+  {
+   "month": "2008-12",
+   "rate": 5.286
+  },
+  {
+   "month": "2009-01",
+   "rate": 5.047
+  },
+  {
+   "month": "2009-02",
+   "rate": 5.13
+  },
+  {
+   "month": "2009-03",
+   "rate": 5.002
+  },
+  {
+   "month": "2009-04",
+   "rate": 4.81
+  },
+  {
+   "month": "2009-05",
+   "rate": 4.858
+  },
+  {
+   "month": "2009-06",
+   "rate": 5.42
+  },
+  {
+   "month": "2009-07",
+   "rate": 5.222
+  },
+  {
+   "month": "2009-08",
+   "rate": 5.192
+  },
+  {
+   "month": "2009-09",
+   "rate": 5.057
+  },
+  {
+   "month": "2009-10",
+   "rate": 4.952
+  },
+  {
+   "month": "2009-11",
+   "rate": 4.875
+  },
+  {
+   "month": "2009-12",
+   "rate": 4.93
+  },
+  {
+   "month": "2010-01",
+   "rate": 5.03
+  },
+  {
+   "month": "2010-02",
+   "rate": 4.99
+  },
+  {
+   "month": "2010-03",
+   "rate": 4.968
+  },
+  {
+   "month": "2010-04",
+   "rate": 5.098
+  },
+  {
+   "month": "2010-05",
+   "rate": 4.888
+  },
+  {
+   "month": "2010-06",
+   "rate": 4.738
+  },
+  {
+   "month": "2010-07",
+   "rate": 4.564
+  },
+  {
+   "month": "2010-08",
+   "rate": 4.428
+  },
+  {
+   "month": "2010-09",
+   "rate": 4.346
+  },
+  {
+   "month": "2010-10",
+   "rate": 4.225
+  },
+  {
+   "month": "2010-11",
+   "rate": 4.3
+  },
+  {
+   "month": "2010-12",
+   "rate": 4.714
+  },
+  {
+   "month": "2011-01",
+   "rate": 4.755
+  },
+  {
+   "month": "2011-02",
+   "rate": 4.952
+  },
+  {
+   "month": "2011-03",
+   "rate": 4.836
+  },
+  {
+   "month": "2011-04",
+   "rate": 4.84
+  },
+  {
+   "month": "2011-05",
+   "rate": 4.638
+  },
+  {
+   "month": "2011-06",
+   "rate": 4.51
+  },
+  {
+   "month": "2011-07",
+   "rate": 4.545
+  },
+  {
+   "month": "2011-08",
+   "rate": 4.27
+  },
+  {
+   "month": "2011-09",
+   "rate": 4.106
+  },
+  {
+   "month": "2011-10",
+   "rate": 4.068
+  },
+  {
+   "month": "2011-11",
+   "rate": 3.992
+  },
+  {
+   "month": "2011-12",
+   "rate": 3.958
+  },
+  {
+   "month": "2012-01",
+   "rate": 3.915
+  },
+  {
+   "month": "2012-02",
+   "rate": 3.89
+  },
+  {
+   "month": "2012-03",
+   "rate": 3.954
+  },
+  {
+   "month": "2012-04",
+   "rate": 3.91
+  },
+  {
+   "month": "2012-05",
+   "rate": 3.798
+  },
+  {
+   "month": "2012-06",
+   "rate": 3.675
+  },
+  {
+   "month": "2012-07",
+   "rate": 3.55
+  },
+  {
+   "month": "2012-08",
+   "rate": 3.602
+  },
+  {
+   "month": "2012-09",
+   "rate": 3.497
+  },
+  {
+   "month": "2012-10",
+   "rate": 3.382
+  },
+  {
+   "month": "2012-11",
+   "rate": 3.352
+  },
+  {
+   "month": "2012-12",
+   "rate": 3.345
+  },
+  {
+   "month": "2013-01",
+   "rate": 3.414
+  },
+  {
+   "month": "2013-02",
+   "rate": 3.532
+  },
+  {
+   "month": "2013-03",
+   "rate": 3.565
+  },
+  {
+   "month": "2013-04",
+   "rate": 3.445
+  },
+  {
+   "month": "2013-05",
+   "rate": 3.536
+  },
+  {
+   "month": "2013-06",
+   "rate": 4.07
+  },
+  {
+   "month": "2013-07",
+   "rate": 4.37
+  },
+  {
+   "month": "2013-08",
+   "rate": 4.456
+  },
+  {
+   "month": "2013-09",
+   "rate": 4.49
+  },
+  {
+   "month": "2013-10",
+   "rate": 4.192
+  },
+  {
+   "month": "2013-11",
+   "rate": 4.255
+  },
+  {
+   "month": "2013-12",
+   "rate": 4.458
+  },
+  {
+   "month": "2014-01",
+   "rate": 4.432
+  },
+  {
+   "month": "2014-02",
+   "rate": 4.302
+  },
+  {
+   "month": "2014-03",
+   "rate": 4.342
+  },
+  {
+   "month": "2014-04",
+   "rate": 4.338
+  },
+  {
+   "month": "2014-05",
+   "rate": 4.192
+  },
+  {
+   "month": "2014-06",
+   "rate": 4.163
+  },
+  {
+   "month": "2014-07",
+   "rate": 4.13
+  },
+  {
+   "month": "2014-08",
+   "rate": 4.115
+  },
+  {
+   "month": "2014-09",
+   "rate": 4.162
+  },
+  {
+   "month": "2014-10",
+   "rate": 4.036
+  },
+  {
+   "month": "2014-11",
+   "rate": 3.998
+  },
+  {
+   "month": "2014-12",
+   "rate": 3.864
+  },
+  {
+   "month": "2015-01",
+   "rate": 3.67
+  },
+  {
+   "month": "2015-02",
+   "rate": 3.71
+  },
+  {
+   "month": "2015-03",
+   "rate": 3.77
+  },
+  {
+   "month": "2015-04",
+   "rate": 3.672
+  },
+  {
+   "month": "2015-05",
+   "rate": 3.84
+  },
+  {
+   "month": "2015-06",
+   "rate": 3.982
+  },
+  {
+   "month": "2015-07",
+   "rate": 4.046
+  },
+  {
+   "month": "2015-08",
+   "rate": 3.905
+  },
+  {
+   "month": "2015-09",
+   "rate": 3.89
+  },
+  {
+   "month": "2015-10",
+   "rate": 3.796
+  },
+  {
+   "month": "2015-11",
+   "rate": 3.942
+  },
+  {
+   "month": "2015-12",
+   "rate": 3.964
+  },
+  {
+   "month": "2016-01",
+   "rate": 3.872
+  },
+  {
+   "month": "2016-02",
+   "rate": 3.66
+  },
+  {
+   "month": "2016-03",
+   "rate": 3.694
+  },
+  {
+   "month": "2016-04",
+   "rate": 3.605
+  },
+  {
+   "month": "2016-05",
+   "rate": 3.6
+  },
+  {
+   "month": "2016-06",
+   "rate": 3.568
+  },
+  {
+   "month": "2016-07",
+   "rate": 3.44
+  },
+  {
+   "month": "2016-08",
+   "rate": 3.435
+  },
+  {
+   "month": "2016-09",
+   "rate": 3.46
+  },
+  {
+   "month": "2016-10",
+   "rate": 3.47
+  },
+  {
+   "month": "2016-11",
+   "rate": 3.77
+  },
+  {
+   "month": "2016-12",
+   "rate": 4.198
+  },
+  {
+   "month": "2017-01",
+   "rate": 4.15
+  },
+  {
+   "month": "2017-02",
+   "rate": 4.168
+  },
+  {
+   "month": "2017-03",
+   "rate": 4.196
+  },
+  {
+   "month": "2017-04",
+   "rate": 4.045
+  },
+  {
+   "month": "2017-05",
+   "rate": 4.01
+  },
+  {
+   "month": "2017-06",
+   "rate": 3.904
+  },
+  {
+   "month": "2017-07",
+   "rate": 3.968
+  },
+  {
+   "month": "2017-08",
+   "rate": 3.88
+  },
+  {
+   "month": "2017-09",
+   "rate": 3.805
+  },
+  {
+   "month": "2017-10",
+   "rate": 3.895
+  },
+  {
+   "month": "2017-11",
+   "rate": 3.922
+  },
+  {
+   "month": "2017-12",
+   "rate": 3.95
+  },
+  {
+   "month": "2018-01",
+   "rate": 4.033
+  },
+  {
+   "month": "2018-02",
+   "rate": 4.33
+  },
+  {
+   "month": "2018-03",
+   "rate": 4.444
+  },
+  {
+   "month": "2018-04",
+   "rate": 4.468
+  },
+  {
+   "month": "2018-05",
+   "rate": 4.586
+  },
+  {
+   "month": "2018-06",
+   "rate": 4.57
+  },
+  {
+   "month": "2018-07",
+   "rate": 4.528
+  },
+  {
+   "month": "2018-08",
+   "rate": 4.55
+  },
+  {
+   "month": "2018-09",
+   "rate": 4.627
+  },
+  {
+   "month": "2018-10",
+   "rate": 4.83
+  },
+  {
+   "month": "2018-11",
+   "rate": 4.866
+  },
+  {
+   "month": "2018-12",
+   "rate": 4.638
+  },
+  {
+   "month": "2019-01",
+   "rate": 4.464
+  },
+  {
+   "month": "2019-02",
+   "rate": 4.37
+  },
+  {
+   "month": "2019-03",
+   "rate": 4.265
+  },
+  {
+   "month": "2019-04",
+   "rate": 4.142
+  },
+  {
+   "month": "2019-05",
+   "rate": 4.072
+  },
+  {
+   "month": "2019-06",
+   "rate": 3.802
+  },
+  {
+   "month": "2019-07",
+   "rate": 3.765
+  },
+  {
+   "month": "2019-08",
+   "rate": 3.616
+  },
+  {
+   "month": "2019-09",
+   "rate": 3.605
+  },
+  {
+   "month": "2019-10",
+   "rate": 3.688
+  },
+  {
+   "month": "2019-11",
+   "rate": 3.695
+  },
+  {
+   "month": "2019-12",
+   "rate": 3.72
+  },
+  {
+   "month": "2020-01",
+   "rate": 3.624
+  },
+  {
+   "month": "2020-02",
+   "rate": 3.465
+  },
+  {
+   "month": "2020-03",
+   "rate": 3.45
+  },
+  {
+   "month": "2020-04",
+   "rate": 3.306
+  },
+  {
+   "month": "2020-05",
+   "rate": 3.232
+  },
+  {
+   "month": "2020-06",
+   "rate": 3.162
+  },
+  {
+   "month": "2020-07",
+   "rate": 3.016
+  },
+  {
+   "month": "2020-08",
+   "rate": 2.935
+  },
+  {
+   "month": "2020-09",
+   "rate": 2.89
+  },
+  {
+   "month": "2020-10",
+   "rate": 2.834
+  },
+  {
+   "month": "2020-11",
+   "rate": 2.765
+  },
+  {
+   "month": "2020-12",
+   "rate": 2.684
+  },
+  {
+   "month": "2021-01",
+   "rate": 2.735
+  },
+  {
+   "month": "2021-02",
+   "rate": 2.81
+  },
+  {
+   "month": "2021-03",
+   "rate": 3.082
+  },
+  {
+   "month": "2021-04",
+   "rate": 3.06
+  },
+  {
+   "month": "2021-05",
+   "rate": 2.963
+  },
+  {
+   "month": "2021-06",
+   "rate": 2.975
+  },
+  {
+   "month": "2021-07",
+   "rate": 2.868
+  },
+  {
+   "month": "2021-08",
+   "rate": 2.843
+  },
+  {
+   "month": "2021-09",
+   "rate": 2.9
+  },
+  {
+   "month": "2021-10",
+   "rate": 3.068
+  },
+  {
+   "month": "2021-11",
+   "rate": 3.068
+  },
+  {
+   "month": "2021-12",
+   "rate": 3.098
+  },
+  {
+   "month": "2022-01",
+   "rate": 3.445
+  },
+  {
+   "month": "2022-02",
+   "rate": 3.762
+  },
+  {
+   "month": "2022-03",
+   "rate": 4.172
+  },
+  {
+   "month": "2022-04",
+   "rate": 4.982
+  },
+  {
+   "month": "2022-05",
+   "rate": 5.23
+  },
+  {
+   "month": "2022-06",
+   "rate": 5.522
+  },
+  {
+   "month": "2022-07",
+   "rate": 5.413
+  },
+  {
+   "month": "2022-08",
+   "rate": 5.222
+  },
+  {
+   "month": "2022-09",
+   "rate": 6.112
+  },
+  {
+   "month": "2022-10",
+   "rate": 6.9
+  },
+  {
+   "month": "2022-11",
+   "rate": 6.805
+  },
+  {
+   "month": "2022-12",
+   "rate": 6.364
+  },
+  {
+   "month": "2023-01",
+   "rate": 6.272
+  },
+  {
+   "month": "2023-02",
+   "rate": 6.258
+  },
+  {
+   "month": "2023-03",
+   "rate": 6.544
+  },
+  {
+   "month": "2023-04",
+   "rate": 6.342
+  },
+  {
+   "month": "2023-05",
+   "rate": 6.425
+  },
+  {
+   "month": "2023-06",
+   "rate": 6.714
+  },
+  {
+   "month": "2023-07",
+   "rate": 6.84
+  },
+  {
+   "month": "2023-08",
+   "rate": 7.072
+  },
+  {
+   "month": "2023-09",
+   "rate": 7.2
+  },
+  {
+   "month": "2023-10",
+   "rate": 7.62
+  },
+  {
+   "month": "2023-11",
+   "rate": 7.442
+  },
+  {
+   "month": "2023-12",
+   "rate": 6.815
+  },
+  {
+   "month": "2024-01",
+   "rate": 6.642
+  },
+  {
+   "month": "2024-02",
+   "rate": 6.776
+  },
+  {
+   "month": "2024-03",
+   "rate": 6.82
+  },
+  {
+   "month": "2024-04",
+   "rate": 6.992
+  },
+  {
+   "month": "2024-05",
+   "rate": 7.06
+  },
+  {
+   "month": "2024-06",
+   "rate": 6.918
+  },
+  {
+   "month": "2024-07",
+   "rate": 6.848
+  },
+  {
+   "month": "2024-08",
+   "rate": 6.5
+  },
+  {
+   "month": "2024-09",
+   "rate": 6.18
+  },
+  {
+   "month": "2024-10",
+   "rate": 6.428
+  },
+  {
+   "month": "2024-11",
+   "rate": 6.805
+  },
+  {
+   "month": "2024-12",
+   "rate": 6.715
+  },
+  {
+   "month": "2025-01",
+   "rate": 6.958
+  },
+  {
+   "month": "2025-02",
+   "rate": 6.842
+  },
+  {
+   "month": "2025-03",
+   "rate": 6.65
+  },
+  {
+   "month": "2025-04",
+   "rate": 6.725
+  },
+  {
+   "month": "2025-05",
+   "rate": 6.816
+  },
+  {
+   "month": "2025-06",
+   "rate": 6.817
+  },
+  {
+   "month": "2025-07",
+   "rate": 6.72
+  },
+  {
+   "month": "2025-08",
+   "rate": 6.587
+  },
+  {
+   "month": "2025-09",
+   "rate": 6.352
+  },
+  {
+   "month": "2025-10",
+   "rate": 6.254
+  },
+  {
+   "month": "2025-11",
+   "rate": 6.238
+  },
+  {
+   "month": "2025-12",
+   "rate": 6.19
+  },
+  {
+   "month": "2026-01",
+   "rate": 6.102
+  },
+  {
+   "month": "2026-02",
+   "rate": 6.047
+  },
+  {
+   "month": "2026-03",
+   "rate": 6.178
+  },
+  {
+   "month": "2026-04",
+   "rate": 6.332
+  },
+  {
+   "month": "2026-05",
+   "rate": 6.443
+  },
+  {
+   "month": "2026-06",
+   "rate": 6.49
+  },
+  {
+   "month": "2026-07",
+   "rate": 6.542
+  },
+  {
+   "month": "2026-08",
+   "rate": 6.668
+  },
+  {
+   "month": "2026-09",
+   "rate": 6.863
+  },
+  {
+   "month": "2026-10",
+   "rate": 7.35
+  }
+ ],
+ "quality": {
+  "checks": [
+   {
+    "table": "home_values",
+    "check": "Schema (types, ranges, keys, null rate)",
+    "result": "pass",
+    "status": "pass"
+   },
+   {
+    "table": "home_values",
+    "check": "Continuous months",
+    "result": "pass",
+    "status": "pass"
+   },
+   {
+    "table": "home_values",
+    "check": "Null rate `zhvi` <= 10%",
+    "result": "pass (0.1%)",
+    "status": "pass"
+   },
+   {
+    "table": "home_values",
+    "check": "MoM change `zhvi` <= 20%",
+    "result": "pass (0)",
+    "status": "pass"
+   },
+   {
+    "table": "mortgage_rates",
+    "check": "Schema (types, ranges, keys, null rate)",
+    "result": "pass",
+    "status": "pass"
+   },
+   {
+    "table": "mortgage_rates",
+    "check": "Continuous months",
+    "result": "pass",
+    "status": "pass"
+   },
+   {
+    "table": "mortgage_rates",
+    "check": "Null rate `rate_30yr` <= 10%",
+    "result": "pass (0.0%)",
+    "status": "pass"
+   },
+   {
+    "table": "mortgage_rates",
+    "check": "MoM change `rate_30yr` <= 20%",
+    "result": "pass (0)",
+    "status": "pass"
+   },
+   {
+    "table": "all",
+    "check": "City names match across tables",
+    "result": "skipped",
+    "status": "skipped"
+   }
+  ],
+  "tables": [
+   {
+    "name": "home_values",
+    "rows": 3531,
+    "first_month": "2000-01",
+    "last_month": "2026-09",
+    "cities": 11
+   },
+   {
+    "name": "mortgage_rates",
+    "rows": 667,
+    "first_month": "1971-04",
+    "last_month": "2026-10",
+    "cities": null
+   }
+  ],
+  "null_gaps": [
+   {
+    "table": "home_values",
+    "column": "zhvi",
+    "city": "Fountain Valley",
+    "month": "2004-03"
+   },
+   {
+    "table": "home_values",
+    "column": "zhvi",
+    "city": "Huntington Beach",
+    "month": "2004-03"
+   },
+   {
+    "table": "home_values",
+    "column": "zhvi",
+    "city": "Irvine",
+    "month": "2004-03"
+   }
+  ],
+  "not_loaded": [
+   "market_stats"
+  ],
+  "thresholds": {
+   "max_null_rate": 0.1,
+   "max_mom_change": 0.2
+  }
+ }
+}
