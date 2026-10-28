@@ -1,7 +1,9 @@
-import { GeistSans } from "geist/font/sans"
+import { Inter } from "next/font/google"
 import type { Metadata } from "next"
 import { ThemeProvider } from "next-themes"
 import "./globals.css"
+
+const inter = Inter({ subsets: ["latin"], variable: "--font-inter" })
 
 export const metadata: Metadata = {
   title: "Orange County Housing",
@@ -16,10 +18,12 @@ export default function RootLayout({
   return (
     <html lang="en" suppressHydrationWarning>
       <body
-        className={`${GeistSans.className} min-h-full bg-white antialiased dark:bg-gray-950`}
+        className={`${inter.variable} font-sans min-h-full bg-white text-gray-900 antialiased`}
       >
         <ThemeProvider
-          defaultTheme="system"
+          defaultTheme="light"
+          enableSystem={false}
+          forcedTheme="light"
           disableTransitionOnChange
           attribute="class"
         >

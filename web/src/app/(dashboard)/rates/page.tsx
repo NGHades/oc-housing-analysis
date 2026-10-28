@@ -21,6 +21,7 @@ export default function Rates() {
   return (
     <main>
       <PageHeader
+        eyebrow="03 / Mortgage Rates"
         title="Mortgage Rates"
         description="Freddie Mac 30-year fixed rate (via FRED), monthly average of weekly readings. National, not local."
       />

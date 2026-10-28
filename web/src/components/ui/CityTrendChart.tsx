@@ -35,7 +35,7 @@ export function CityTrendChart() {
               aria-pressed={on}
               onClick={() => toggle(city)}
               className={cx(
-                "rounded-md px-2.5 py-1 text-xs font-medium ring-1 ring-inset transition",
+                "rounded-full px-3 py-1.5 text-xs ring-1 ring-inset transition",
                 on
                   ? "bg-blue-50 text-blue-900 ring-blue-500/30 dark:bg-blue-400/10 dark:text-blue-400 dark:ring-blue-400/30"
                   : "text-gray-600 ring-gray-300 hover:bg-gray-50 dark:text-gray-400 dark:ring-gray-800 dark:hover:bg-gray-900",

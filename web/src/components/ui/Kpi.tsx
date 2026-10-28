@@ -14,9 +14,9 @@ export function Kpi({
 }) {
   return (
     <Card>
-      <p className="text-sm text-gray-500 dark:text-gray-500">{label}</p>
+      <p className="font-mono text-[10px] uppercase tracking-[0.14em] text-gray-500">{label}</p>
       <div className="mt-2 flex items-baseline gap-2">
-        <p className="text-3xl font-semibold tabular-nums text-gray-900 dark:text-gray-50">
+        <p className="font-display text-4xl font-normal tracking-[-0.06em] tabular-nums text-gray-900">
           {value}
         </p>
         {delta && (

@@ -4,9 +4,9 @@ export default function DashboardLayout({
   children,
 }: Readonly<{ children: React.ReactNode }>) {
   return (
-    <div>
+    <div className="min-h-screen bg-gray-50">
       <Navigation />
-      <div className="mx-auto max-w-7xl px-4 py-10 sm:px-6">{children}</div>
+      <div className="mx-auto max-w-[1400px] px-5 pb-24 pt-16 sm:px-10">{children}</div>
     </div>
   )
 }

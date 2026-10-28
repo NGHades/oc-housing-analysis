@@ -22,6 +22,7 @@ export default function Cities() {
   return (
     <main>
       <PageHeader
+        eyebrow="02 / Cities"
         title="Cities"
         description={`Zillow ZHVI as of ${monthLabel(housing.latest_price_month)}. Divergence is each city's 5-year change minus the average city's, in percentage points.`}
       />
@@ -55,7 +56,7 @@ export default function Cities() {
                         <div
                           className={cx(
                             "absolute inset-y-0 rounded",
-                            r.divergence_5y_pp >= 0 ? "left-1/2 bg-blue-500" : "right-1/2 bg-amber-500",
+                            r.divergence_5y_pp >= 0 ? "left-1/2 bg-blue-500" : "right-1/2 bg-gray-900",
                           )}
                           style={{ width: `${(Math.abs(r.divergence_5y_pp) / maxAbs) * 50}%` }}
                         />

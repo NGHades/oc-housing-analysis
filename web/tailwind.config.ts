@@ -11,6 +11,41 @@ const config: Config = {
   ],
   theme: {
     extend: {
+      colors: {
+        // Neutral ink/paper scale: 50 = paper, 200 = hairline, 900 = ink
+        gray: {
+          50: "#f8f9fb",
+          100: "#f4f6f8",
+          200: "#e7e7e7",
+          300: "#d5d9de",
+          400: "#98a1aa",
+          500: "#6b6b6b",
+          600: "#555555",
+          700: "#333333",
+          800: "#1f1f1f",
+          900: "#111111",
+          950: "#0a0a0a",
+        },
+        // Soft-blue accent built around #88abda
+        blue: {
+          50: "#f5f8fc",
+          100: "#eef4fb",
+          200: "#d5e2ef",
+          300: "#a9c8eb",
+          400: "#98b8e0",
+          500: "#88abda",
+          600: "#5b78a0",
+          700: "#55799f",
+          800: "#3f5a7b",
+          900: "#2f4561",
+          950: "#1f2f43",
+        },
+      },
+      fontFamily: {
+        sans: ["var(--font-inter)", "ui-sans-serif", "-apple-system", "BlinkMacSystemFont", "Segoe UI", "Arial", "sans-serif"],
+        display: ['"Helvetica Neue"', "Helvetica", "Arial", "sans-serif"],
+        mono: ['"SFMono-Regular"', "Consolas", '"Liberation Mono"', "monospace"],
+      },
       keyframes: {
         hide: {
           from: { opacity: "1" },

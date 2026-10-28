@@ -23,6 +23,7 @@ export default function Overview() {
   return (
     <main>
       <PageHeader
+        eyebrow="01 / Overview"
         title="Overview"
         description={`Home values through ${monthLabel(housing.latest_price_month)} across ${housing.cities.length} Orange County cities. Descriptive only; not a forecast.`}
       />
@@ -55,7 +56,7 @@ export default function Overview() {
 
       <section className="mt-8">
         <Card>
-          <h2 className="font-semibold text-gray-900 dark:text-gray-50">
+          <h2 className="font-mono text-[10px] uppercase tracking-[0.14em] text-gray-500">
             Indexed home values (start = 100, {monthLabel(housing.indexed[0].month as string)})
           </h2>
           <div className="mt-4">
@@ -64,9 +65,24 @@ export default function Overview() {
         </Card>
       </section>
 
+      <section className="mt-8 rounded-[14px] bg-gray-900 px-8 py-16 text-white sm:px-14 sm:py-24">
+        <p className="font-mono text-[10px] uppercase tracking-[0.14em] text-gray-400">
+          Five-year picture
+        </p>
+        <p className="mt-7 max-w-4xl font-display text-4xl font-normal leading-[0.98] tracking-[-0.07em] sm:text-6xl">
+          {leaders[0].city} and {leaders[1].city} rose most over five years.{" "}
+          <span className="text-[#7e8992]">
+            {laggards[0].city} and {laggards[1].city} rose least.
+          </span>
+        </p>
+        <p className="mt-8 max-w-xs text-[13px] leading-[1.7] text-[#aeb6bc]">
+          Descriptive comparison of Zillow ZHVI changes across {housing.cities.length} cities. Not a forecast, and not a causal claim.
+        </p>
+      </section>
+
       <section className="mt-8 grid gap-4 lg:grid-cols-3">
         <Card>
-          <h2 className="font-semibold text-gray-900 dark:text-gray-50">Strongest 5-year growth</h2>
+          <h2 className="font-mono text-[10px] uppercase tracking-[0.14em] text-gray-500">Strongest 5-year growth</h2>
           <ul className="mt-3 space-y-2 text-sm">
             {leaders.map((c) => (
               <li key={c.city} className="flex justify-between">
@@ -77,7 +93,7 @@ export default function Overview() {
           </ul>
         </Card>
         <Card>
-          <h2 className="font-semibold text-gray-900 dark:text-gray-50">Weakest 5-year growth</h2>
+          <h2 className="font-mono text-[10px] uppercase tracking-[0.14em] text-gray-500">Weakest 5-year growth</h2>
           <ul className="mt-3 space-y-2 text-sm">
             {laggards.map((c) => (
               <li key={c.city} className="flex justify-between">
@@ -88,7 +104,7 @@ export default function Overview() {
           </ul>
         </Card>
         <Card>
-          <h2 className="font-semibold text-gray-900 dark:text-gray-50">Data status</h2>
+          <h2 className="font-mono text-[10px] uppercase tracking-[0.14em] text-gray-500">Data status</h2>
           <p className="mt-3 text-sm text-gray-700 dark:text-gray-300">
             {passing} of {quality.checks.length} checks passing
             {failing > 0 && `, ${failing} failing`}.

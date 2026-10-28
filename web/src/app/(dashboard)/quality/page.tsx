@@ -37,13 +37,14 @@ export default function Quality() {
   return (
     <main>
       <PageHeader
+        eyebrow="04 / Data Quality"
         title="Data Quality"
         description={`Pipeline progress and validation results. Generated ${housing.generated}. Thresholds: null rate ≤ ${(quality.thresholds.max_null_rate * 100).toFixed(0)}%, month-over-month change ≤ ${(quality.thresholds.max_mom_change * 100).toFixed(0)}%.`}
       />
 
       <section className="grid gap-4 lg:grid-cols-2">
         <Card>
-          <h2 className="font-semibold text-gray-900 dark:text-gray-50">
+          <h2 className="font-mono text-[10px] uppercase tracking-[0.14em] text-gray-500">
             Pipeline progress ({done} of {progress.length})
           </h2>
           <ul className="mt-3 space-y-2 text-sm">
@@ -59,7 +60,7 @@ export default function Quality() {
           </ul>
         </Card>
         <Card>
-          <h2 className="font-semibold text-gray-900 dark:text-gray-50">Loaded tables</h2>
+          <h2 className="font-mono text-[10px] uppercase tracking-[0.14em] text-gray-500">Loaded tables</h2>
           <ul className="mt-3 space-y-3 text-sm">
             {quality.tables.map((t) => (
               <li key={t.name}>
@@ -111,7 +112,7 @@ export default function Quality() {
       {quality.null_gaps.length > 0 && (
         <section className="mt-8">
           <Card>
-            <h2 className="font-semibold text-gray-900 dark:text-gray-50">Issues kept for review</h2>
+            <h2 className="font-mono text-[10px] uppercase tracking-[0.14em] text-gray-500">Issues kept for review</h2>
             <p className="mt-1 text-sm text-gray-600 dark:text-gray-400">
               Null values are kept as null, not imputed.
             </p>
